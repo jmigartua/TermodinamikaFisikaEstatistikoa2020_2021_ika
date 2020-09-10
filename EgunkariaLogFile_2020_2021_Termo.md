@@ -108,7 +108,7 @@ $\require{\graphicx}$
     - *[prozesuren]*$_{3}$ bat *[martxan jartzen]*$_{4}$ da    
     - *[iragarri]*$_{5}$ behar da zer bukaerako oreka-egoeratan bukatuko duen sistemak  
 
-  Azpiindizedunek azaldu beharreko kontzeptuak dira, horiek dira hain zuen ere teoria eraiki ahala argituz joango direnak: zer den sistema eta nola definituta dagoen, zer den oreka-egoera, zer den eta zer ez den prozesua, nola definitu behar den; zer esan nahi duen prozesua martxan jartzeak eta nola iragarri behar den, zer tresna dagoen iragartzeko.    
+  Azpiindizedunak dira azaldu beharreko kontzeptuak, horiek dira hain zuen ere teoria eraiki ahala argituz joango direnak: zer den sistema eta nola definituta dagoen, zer den oreka-egoera, zer den eta zer ez den prozesua, nola definitu behar den; zer esan nahi duen prozesua martxan jartzeak eta nola iragarri behar den, zer tresna dagoen iragartzeko.    
 
 <!---
 
