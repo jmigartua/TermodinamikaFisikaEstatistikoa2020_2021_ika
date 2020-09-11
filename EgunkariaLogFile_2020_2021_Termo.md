@@ -81,21 +81,36 @@ $\require{\graphicx}$
 
 - 1.1 [Sistema eta ingurunearen deskripzioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/01_02_02.pdf):    
 
-   - sistema   
-   - ingurunea   
+   - **sistema**   
+     sistematzat hartzen da aztertu nahi dena: *gure interesa duena*   
+   - **ingurunea**   
+     sistema ez den guztia, ingurunea da   
+
+     - Sistemaren azterketa egiteko, sistemari buruzko informazioa eskura izan behar dugu; agian, ez dena, baina zerbait bai.    
+     - Inguruneaz zerbait jakin behar da. Formalismoak ez du ezerberdintzen sistema eta ingurunea, biak dira sistema termodinamikoak. Aztertzerako orduan erabakiko da zein den bat eta zein bestea.
+
    - sistemaren deskripzioa   
-     - makroskopikoa: ***koordenatu termodinamikoak***   
-     - mikroskopikoa
-     - irizpideen arteko lotura    
-     koordenatu termodinamiko estentsibo/intentsibo
 
-  `Iruzkinak`:    
+     1. irizpide makroskopikoa: ***koordenatu termodinamikoak***   
 
-    - Edozein sistemaren deskribapenean parte hartzen duen koordenatu termodinamikok *izaera* dauka: masarekiko mendekotasuna dauka edo ez. Badauka, *estentsiboa* da eta ez badauka, *intentsiboa*.    
+         - Edozein sistema makroskopikoren azterketa egiteko bere *propietate makroskospiko* batzuk aintzakotzat hartu behar dira; *dentsitatea*, *konposizioa*, *presioa*... Eta horiekin lotuta, aldagai termodinamikoak aukeratzen dira. Aldagaiak dira deskripzioa egiteko erabiltzen direnak: matematikaren zentzuan, hots, aldagai matematikotzat hartuko dira. Edozein sistema termodinamikoren deskribapena egiteko erabiltzen den aldagairi *koordenatu termodinamiko* deritzo; horien bidez eraikiko dira *sistemen espazio termodinamikoak* (Mekanikako faseen espazioen modukoak) eta horietan adieraziko dira sistemen *egoerak*, **oreka-egoerak** haiek.    
 
-    - Edozein *askatasun-gradurekin* lotuta beti daude bi koordenatu termodinamiko, konjokatuak haiek (mekanikako *konjokatu* kontzeptuaren zentzuan), bata intentsiboa eta beste estentsiboa, izaeraz. Horien bidez soilik eraikiko da askatasun-gradu horrekin lotutako energiarako ekarpena, lehenengo printzipioan parte hartuko duena, ikusiko denez.     
+     2. irizpide mikroskopikoa    
+       irakasgaiaren 2. zatian (2. partzialean) zehaztuko da     
 
-    - Aldagaieren batek masarekiko mendekotasuna duen edo ez duen jakiteko, honako hau egin behar da: aztergai den sistemaren, dagoen egoeran, *kopia (mentala)* egin eta haren aldamenean ezarri (mentalki), sistemak eta kopiak sistema konposatu osoa osatzeko asmoz. Sistema konposatuaren egoera berria definitzen dituzten aldagaiak aztertu behar dira, ondoren. Esaterako, *masa* bikoiztu egin da, jakina; eta *bolumena* ere bai, beraz, bolumena estentsiboa da. Eta *presioa*?...presioa intentsiboa da.    
+     - irizpideen arteko lotura: irizpideak erabat ezberdinak dira:   
+       - materia jarraitua da lehenengoaren kasuan; bigarrenean, ez jarraitua, hots, *partikula osatzailez osatua*    
+       - lehenengoan, propietateen kopurua ($\to$ aldagaien kopurua) txikia da; bigarrenean, izugarri handia, Avogadro-ren zenbakiaren tamainakoa: $\sim 10^{23}$ ordenakoa
+
+     - koordenatu termodinamiko ***estentsibo/intentsibo***    
+
+       `Iruzkinak`:    
+
+        - Edozein sistemaren deskribapenean parte hartzen duen koordenatu termodinamikok *izaera* dauka: masarekiko mendekotasuna dauka edo ez. Badauka, *estentsiboa* da eta ez badauka, *intentsiboa*.    
+
+        - Edozein *askatasun-gradurekin* lotuta beti daude bi koordenatu termodinamiko, konjokatuak haiek (mekanikako *konjokatu* kontzeptuaren zentzuan), bata intentsiboa eta beste estentsiboa, izaeraz. Horien bidez soilik eraikiko da askatasun-gradu horrekin lotutako energiarako ekarpena, lehenengo printzipioan parte hartuko duena, ikusiko denez.     
+
+        - Aldagaieren batek masarekiko mendekotasuna duen edo ez duen jakiteko, honako hau egin behar da: aztergai den sistemaren, dagoen egoeran, *kopia (mentala)* egin eta haren aldamenean ezarri (mentalki), sistemak eta kopiak sistema konposatu osoa osatzeko asmoz. Sistema konposatuaren egoera berria definitzen dituzten aldagaiak aztertu behar dira, ondoren. Esaterako, *masa* bikoiztu egin da, jakina; eta *bolumena* ere bai, beraz, bolumena estentsiboa da. Eta *presioa*?...presioa intentsiboa da.    
 
 - 1.2 [Termodinamikaren helburua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/01_03_03.pdf)     
 
@@ -110,34 +125,63 @@ $\require{\graphicx}$
 
   Azpiindizedunak dira azaldu beharreko kontzeptuak, horiek dira hain zuen ere teoria eraiki ahala argituz joango direnak: zer den sistema eta nola definituta dagoen, zer den oreka-egoera, zer den eta zer ez den prozesua, nola definitu behar den; zer esan nahi duen prozesua martxan jartzeak eta nola iragarri behar den, zer tresna dagoen iragartzeko.    
 
+
+
+-----------------------
+
+**Sep2020-10**  (1.0 -  3.0; guztira  3.0)
+
+
+
+
+- 1.3 [Sistemaren **oreka-egoera**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/01_04_04.pdf)      
+
+   - koordenatu termodinamiko independenteak     
+     Esperientziaren arabera, zenbait sistemaren kasuan, haren deskribapenean parte hartzen duten aldagai termodinamiko batzuen balioak era independenteak aldatu daitezke sistemaren egoera aldatu gabe: aldagai horiei independente deritzo.   
+
+   - **oreka-egoera orokorra**: (sistema-horma-ingurunea) hirukotea     
+     >Sistema termodinamiko baten deskribapenean parte hartzen duten aldagai termodinamikoen balioak aldatzen ez diren kasuan, ***oreka-egoeran dago sistema***    
+
+      Edozein izan daiteke aipatutako aldagaien balioen aldaketaren jatorria, ikusiko denez: sistema bera, hots, berez gertatzen da aldaketa sistemaren barnean; baina, askotan, gehienetan, aldaketa dator sistema eta ingurunearen arteko elkarrekintzari esker. Hau da, sistema eta ingurunea banatzen dagoen bereizte-hormaren izaerak ahalbidetuko du, edo ez, benetan, elkarrekintza egoten eta, orduan, ingurunean gertatutako aldaketak islatuko dira sisteman; ingurunean gertatutako aldaketek eragina izango dute sistemaren aldagaien balioetan... Edo ez, bereizte-hormaren izaera bikoaren arabera    
+
+
+
+---------------------
+
+**2. Gaia: [Termodinamikaren Zero Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/2_Gaia_ZeroPrintzipioa/2_Gaia_ZeroPrintzipioa.md)**, 1Z    
+   [gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_01_05.pdf)      
+
+
+>- Aipatu denez, ***termo***n aztertuko diren sistemek orain arte Fisikan eta Mekanikan, esaterako, aztertu diren sistemekin alderatuta beste askatasun-gradu bat dute: ***askatasun-gradu termikoa***; hots, sistema termodinamikoek ahal izango dute energia trukatu *bero* moduan (era desordenatuan, ikusiko denez); ahal izango dute haien egoera aldatu energia bero moduan trukatuz.   
+>
+> - Orain arteko sistemetan ez dira aintzakotzat hartu beroaren bidezko energia-trukeak: askatasun-gradu termikoa ***izoztuta*** izan dute sistema horiek, ez du parterik hartu formalismoan. Hots, plano inklinatu baten goiko aldean dagoen masa askatutakoan aztertu beharreko prozesuan gertatu diren energia-trukeek energia potentzial grabitatorioa eta energia zinetikoa hartzen dute kontuan, agian marruskadura dago, baina inoiz ez da aztertu masa horren egora termikoa; inoiz ez da galdetu masaren tenperaturari buruz... Hemendik aurrera, egoera termikoak garrantzia izango du; hain zuzen ere, horixe formalizatuko da
+
+
+- 2.1 [Oreka(-egoera) ***termikoa***](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_02_06.pdf):     
+
+   - (sistema-horma-ingurunea) hirukotea, kasu berezia    
+   - bereizte-horma *adiabatikoa*, isolamendua     
+   - bereizte-horma *diatermoa*, isolamendu eza     
+
+   Oreka-egoera termikoa da oreka-egoeraren kasu berezia eta lortzen da bi sistema termodinamiko berezite-horma diatermoz banatutakoan berez lortzen duten oreka-egoera.    
+
+
+
+
+- 2.2 [Termodinamikaren Zero Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_03_07.pdf)    
+
+
 <!---
-
-
-- 1.3 [Sistemaren **oreka-egoera**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/01_04_04.pdf)
-   - koordenatu termodinamiko independenteak
-   - **oreka-egoera orokorra**: (sistema-horma-ingurunea) hirukotea
-
-**2. Gaia: [Termodinamikaren Zero Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/2_Gaia_ZeroPrintzipioa/2_Gaia_ZeroPrintzipioa.md)**, 1Z
-   [gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_01_05.pdf)
-- 2.1 [Oreka(-egoera) ***termikoa***](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_02_06.pdf):
-   - (sistema-horma-ingurunea) hirukotea, kasu berezia
-   - bereizte-horma *adiabatikoa*, isolamendua
-   - bereizte-horma *diatermoa*, isolamendu eza
 
 
 -----------------------
 ## 2. astea
 ---------
 
-**Sep2020-16**  (1.0 -  5.0; guztira  5.0)
+**Sep2020-14**  (1.0 -  5.0; guztira  5.0)
 
-**2. Gaia: [Termodinamikaren Zero Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/2_Gaia_ZeroPrintzipioa/2_Gaia_ZeroPrintzipioa.md)**, 1Z
-   [gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_01_05.pdf)
-- 2.1 [Oreka(-egoera) ***termikoa***](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_02_06.pdf):
-   - (sistema-horma-ingurunea) hirukotea, kasu berezia
-   - bereizte-horma *adiabatikoa*, isolamendua
-   - bereizte-horma *diatermoa*, isolamendu eza
-- 2.2 [Termodinamikaren Zero Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_03_07.pdf)
+
+
 - 2.3 Tenperatura kontzeptua
    - [esperientzian oinarritutako metodoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_04_08.pdf): *propietate komuna*
    - [matematikan oinarritutako metodoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_05_09.pdf): *balio komuna* (sistema-horma-ingurunea) hirukotea
