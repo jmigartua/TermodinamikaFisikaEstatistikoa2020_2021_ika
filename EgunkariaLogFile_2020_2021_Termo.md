@@ -171,7 +171,7 @@ $\require{\graphicx}$
 - 2.2 [Termodinamikaren Zero Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_03_07.pdf)    
 
 
-<!---
+
 
 
 -----------------------
@@ -182,44 +182,333 @@ $\require{\graphicx}$
 
 
 
-- 2.3 Tenperatura kontzeptua
-   - [esperientzian oinarritutako metodoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_04_08.pdf): *propietate komuna*
-   - [matematikan oinarritutako metodoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_05_09.pdf): *balio komuna* (sistema-horma-ingurunea) hirukotea
-      - lerro isotermoak
-      - lerro isotermikoek ez dute elkar ebakitzen
-        - egindako azalpenean, $S_{1}$ eta $S_{2}$ sistemetako lerro isotermo korrespondenteen formek ez dute berdin izan behar
-        - lerro isotermo korrespondenteak
-      - tenperatura
-- 2.4 [Sistemen tenperatura: tenperatura-eskala eta tenperaturaren neurketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_07_11.pdf),
-   - tenperaturaren balioa finkatzeko prozedura orokorra
+- 2.3 Tenperatura kontzeptua     
 
------------------------
+  Bi modutan ondorioztatuko da tenperatura kontzeptua: lehenengoan, laborategira joan eta esperimentuak egingo dira, hortik kontzeptua ondorioztatzeko. Bigarrenean, funtzio matematikoan baino ez dira erabiliko.   
 
-**Sep2020-17**  (1.0 -  6.0; guztira  6.0)
+1. [esperientzian oinarritutako metodoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_04_08.pdf): *propietate komuna*       
 
-- 2.4 [Sistemen tenperatura: tenperatura-eskala eta tenperaturaren neurketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_07_11.pdf),
-   - [gas idealaren tenperatura-eskala](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_08_12.pdf):
-     - [bolumen konstanteko termometroa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_13.pdf)
+   Onartuko da, inolako orokortasunik galdu gabe, aztertu beharreko sistemak 2 aldagai independente baino ez dauzkala; gainera, ondorioztatuko dena erabat orokorra izango denez, ez da erreferentziarik egingo sistema mota jakin bati; beraz, aldagai independenteak adierazteko $X$ eta $Y$ ikurrak erabiliko dira.      
 
-#### Iruzkinak
+   Bi aldagai independente horien bidez sistema deskribatuko da eta, horretarako, bi dimentsioko konfigurazio-espazioa erabiliko da. Konfigurazio-espazio horretan, sistemaren oreka-egoerak adieraziko dira. Definizioz, oreka-egoera da sistemaren egoera bat zeinean bere deskribapenean parte hartzen duten aldagai termodinamikoen balioak ez diren aldatzen. Beraz, konfigurazio-espazioko puntuek adieraziko dituzte sistemaren oreka-egoerak. Aztertzen ari den edibide jakinean, konfigurazio-espazioko puntuak adierazteko $X$ eta $Y$ aldagaien balio-bikoteak finkatu behar dira, honako hauek, esaterako: $\{X_{1},Y_{1}\}$.     
 
->1. $\beta$ parametroa *naturalagoa* da sistemen egoera termikoa ezaugarritzeko ohiko $T$ tenperatura bera baino.  [ikusi hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_14_Eranskina01.pdf)
+   Horrela definitutako bi sistema hartuko dira aintzakotzat: $A$ eta $B$ sistemak, eta horiek deskribatzeko independenteak diren aldagaien sortak dira: $\{X,Y\}$ eta $\{X',Y'\}$, esan bezala, inolako orokortasunik galdu gabe.    
+
+   Finkatu egingo da $A$ sistemaren oreka-egoera bat: $\{X_{1},Y_{1}\}$. Ondoren, $A$ eta $B$ sistemen artean berezite-horma diatermoa jarriko da. Esperientziaren arabera, aurkitu daiteke $B$ sistemaren oreka-egoera bat, $\{X'_{1},Y'_{1}\}$, zeinaren kasuan $A$ sistemaren $\{X_{1},Y_{1}\}$ oreka-egoera ez den aldatzen. Hots, horren kasuan, $A$ eta $B$ sistemak oreka-egoera termikoan daudela esango da.    
+
+   Esperientziaren arabera baita ere, honako hau posiblea da: $A$ bere horretan dagoela $\{X_{1},Y_{1}\}$ egoeran, aldatzea $B$ sistemaren aldagaien balioak, era independentean (aldagai independenteak baitira), $\{X'_{1},Y'_{1}\}$ balioetara, eta oraindik ere mantentzea bi sistemen arteko oreka-egoera termikoa. Hots, $\{X_{1},Y_{1}\}$ eta $\{X'_{1},Y'_{1}\}$, batetik; eta, bestetik, $\{X_{1},Y_{1}\}$ eta $\{X'_{2},Y'_{2}\}$ aldagaien balio-bikoteek adierazten dituzte $A$ eta $B$ sistemen oreka-egoera termikoan dauden egoerak.    
+
+   Puntu honetan aintzakotzat hartuz 0. Printzipioa, honako hau ondorioztatu daiteke: $\{X_{1},Y_{1}\}$ eta $\{X'_{1},Y'_{1}\}$ oreka termikoan daudenez (oreka termikoan dauden egoerak direnez, hobeto esateko); eta $\{X_{1},Y_{1}\}$ eta $\{X'_{2},Y'_{2}\}$, ere bai, orduan, $\{X'_{1},Y'_{1}\}$ eta $\{X'_{2},Y'_{2}\}$ oreka-egoera termikoan daude. Hots, ondorio orokorra da aurkitu direla $B$ sistemaren elkarren arteko oreka-egoera termikoan dauden bi egoera (konfigurazio-espazioko bi puntu) aldi berean $A$ sistemako egoera batekin oreka-egoera termikoan daudenak.    
+
+    >`Iruzkina`: Era independentean aldatzea da $\{X',Y'\}$ planoko (konfigurazio-espazioko) edozein puntutara *joatea*, aldatzea aldagaien balioak. Onartuko da aldaketa hori txikia dela, nahiz eta edozein motatakoa izan daitekeen, eta halere, ez da orokortasunik galduko.     
+
+   Orain arte burututako prozedura behin eta berriro errepikatu daiteke eta, beraz, aurkitu daitezke $B$ sistemaren $\{X'_{i},Y'_{i}\}$, $i \in [1,2,3,\cdots]$ nahi beste oreka-egoerak $A$ sistemaren $\{X_{1},Y_{1}\}$ egoerarekin oreka-egoera termikoan daudenak eta, hortaz, elkarren arteko oreka-egoera termikoan ere bai egongo direnak.     
+
+   Prozedura, bestera ere bai errepikatu daiteke: hots, abiapuntuan $B$ sistemaren oreka-egoera bat finkatuz, $\{X'_{1},Y'_{1}\}$ eta aurkituz $A$ sistemaren oreka-egoeren sorta bat, $\{X_{i},Y_{i}\}$, $i \in [1,2,3,\cdots]$, harekin oreka-egoera termikoan dagoena eta, beraz, elkarren arteko oreka-egoera termikoan daudenak.    
+
+    >`Iruzkina`: Liburuak aipatzen duen moduan, sistema edozein izanda ere, ez dago zertan onartzea prozeduretan aurkitu diren sortetako puntuek (oreka-egoera termikoek) konfigurazio-espazioko lerro jarraituak eratzen dituztenik, baina, esperientziaren arabera, horrela izaten da, normalean, gutxienez, konfigurazio-espazioko gune jakinetan. Ikusiko denez, konfigurazio-espazioko gune horietan *definituta* egongo dira, *baliagarriak izango dira* ***egoera-ekuazioak***.    
+
+   Hortaz, prozeduraren abiapuntua $A$ sisteman zein $B$ sisteman hartuta, elkarren arteko oreka-egoera termikoan dauden $\{X_{i},Y_{i}\}$, $i \in [1,2,3,\cdots]$ eta $\{X'_{i},Y'_{i}\}$, $i \in [1,2,3,\cdots]$ $A$ sistemaren egoera-sorta eta $B$ sistemaren egoera-sorta, hurrenez hurren, lortu dira. Sistemetako oreka-egoera termikoko sortei *lerro isotermo* deritzo. Sistemetako lerro isotermo bereko puntuek *zerbait dute komun*: oreka-egoera termiko berean dauden egoerak adierazten dituztela. Beste modu batean adierazita: oreka-egoera termikoan dauden egoerek sistemaren propietate komuna dute, aldagai independenteen edozein konbinaziotan badago zerbait aldatzen ez dena. Propietate komun horri ***tenperatura*** deritzo.    
+
+    >`Iruzkina`: Kontuz! Tenperatura ez da balioa bat, balio bakarra. Tenperatura de sistemen propietatea. Eta, propietatea den heinean, sistemaren deskribapenean parte hartzen duten aldagaien funtzio izango da; hots, tenperatura da *funtzio matematiko* baten bidez adieraziko den sistemen propietatea. Funtzio horrek balio jakina izango du sistemaren oreka-egoera termikoetan.    
+
+   Oreka-egoera termiko berbera adierazten dituzten sistemetako lerro isotermoei *lerro isotermo korrepsondente* deritzo.     
+
+   `Pentsatzeko`: **Lerro isotermoek ez dute elkar ebakitzen. Frogatu.**
+
+2. [matematikan oinarritutako metodoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_05_09.pdf): *balio komuna* (sistema-horma-ingurunea) hirukotea     
+
+   Oraingo honetan, prozedura matematiko hutsa erabiliko da tenperatura ondorioztatzeko. Aurreko prozeduran erabilitako hipotesi berberak erabiliko dira, bi aldagai independenteko bi sistema, batetik, eta, bestetik, 0. Printzipioa.    
+
+   Lehenik argituko da nola adierazi matematikoki bi sistemen bi egoeren arteko oreka termikoa. $A$ sistemaren $i$ egoera adierazteko $\{X^{A}_{i}, Y^{A}_{i}\}$ bikotea erabil daiteke; berdin antzekoa, $B$ sistemaren kasuan, $\{X^{B}_{j}, Y^{B}_{j}\}$. Aurreko prozeduraren arabera, $A$ eta $B$ sistemen egoeren sortak daude elkarren arteko oreka-egoera termikoan dauden egoerak adierazten dituztenak: lerro isotermoak eta lerro isotermo korrespondenteak, sistemen konfigurazio-espazioko *kurbak*, hots, $\{X,Y\}$ aldagai independenteez eraikitako funtzio matematikoak, $f_{A}=f_{A}(X^{A},Y^{A})$. Bi sistemetako propietate komuna adierazteko funtzio matematikoen berdintza planteatu behar da: konfigurazio-espazioko kurbek, sistemaren araberako gunetan hedatuko diren puntuen sortetako, koordenatu bikoteen sortetakoetan, propietate baten balioa berdina da:    
+
+   $$f_{A}(X_{A},Y_{A})=f_{B}(X_{B},Y_{B})$$    
+
+   Era esplizituan, eta inplizituki, funtzio inplizitua erabilita, honako hau idatz daiteke:    
+
+   $$f_{A,B}(X_{A},Y_{A};X_{B},Y_{B})=0$$    
+
+   Orduan, orokorrean, $A$ eta $B$ sistemen arteko oreka-egoera termikoa adierazteko modua da honako hau idaztea: $f_{A,B}(X_{A},Y_{A};X_{B},Y_{B})=0$. Eta, modu berean ere bai, $B$ eta $C$ sistemen artekoa, honako hau: $f_{B,C}(X_{B},Y_{B};X_{C},Y_{C})=0$.     
+
+   Aintzakotzat hartu bi funtzio inplizitu horiek eta bakandu, bietan, $C$ egoerari dagokion $Y$ aldagairen balioa egoera jakin batean, esaterako, honako hau: $Y_{C}$,    
+
+   $$\begin{array}{l} f_{A,C}\left(X_{A}, Y_{A} ; X_{C}, Y_{C}\right)=0  \quad \Rightarrow  \quad Y_{C}=g_{A,C}\left(X_{A}, Y_{A} ; X_{C}\right) \\ f_{B,C}\left(X_{B}, Y_{B} ; X_{C}, Y_{C}\right)=0 \quad \Rightarrow \quad Y_{C}=g_{B,C}\left(X_{B}, Y_{B} ; X_{C}\right) \end{array}$$    
+
+   Egoera berbera denez, aurreko biak berdindu daitezke:    
+
+   $$Y_{C}=g_{A,C}\left(X_{A}, Y_{A} ; X_{C}\right) = g_{B,C}\left(X_{B}, Y_{B} ; X_{C}\right)=Y_{C} $$    
+
+   Honako hau da ondorioa, hortaz: $\boxed{g_{A,C}\left(X_{A}, Y_{A} ; X_{C}\right) = g_{B,C}\left(X_{B}, Y_{B} ; X_{C}\right)}$, funtzio inplizitu moduan idatzita, honako hau da:   
+
+   $$g_{A,B,C}(X_{A},Y_{A};X_{B},Y_{B};X_{C})=0$$    
+
+   Har dezagun kontuan 0. Printzipioa: berdintza horrek adierazten du $A$ eta $B$ sistemen arteko oreka-egoera termikoa. Baina berori kontuan hartzeko modua da honako funtzio inplizitua idaztea: $f_{A,B}(X_{A},Y_{A};X_{B},Y_{B})=0$, zeinean, jakina, $A$ eta $B$ sistemen aldagai termodinamikoak baino ez diren agertzen. B funtzio inplizituek *oreka berbera adierazten dute*:   
+
+   $$\left. \begin{array}{l} f_{A,B}\left(X_{A}, Y_{A} ; X_{B}, Y_{B}\right)&=&0  \\ g_{A,B,C}(X_{A},Y_{A};X_{B},Y_{B};X_{C})&=&0 \end{array} \right\} \quad X_{C} \quad \textrm{soberan dago}$$    
+
+   Jakina, $X_{C}$ soberan dago, bi funtzio inplizituek adierazten baitute oreka-egoera termiko berbera, eta funtzio matematiko diren heinean, egoera berbera adierazten badute, $A$ eta $B$ sistemen aldagaien balioak edozein izanda (kurbetan, jakina) baina $C$ egoera berbera izanik, modu bakarra da $A$ eta $B$ sistemen aldagaien *konbiazio* izatea:   
+
+   $$f_{A,B}\left(X_{A}, Y_{A} ; X_{B}, Y_{B}\right) = g_{A,B,C}(X_{A},Y_{A};X_{B},Y_{B};X_{C})$$    
+
+   Baina horrek esan nahi duena da, edozein izan daitezkeenez (kurbetan esan bezala, jakina!) $A$ eta $B$ sistemetako aldagaien balioak, modu bakarra hori betetzeko da *banatuta egotea sistemetako aldagaiak sistemetan*, hots, honako hau izatea:   
+
+   $$h_{A}(X_{A},Y_{A})=h_{B}(X_{B},Y_{B})$$   
+
+   Abiapuntua $A$ eta $C$ sistemen arteko oreka-egoera termikoa eta $B$ eta $C$ sistemen arteko oreka-egoera termikoen artekoa izan beharrean, $A$ eta $B$ sistemen arteko oreka-egoera termikoa eta $C$ eta $B$ sistemen arteko oreka-egoera termikoen artekoa bada, ondorioa baliokidea da, honako hau:    
+
+   $$h_{A}(X_{A},Y_{A})=h_{C}(X_{C},Y_{C})$$   
+
+   Baina nahiz eta abiapuntuak ezberdinak izan, 0. Printzipioa kontuan hartuta, oreka-egoera termiko bakarra adierazten denez, benetako ondorio orokorra honako hau da:   
+
+   $$\boxed{h_{A}(X_{A},Y_{A})=h_{B}(X_{B},Y_{B})=h_{C}(X_{C},Y_{C})}$$   
+
+   Beraz, prozedura matematiko huts honen arabera oreka-egoera termikoetan dauden sistemek komun duten propietatea bere deskribapenean soilik parte hartzen duten aldagai termodinamikoen funtzio matematiko baten bidez adierazten da eta oreka-egoera termikoan funtzio matematikoak balio berbera dauka, horixe da hain zuzen aurreko adierazpeneko berdintzak adierazten duena.     
+
+   Honako hau da tenperatura:    
+
+   $${\color{red}{t}}=h_{A}\left(X_{A}, Y_{A}\right)=h_{B}\left(X_{B}, Y_{B}\right)=h_{C}\left(X_{C}, Y_{C}\right)$$    
+
+   Orokortuz, edozein $i \in \{A,B,C,\cdots\}$ sistemaren kasuan, bere deskribapenean parte hartzen duten aldagaien $\{X^{i},Y^{i},Z^{i},\cdots\}$ funtzioa soilik den $h_{i}=h_{i}(X^{i},Y^{i},Z^{i},\cdots)$ funtzio matematikoa definitu daiteke, sistemaren *tenperatura propietatea* adieraziko duena:    
+
+   $${\color{red}{t}}={\color{blue}{h}}_{{\color{magenta}{A}}}\left({\color{green}{X}}_{{\color{magenta}{A}}}, {\color{green}{Y}}_{{\color{magenta}{A}}}, {\color{green}{Z}}_{{\color{magenta}{A}}}, \cdots\right)=\ldots={\color{blue}{h}}_{{\color{magenta}{i}}}\left({\color{green}{X}}_{{\color{magenta}{i}}}, {\color{green}{Y}}_{{\color{magenta}{i}}}, {\color{green}{Z}}_{{\color{magenta}{i}}}, \ldots\right)=\cdots$$    
+
+   Sistemak, ${\color{magenta}{i}} \in \{{\color{magenta}{A}},{\color{magenta}{B}},{\color{magenta}{C}},\cdots\}$; aldagaiak, $\{{\color{green}{X}},{\color{green}{Y}},{\color{green}{Z}},\cdots\}$; eta funtzioak, ${\color{blue}{h}}$, ezberdinak izan daitezke eta, hala ere, oreka-eogera termiko berean, tenperaturaren ${\color{red}{t}}$ balioa berbera da.  
+
+   >Oreka-egoera termikoan badaude, tenperatura berean daude, funtzioak balio bakarra du, balio komuna, eta hori da lerro isotermoari dagokion propietate komunaren balioa.    
+
+   kontua da *jakitea* zer balio den hori; hots, zer balioren bidez adierazten den edozein oreka-egoera termiko. Balioak finkatzeko, tenperatura-eskala definitu behar da.
+
+-----------------
+
+**Sep2020-15**  (1.0 -  6.0; guztira  6.0)
+
+-----------------
+
+
+- 2.4 [Sistemen tenperatura: tenperatura-eskala eta tenperaturaren neurketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_07_11.pdf),     
+
+- tenperaturaren balioa finkatzeko prozedura orokorra     
+
+   Oreka-egoera termikoei (oreka termikoko egoerak) tenperaturaren balioa esleitzeko bost urratseko prozedurari segitu behar zaio beti. Ondoren, urratsez urrats aztertuko da prozedura.    
+
+   Prozedura orokorrean, ezagunak diren oreka termikoen bidez kalibratuta dagoen sistema bat erabiliko da: termometroa. Termometroa da sistema termodinamiko bat zeinaren propietate baten balioak lotu diren egoera termikoekin eta, ondorioz, propietatearen balioak ezagutuz argi dagoen zein den egoera termikoa.     
+
+   Prozedura orokorrak finkatuko du termometroa.    
+
+   1. **Sistema mota aukeratu, finkatu**   
+
+      Lehenik aukeratu behar da zer sistema termodinamiko orokor erabiliko den termometro moduan; hots, termometrotzat hartuko den sistemaren ezaugarriak, askatasun-graduak ezagutu behar dira, horiek finkatu dituzte propietateak eta, hortaz, propietate eta egoera termikoen arteko lotura.    
+
+      Jakina, edozein sistema termodinamiko orokor finkatu daiteke termometro gisa: gasa, solidoa, likidoa, gas paramegnetikoa, likido hastura, gas nobla... Aukeratze honek finkatuko ditu zer propietate lotu ahal izango diren egoera termikoekin.    
+
+      Orokorrean, sistema termodinamikoen deskribapenean parte hartzen duten aldagai termodinamikoak $\{X,Y,Z,\cdots\}$ izanik, sistema mota finkatzean, horietako batzuk finkatuko dira, honako hauek esaterako: $\{X,Y,Z\}$. Finkatu da, beraz, sistema mota eta harekin lotutako propietateen, aldagai termodinamikoen, sorta: $S=S(X,Y,Z)$.     
+
+   2. **Sistema konkretua aukeratu, finkatu**     
+
+      Behin, termometroa eraikitzeko gas bat izango dela aukeratutako sistema mota erabakitakoan, gasen artea zein gas erabiliko den finkatu behar da: neona, hidrogenoa, esaterako. Horrela, eraikiko den termometroak izango ditu gasen propietate orokorrekiko mendekotasuna baina, baita ere nitrogenoaren propietateekikoa, hori izatekotan aukeratutako gasa.     
+
+      Sistema mota jakina horretan sistema konkretua finkatzea da, orokorrean, honako hau: $S=S(X,Y,Z) \to S_{1}=S_{1}(X_{1},Y_{1},Z_{1})$.   
+
+      Hurrengo urratsetarako, orokortasunik galdu gabe, azterketak errazteko asmoz, bi aldagai baino ez duen sistema konkretua aukeratuko da; hots, honako hau izango da: $S_{1}=S_{1}(X_{1},Y_{1})$. Gainera, notazioa errazteko, $\square_{1}$ azpiindizea kendu egingo da, jakinik, dagoeneko aukeratuta dagoela sistema konkretua.    
+
+      Bi aldagai independenteko sistema erabiltzean, sistemari dagokion konfigurazio-espazioa bi dimentsiokoa da eta hari dagozkion *egoerak* (oreka-egoerak, nahiz eta diskurtsoa errazteko egoerak erabiliko den; baina, jakina, ***oreka-egoerak*** dira **beti**) dira, orokorrean, $X$ eta $Y$ aldagaiez osatuko planoko *puntuak*. Hobeto esateko: planoko puntu horiek adierazten dituzte aukeratutako sistemari dagozkion egoerak (oreka-egoerak). Eta puntuek adierazten dituzte oreka-egoerak haien koordenatuen balioak aldatzen ez diren bitartean, hori baita orekan egotea, ezer ez aldatzea.    
+
+   3. **Aldagai termometrikoa aukeratu, finkatu**     
+
+      Tenperatura kontzeptua definitzetik ondorioztatu daitekeen korolario bat honako hau da: edozein sistema termodinamikoren edozein (oreka-)egoera da oreka-egoera termikoa. Hots, esperientziaren arabera, oreka-egoeran dagoen sistema horretan beti aldatu ahal izango dira bere aldagai termodinamikoen balioak, era independentean, eta harekin ukipen termikoan, hots, bereizte-horma diatermo baten bidez banatuta, dagoen beste edozein sistemaren egoera, oreka-egoera, aldatu gabe.     
+
+      Orduan, edozein oreka-egoera bada oreka-egoera termikoa, edozein oreka-egoera beti da lerro isotermo baten puntua. Beste modu batean esanda: edozein oreka-egoeratatik beti pasatzen da lerro isotermo bat, oreka-egoera horren egoera termikoari dagokiona, jakina. *dagokiona* eta *jakina* horiek adierazi nahi dute ***bakarra dela***, frogatu duzuenez.     
+
+      Hankak lurrera ekarriz prozeduran: $X$ eta $Y$ aldagai independenteek osatzen duten planoko edozein puntutatik lerro isotermo bakarra pasatzen da.
+
+      Honen guztiaren beste korolario bat. Oreka-egoera berean dauden egoerez osatutako $\{X,Y\}$ planoko segidak direnez lerro isotermoak eta egoera termikoei lerro isotermo bakarra dagokienez, elkar ebakitzen ez diren lerro isotermikoz guztiz bete daiteke aipatutako planoa. Beste modu batean esanda: lerro isotermoak aldagai termodinamiko independentetzat har daitezke, haiek adierazteko erabiltzen den funtzioa, hobeto esateko.     
+
+      Prozedurara bueltatuz. Planoko edozein puntutatik pasatzen den lerro isotermoko edozein puntu aukeratu daiteke lerro isotermoa bera, horrek adierazten duen egoera termikoa, adierazteko. Dena dela, edozein lerro isotermikoren edozein puntu finkatzeak esan nahi du edozein egoera termiko finkatzeko $\{X,Y\}$ aldagaien bi balio, $\{x_{1},y_{1}\}$ finkatu beharko liratekeela. Errazagoa da bi balio finkatu beharrean, bakarra finkatzea; eta, bakarra finkatzeko modu errazena da planoko aldagaietako baten balioa finkatzea, konstante hartzea, eta horrek definitzen duen lerroaren eta lerro isotermo guztien arteko ebakidura-puntuak aukeratu lerro isotermoen egoera ordezkari gisa. Hortaz, egoera termikoari *segitzea* da $X$ aldagai termodinamikoaren balioei segitzea: era bakarrean, unibokoan, lotuta daude egoera termikoak eta $X$ aldagaiaren balioak; $X$ aldagaiari ***aldagai termometriko*** deritzo, egoera termikoarekin batera aldatuz baitoa.   
+
+   4. **Funtzio termometrikoa aukeratu, finkatu**    
+
+      Prozedura honen guztiaren helburua da egoera termikoei tenperaturaren balioak esleitzea.   
+      Dagoeneko, egoera termikoak finkatu dira, algai termometrikoa aukeratuz eta horren balioei erreparatuz.    
+      Egoera termikoen tenperaturaren balioak finkatzeko modu errazena da lotzea funtzio matematiko baten bidez aldagai termometrikoaren balioa eta temperaturaren balioa. Horrela, jakinda aldagai termometrikoaren balioa, funtzioan sartuz, lortuko da tenperaturaren balioa. Lotzeko erabiliko den funtzio horri deritzo **funtzio termometriko**.   
+
+      Lotzea egiteko modurik errazena da era linealean lotzea; hots, proportzionalak izatea aldagai termodinamikoa eta tenperatura (balioa):     
+
+      $$\theta(X)=a X$$     
+
+      Printzipioz, edozein sistemaren kasuan $h=(X,Y,Z,\cdots)$ tenperatura-funtzioa definitu daiteke; haren deskribapenean parte hartzen duten $\{X,Y,Z,\cdots\}$ aldagai termodinamikoen $h$ funtzio matematikoa.    
+
+      Honako hau egin denez:     
+
+      $$\{X,Y,Z,\cdots\} \to \{X,Y,Z\} \to S=S(X,Y,X) \Rightarrow S=S(X,Y)\to S_{1}=S_{1}(X_{1},Y_{1}={Y_{1}|}_{Y_{1}=Y_{0}})\equiv S_{1}=S_{1}(X_{1};Y_{0})$$    
+
+      Honakoa hau da lortu den tenperatura-funtzioa: $h_{S_{1}}=h_{S_{1}}(X_{1};Y_{0})$.    
+      Horri, eite jakina esleitu zaio, lineala (adierazpenak errazteko $\square_{1}$ azpiindizea desagertarazi da, orokortasunik galdu gabe):   
+
+      $$h=h(X;Y_{0})\equiv \theta(X;Y_{0})\Rightarrow \theta(X)=a X$$    
+
+      Tenperaturaren balio guztiz finkatzeko, funtzio termometriko erraz horretako proportzionaltasun-konstantearen balioa finkatu behar da.   
+
+   5. **Puntu *finkoak* aukeratu, finkatu**    
+
+      *Kalean* tenperaturatzat hartzen dena da formalizatu berri den *tenperatura funtzioaren balio bakarra, oreka-egoera termiko bati dagokiona*, egoera termikoa da kontzeptu garrantzitsua, hari lotzen zaion tenperaturaren balioa hautazkoa da, arbitrarioa. Hots, funtzio termometrikoko $a$ proportzionaltasun-konstantearen balioa aldatuta baina egoera termikoa aldatu gabe, tenperaturaren balioa aldatzen da.   
+
+      Horretan datza tenperaturaren balioaren finkatze arbitrarioa: $a$ proportzionaltasun-konstantea finkatzen da zenbait egoera termikoren tenperaturaren balioak *arbitrarioki* finkatuz. Eta, arbitrarioki finkatzeko baina era errepikagarrian, ezagunak, geldikorrak eta errepikagarri diren egoera termikoak aukeratzen dira eta horiei esleitzen zaie arbitrarioki tenperaturaren balioak. Modu horretan, finkatutako egoera termiko horretan dagoenean termometroa, tenperaturaren balioa finkatuta dagoenez: $\theta_{0}$ eta erraz ezaugarritu daitekeenez aldagai termometrikoaren balioa, neurtuz, oso erraza da ondorioztatzea $a$ parametroaren balioa:    
+
+      $$\theta\to\theta_{0} ;  X\to X_{0} \Rightarrow \theta_{0}=\theta(X_{0}) \Rightarrow \theta_{0}= a X_{0} \Rightarrow \boxed{a\equiv\frac{\theta_{0}}{X_{0}}}$$   
+
+      Beraz, edozein egoera termikoren tenperaturaren balioa finkatzeko aldagai termometrikoaren balioa neurtu eta funtzio termometrikoan txertatzea baino ez dago:   
+
+      $$\theta = \left[\frac{\theta_{0}}{X_{0}}\right]X$$     
+
+- tenperatura-eskala definitzeko prozedura orokorra
+
+   Tenperatura-eskala da tenperatura-balioen sorta arbitrarioa, egoera termikoei lotuta dagoena.   
+   Sorrarazteko, beharrezkoa da zenbait puntu finko finkatzea, horien tenperaturen balioak finkatzea  (aurreko prozedurako azken urratsa) eta horien artean tenperaturaren zenbat balio dagoen esatea; hots, tenperatura-unitatea finkatzea da.    
+
+   Adibidez, bi egoera termiko aukeratu dira, $\textrm{(e-t)}_{1}$ eta $\textrm{(e-t)}_{2}$ eta  eta horiei esleitu zaie arbitrarioki tenperaturaren balioak $\theta_{\textrm{(e-t)}_{1}}=\theta_{1}$ eta $\theta_{\textrm{(e-t)}_{2}}=\theta_{2}$.    
+
+
+
+- Gas idealaren tenperatura-eskala      
+
+   Ondoren, eta 2. Printzipioa aztertu arte eta haren ondorioetako bat, tenperatura-eskala absolutua definitu arte, gas idealen (gas idealaren) tenperatura eskala definituko da. Hots, prozedurari dagokionez, aukeratuta dago sistema mota, gasa; horren artean, sistema jakina, gas ideala; eta, segidan, ikusiko da zein diren aldagai termometrikoa, funtzio termometrikoa eta zer puntu finko finkatzen diren.      
+
+   Esan bezala, lortuko den tenperatura-eskalari gas idealen tenperatura-eskala deritzo eta tenperatura esperimentala izango da, absolutua ez den heinean; horrexegatik $\theta$ ikurraren bidez adieraziko da.    
+
+   Gas idealen tenperatura-eskala definitzeko oinarrizkoa den tresna aztertu behar da: *bolumen konstanteko termometroa*; horixe erabilita definituko da eskala. Oraindik ez da formalizatu ***gas ideala*** kontzeptua, halere, egingo den azterketarako beharrezkoa den gauza bakarra honako hau da: dentsitate oso txikiko gas da eta, horren ondorioz, haren deskribapenean parte hartzen duten aldagai termodinamikoen arteko erlazioa honako hau da: $pV=nRT$. Adierazpen horretan, $p$ da gasaren presioa, 40 atm baino txikiagoa izango dena beti; $V$ da gasa bera dagoen tangaren bolumena, hots, gasak beteko duen bolumena; $n$ da gasaren mol kopurua; $R$ da *gasen konstantea* (erabiliko diren unitateen araberakoa bera, ikus beherago); eta, $T$ gas idealaren tenperatura. Esan denez, oraindik, beste modu honetan idatzi behar da aurreko ekuazioa, zehatzago izateko:
+
+   $$\boxed{pV = nR\theta}$$     
+
+   `R konstantearen balioak`:   
+    > 1. $R = 0.08205746 \quad \frac{\textrm{atm L}}{\textrm{K mol}}$     
+    > 2. $R = 1.987207 \quad \frac{\textrm{cal}}{\textrm{K mol}}$     
+    > 3. $R = 8.314472 \quad \frac{\textrm{J}}{\textrm{K mol}}$     
+
+
+- [bolumen konstanteko termometroa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_13.pdf)     
+
+   - Aldameneko irudian agertzen da *bolumen konstanteko termometroa*.     
+   - Bere ezaugarri nagusia da bolumen konstanteko tanga bat daukala, zeinean sartuta dagoen aukeratu den gas ideala. Tanga hori jarriko da ukipen termikoan egoera termiko ezberdinetako erreferentziarako hartu den sistema baten egoerekin.     
+   - Tangan sartutako masa kantitatea konstante da, finkoa; beraz, gasaren bolumena eta masa (mol kopurua) konstanteak dira, eta, egoera termikoa aldatuz gero, goragoko ***(egoera-)ekuazio (mekaniko)aren***$^{*}$ arabera, presioa aldatuko da. Hortaz, egoera termikoei *segitzeko* presiori segitu behar zaio; hots, ***presioa da aldagai termometrikoa*** gas idelaren bolumen konstanteko termometroan.   
+   - $^{*}$ Testuinguru honetan, oraindik, ***ekuazio*** baino ez da erabili beharrean, *egoera-ekuazioa* zer den definitu gabe baitago. Dena dela, inportantea da zehatz izatea eta, horrexegatik adierazi da egoera-ekuazioa dela, ez baita edozein ekuazio.    
+
+- Honako hau da erabili beharreko prozedura gas idealen tenperatura-eskala ondorioztatzeko, bolumen konstanteko termometroa erabiliz.     
+
+   - **Finkatu egingo da gas ideal bat, demagun, helioa erabiliko dela**.
+
+     1. Esperimentalki lortzeko erraza den erreferentziarako egoera termiko bat, bakarra oraingoz, finkatuko da: uraren puntu hirukoitza, esaterako. Egoera horretan, ur puruaren hiru fase: solidoa, likidoa eta gasa, elkarren arteko orekan daude. Horixe da lehen puntu finkoa, zeinaren tenperaturaren balioa, beraz, arbitrarioki esleituko den: $273.16$ K.    
+
+     2. Gas idealaren, helioaren, mol kopurua finkatuko da eta sartuko da tangan.     
+
+     3. Termometroa ukipen termikoan jarriko da finkatutako egoera termikoarekin. Esan denez, presioa da aldagai termometrikoa, termometro honen kasuan; beraz, onartuta $p$ presioaren eta $\theta$ tenperaturaren arteko erlazio lineala dagoela $\theta \propto p$, honako hau idatz daiteke: $\theta= a p$ eta, finkatutako puntu finkoaren tenperaturaren balioaren arabera, $a$ proportzionaltasun konstantearen balioa, beste edozein egoera termikori dagokion tenperaturaren balioa esleitzeko balioko duena, honako hau da:    
+
+        $$\theta_{PH}= 273.16 \quad \theta = a p \Rightarrow \theta_{PH}= a p_{PH} \Rightarrow \boxed{a = \frac{\theta_{PH}}{p_{PH}}}$$    
+
+        Hots, gasa tangan dagoen presioa neurtuz, aurreko kasuan, eta uraren puntu hirukoitzaren egoera termikoaren tenperatura arbitrarioki esleituta dagoenez, $a$ proportzionaltasun-konstantearen balioa lortu da eta edozein egoera termikori dagokion tenperaturaren balioa izango da, beraz.    
+
+     4. Beste edozein egoera termikori ($\textrm{(e-t)}_{i}$) dagokion tenperatura lortu da: $\theta_{\textrm{(e-t)}_{i}}=\theta_{i}$.    
+     Horretarako, beste egoera termiko bat aukeratuko da, $\textrm{(e-t)}_{1}$, eta harekin jarriko da ukipen termikoan termometroa.    
+     Ukipenean jarritakoan, neurtuko da presioa eta $a$ balioa erabiliz lortuko da tenperatura, honako hau:  
+
+     $$\theta_{\textrm{(e-t)}_{1}}\equiv\theta_{1}=\left[\frac{\theta_{PH}}{p_{PH}}\right]p_{\textrm{(e-t)}_{1}}$$   
+
+     5. Lortutako tenperaturaren azken balio hori $\theta^{1}(p_{\textrm{(e-t)}_{1}})$ vs. $p^{1}_{\textrm{PH}}$ adierazpide grafikora eramango da.    
+
+    - Aurreko zerrendako 2., 3., 4. eta 5. puntuak errepikatuko dira.    
+     Kasu honetan, 2. puntuan tangan sartuko den helioaren kantitatea aurreko kasuan sartu dena baino txikiagoa izanik.    
+     Hirugarren puntua berdin-berdin errepikatuko da.   
+     Laugarren puntuan aukeratutako *beste egoera termiko* hori ere bai berbera izango da. Eta kasu honetan neurtuko den presioaren balioa aurreko kasuarekin alderatuta ezberdina izango da, tangan dagoen gasaren kopurua ezberdina, txikiagoa baita.    
+     Beraz, neurtu berri den presioaren balioa $\theta_{\textrm{(e-t)}_{1}}$ adierazpenean txertatuz gero, lortuko den balioa ezberdina izango da, ***nahiz eta egoera termikoa berbera izan***: $\theta^{2}(p_{\textrm{(e-t)}_{1}})$ tenperaturaren balioa, $p^{2}_{\textrm{PH}}$ presioaren balioaren bidez lortutakoa.     
+
+   - Berriro ere bai, aurreko urratsa errepikatuko da; hots, 2., 3., 4. eta 5. puntuak, baina tangan sartutako gasaren kantitatea oraindik ere txikiago eginez.    
+     Ondorio berbera izango da: nahiz eta egoera termikoa aldatu ez, lortuko den tenperaturaren balioa ezberdina da.    
+
+     Honako hau da behin eta berriro prozedura errepikatuz gero lortuko diren tenperaturaren balioak egoera termiko berberarekin lotuta, ia-ia tangan sartutako gasaren, helioaren, kantitatea nulua den kasuari dagokio $n.$ urratsa:   
+
+     $$\{\theta^{1}(p_{\textrm{(e-t)}_{1}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{1}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{1}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{1}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{1}}) [p^{n}_{\textrm{PH}}]\} $$    
+
+     $$\theta^{n}(p_{\textrm{(e-t)}_{1}})\equiv\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]$$    
+
+
+   - **Beste gas bat, argona esaterako, finkatuko da, eta orain arteko dena errepikatuko da.**   
+
+     Esperientziaren arabera, tanga sartutako argonaren kantitateekin lotutako eta aurreko egoera termiko berberaren kasurako tenperaturaren balioak ezberdinak dira; hots, ondorioztatutako azken tenperatura-balioen sortak badauka gasarekiko mendekotasuna.    
+
+     Gasek sorta bana dute:   
+
+     1. $\{\theta^{1}(p_{\textrm{(e-t)}_{1}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{1}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{1}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{1}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{1}}) [p^{n}_{\textrm{PH}}]\}_{\textrm{helio}}$    
+
+     2. $\{\theta^{1}(p_{\textrm{(e-t)}_{1}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{1}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{1}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{1}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{1}}) [p^{n}_{\textrm{PH}}]\}_{\textrm{argon}}$    
+
+     3. $\dots$    
+
+     4. $\{\theta^{1}(p_{\textrm{(e-t)}_{1}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{1}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{1}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{1}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{1}}) [p^{n}_{\textrm{PH}}]\}_{\textrm{beste edozein gas}}$     
+
+     Baina, esperientziaren arabera, ere bai, sorta horiekin lotutako gasaren kantitatea zero den kasuan lortutako tenperaturaren balioa **berbera** da; hots, limite horretan, edozein gasekin eta eogera termiko finkoari dagokion tenperaturaren balioa bakarra da.    
+
+     $$\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]|_{\textrm{helio}}=\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]|_{\textrm{argon}}=\dots=\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]|_{\textrm{beste edozein gas}}$$    
+
+     Ondorioz, honako hau betetzen da:    
+
+     $$\theta^{n}(p_{\textrm{(e-t)}_{1}})|_{\textrm{helio}}=\theta^{n}(p_{\textrm{(e-t)}_{1}})|_{\textrm{argon}}=\dots=\theta^{n}(p_{\textrm{(e-t)}_{1}})|_{\textrm{beste edozein gas}}\Rightarrow\boxed{ \theta(p_{\textrm{(e-t)}_{1}})\equiv\lim_{p_{\textrm{PH}}\to 0} [p_{\textrm{PH}}]_{\textrm{gas guztietarako}} }$$     
+
+   - **Aurreko guzti-guztia errepikatuko da, baina, oraingo honetan, egoera termikoa aldatuta**     
+
+     Esperientziaren arabera, tanga sartutako argonaren kantitateekin lotutako eta aurreko egoera termiko berberaren kasurako tenperaturaren balioak ezberdinak dira; hots, ondorioztatutako azken tenperatura-balioen sortak badauka gasarekiko mendekotasuna.    
+
+     Gasek sorta bana dute:   
+
+     1. $\{\theta^{1}(p_{\textrm{(e-t)}_{2}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{2}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{2}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{2}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{2}}) [p^{n}_{\textrm{PH}}]\}_{\textrm{helio}}$    
+
+     2. $\{\theta^{1}(p_{\textrm{(e-t)}_{2}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{2}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{2}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{2}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{2}}) [p^{n}_{\textrm{PH}}]\}_{\textrm{argon}}$    
+
+     3. $\dots$    
+
+     4. $\{\theta^{1}(p_{\textrm{(e-t)}_{2}}) [p^{1}_{\textrm{PH}}]; \quad\theta^{2}(p_{\textrm{(e-t)}_{2}}) [p^{2}_{\textrm{PH}}]; \quad\theta^{3}(p_{\textrm{(e-t)}_{2}}) [p^{3}_{\textrm{PH}}];\quad\theta^{4}(p_{\textrm{(e-t)}_{2}}) [p^{4}_{\textrm{PH}}]; \dots\quad \theta^{n}(p_{\textrm{(e-t)}_{2}}) [p^{n}_{\textrm{PH}}]\}_{\textrm{beste edozein gas}}$     
+
+     Baina, esperientziaren arabera, ere bai, sorta horiekin lotutako gasaren kantitatea zero den kasuan lortutako tenperaturaren balioa **berbera** da; hots, limite horretan, edozein gasekin eta eogera termiko finkoari dagokion tenperaturaren balioa bakarra da.    
+
+     $$\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]|_{\textrm{helio}}=\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]|_{\textrm{argon}}=\dots=\lim_{p_{\textrm{PH}}\to 0} [p^{n}_{\textrm{PH}}]|_{\textrm{beste edozein gas}}$$    
+
+     Ondorioz, honako hau betetzen da:    
+
+     $$\theta^{n}(p_{\textrm{(e-t)}_{2}})|_{\textrm{helio}}=\theta^{n}(p_{\textrm{(e-t)}_{2}})|_{\textrm{argon}}=\dots=\theta^{n}(p_{\textrm{(e-t)}_{2}})|_{\textrm{beste edozein gas}}\Rightarrow\boxed{ \theta(p_{\textrm{(e-t)}_{2}})\equiv\lim_{p_{\textrm{PH}}\to 0} [p_{\textrm{PH}}]_{\textrm{gas guztietarako}} }$$     
+
+   - **Ondorio orokorra:**    
+    >Edozein gasen kasuan, dentsitate oso txikiko limitean (gas ideala definitzen den baldintza esperimentaletan, edozein egoera termikori dagokion tenperaturaren balioa **bakarra** da; definitu daiteke, beraz, gasekiko mendekotasunik gabeko ***tenperatura-eskala***, **gas ideal(ar)en tenperatura-eskala**, baina gasen propietate orokorrekiko mendekotasuna duen eskala izanik.    
+
+
+
+
+- [gas idealaren tenperatura-eskala](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_08_12.pdf):    
+
+
+`Iruzkinak`
+
+>1. $\beta$ parametroa *naturalagoa* da sistemen egoera termikoa ezaugarritzeko ohiko $T$ tenperatura (absolutua) bera baino.  [ikusi hementxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_14_Eranskina01.pdf)
 >
 >2. [Tenperaturaren esangura (1)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_14_Eranskina02.pdf) eta [hauxe](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_14_Eranskina03.pdf)
 >
 >3. [Tenperaturaren esangura (2)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_14_Eranskina04.pdf)
 
 
+<!---
+
+
 **3. Gaia: [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/3_Gaia_EgoeraEkuazioa/3_Gaia_EgoeraEkuazioa.md)**, 2Z
 [gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_01_14.pdf)
 
-- 3.1 [Sistema termodinamiko bakuna (sinplea, hidrostatikoa)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_02_15.pdf)
+- 3.1 [Sistema termodinamiko bakuna (sinplea, hidrostatikoa)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_02_15.pdf)    
 
------------------------
 
-**Sep2020-18**  (2.0 -  8.0; guztira  8.0) (+1 aurreratuta)
 
-**1. Ordua**
+-----------------
+
+**Sep2020-17**  (1.0 -  6.0; guztira  6.0)
+
+-----------------
+
+
 
 **3. Gaia: [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/3_Gaia_EgoeraEkuazioa/3_Gaia_EgoeraEkuazioa.md)**, 2Z
 
@@ -234,6 +523,8 @@ $\require{\graphicx}$
 - 3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf)
 
 
+<!---
+
 **2. Ordua**
 
 - [3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf) gogorarazi]
@@ -245,11 +536,11 @@ $\require{\graphicx}$
 - Iruzkinak:
 
   - Beraz, bi koefiziente esperimentalen definizioen *azpian* egoera-ekuazio mekanikoa dago, hots: $V=V(T,p)$. Horren arabera, $T$ eta $p$ dira aldagai independenteak (askatasun-graduek bana dute esleituta).
-  - Aldagai independenteak edozein izan daitezte, nahiz eta masa konstanteko sistema hidrostatikoarekin lotutako askatasun-graduak *mekanikoa* eta *termikoa* diren, sistemaren deskribapenean parte hartzen duten edozein aldagai aukeratu daiteke (gure esku dago).
+  - Aldagai independenteak edozein izan daitezke, nahiz eta masa konstanteko sistema hidrostatikoarekin lotutako askatasun-graduak *mekanikoa* eta *termikoa* diren, sistemaren deskribapenean parte hartzen duten edozein aldagai aukeratu daiteke (gure esku dago).
   - Egoera-ekuazio mekanikoa beste edozein formatan adieraz daiteke; hau da, aukeratutako edozein aldagai termodinamikoen bikoteren funtzioan idatz daiteke:
   $$ V=V(T,p) \Leftrightarrow T=T(V,p) \Leftrightarrow p=p(T,V)$$
   - Aukeratutako forma batetik bestera bi modutan (gutxienez pasa daiteke):
-    - aukeratuako aldagai *dependentearen* adierazpen diferentzialean beste edozein aldagairen diferentziala bakanduz
+    - aukeratutako aldagai *dependentearen* adierazpen diferentzialean beste edozein aldagairen diferentziala bakanduz
     - deribatu partzialen arteko honako bi erlazio hauek erabiliz:
       - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv\frac{1}{\left(\frac{\partial Y}{\partial X}\right)_Z}$
       - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv -\frac{\left(\frac{\partial Z}{\partial Y}\right)_X}{\left(\frac{\partial Z}{\partial X}\right)_Y}$
@@ -257,7 +548,7 @@ $\require{\graphicx}$
   Batetik bestera bi noranzkotan pasa daiteke:
     - egoera-ekuaziotik koefiziente esperimentaletara: *deribatuz*
     - koefiziente esperimentaletatik egoera-ekuaziora: *integratuz*
-    ($+$ sistemaren oreka-egoeraren bat ezagutu beharko da, *integrazio-konstantearen balioa funkatzeko*)
+    ($+$ sistemaren oreka-egoeraren bat ezagutu beharko da, *integrazio-konstantearen balioa finkatzeko*)
   - Irudietan ia-ia berbera dago; baina, kontuz! ñabardura dago:
   - Prozesua eta Egoera-ekuazioa:
     - ![Prozesua eta Egoera-ekuazioa 1](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20_1.pdf)
@@ -281,8 +572,8 @@ $\require{\graphicx}$
 
 - Iruzkinak:
 
-  - Gaiaren helburua da *Termodinamikaren Lehen Printizpioaren adierazpen ondorioztatzea*.
-  - Orain arteko sistemek ez zuten askatasun-gradu termikoa eta energiaren kontzerbazioaren adierazpenean ez zegoen horrekin lotutako ekarpenik
+  - Gaiaren helburua da *Termodinamikaren Lehen Printzipioaren adierazpen ondorioztatzea*.
+  - Orain arteko sistemek ez zuten askatasun-gradu termikoa eta energiaren kontserbazioaren adierazpenean ez zegoen horrekin lotutako ekarpenik
     -  Termodinamikaren testuinguruan askatasun-gradu termikoa funtsezkoa da eta bere ekarpena kontuan hartu behar da ezinbestean
     -  Horixe da, beraz, helburua
   - Aztergai-sistema da masa konstanteko sistema hidrostatikoa, beraz, soilik bi askatasun-gradukoa den sistema, honako bi hauek:
@@ -290,7 +581,7 @@ $\require{\graphicx}$
       ***lan mekanikoa*** (definitzeko) baino ezin du egin
     - termikoa: sistema termikoki lotuta dago (elkarrekintza dauka, ...) ingurunearekin
       ***lan termikoa*** (definitzeko, beroa trukatuz aldatuko du bere egoera)
-  - Bi modu independente horien bidez alda dezake sistemak bere energia-edukia, bere egoera, *orokorrean, biak era independenatean erabiliz*
+  - Bi modu independente horien bidez alda dezake sistemak bere energia-edukia, bere egoera, *orokorrean, biak era independentean erabiliz*
     (Ez da inolako orokortasunik galduko, nahiz eta 2 askatasun-graduko sistema hidrostatikoa baino ez aztertu)
   - Egoera aldatzeko bi modu horien bidezko energiarako ekarpena lortu behar da
     - Prozesu kuasiestatikoak erabiliko dira horretarako
@@ -338,7 +629,7 @@ $\require{\graphicx}$
       $p$ dagokio sistema osoari, balio horren bidez sistemaren egoera mekanikoa ezaugarritzen da, ...
     - $dV$ da sisteman gertatu den bolumen-aldaketa (infinitesimala, diferentziala)
       Bolumen-aldaketa hori, sistemarena, ingurunearen kontrakoa da: batak galden duena besteak irabazten du
-      - Sistema *konprimitzen* bada ($dV<0$), ingurunea zalbadu delako da
+      - Sistema *konprimitzen* bada ($dV<0$), ingurunea zabaldu delako da
       - Sistema *zabaltzen* (handitzen) bada ($dV>0$), ingurunea konprimitu delako da
 - [adierazpen finitua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_03_25.pdf)
   - $\int\delta W\equiv W = -\int pdV$
@@ -360,8 +651,8 @@ $\require{\graphicx}$
 - 4.2 [**Lanaren orokortzea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_05_27.pdf)
   - lan mekanikoan erabili den definizio berbera erabiliko da, formari dagokionez
   - demagun askatasun-gradu mekanikoa ez den beste askatasun-gradu batekin lotutako lana (lanaren *abizena* izango da aipatutako askatasun-graduari dagokiona, jakina) idatzi nahi dela:
-    - askatasun-graduarekin lotuako aldagai **in**tentsiboa eta **es**tentsiboa direla $Y$ eta $X$, hurrenez hurren.
-    - lan mkanaikoarne kasuan $p$ eta $V$ aldagaien parekoak
+    - askatasun-graduarekin lotutako aldagai **in**tentsiboa eta **es**tentsiboa direla $Y$ eta $X$, hurrenez hurren.
+    - lan mekanikoaren kasuan $p$ eta $V$ aldagaien parekoak
     - lana da:
     $$\boxed{\delta W^{Y,X} =  YdX}$$
   - askatasun-gradua edozein motatako izan daiteke:
@@ -378,7 +669,7 @@ $\require{\graphicx}$
     $$\boxed{\delta W^{(\Delta, \bigcirc)}_{a-g} = \Delta d\bigcirc}$$
     - bat baino gehiagoko horiek mota berekoak izan daitezke, zein mota ezberdinekoak: edozein kasutan, ezaugarriek, askatasun-graduek ekarpen bana izango dute
     - bi askatasun-gradu mekanikoko adibidea:
-      bakoitzak bere aldetik, askastasun-graduak baitira
+      bakoitzak bere aldetik, askatasun-graduak baitira
       - mekanikoa 1: $(p, V)^1 \Rightarrow [\delta W^{p,V}_{mek} = -pdV]^1$
       - mekanikoa 2: $(p, V)^2 \Rightarrow [\delta W^{p,V}_{mek} = -pdV]^2$
     - guztira, lan osoa (guztizko lana) da bien batura:
