@@ -492,21 +492,63 @@ $\require{\graphicx}$
 >3. [Tenperaturaren esangura (2)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/02_10_14_Eranskina04.pdf)
 
 
-<!---
 
 
-**3. Gaia: [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/3_Gaia_EgoeraEkuazioa/3_Gaia_EgoeraEkuazioa.md)**, 2Z
-[gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_01_14.pdf)
+
+-----------------
+
+**Sep2020-16**  (1.0 -  7.0; guztira  7.0)
+
+-----------------
+
+
+- Proposatu ariketak, [honako hauek](https://upbeat-yonath-4a6aa2.netlify.app/termodinamika/termodinamika_ariketak/01_tenperatura.html).
+
+
+----------------------
+
+
+
+
+- **3. Gaia: [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/3_Gaia_EgoeraEkuazioa/3_Gaia_EgoeraEkuazioa.md)**, 2Z     
+[gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_01_14.pdf)       
+
+Dagoeneko, bi gai aztertu dira: Oinarrizko Kontzeptuak eta 0. Printzipioa. Horietan, hainbat kontzeptu plazaratu da eta, azterketa orokorra izan da, abstraktua, hots, inolako sistemari (ia-ia) erreferentzia egin gabe. Gai honetan, orokorrak diren beste kontzeptu batzuk definitzeko eta aztertzeko, sistemarik errazena definituko (beharko) da: **sistema sinplea/sistema bakuna/sistema hidrostatikoa**. Behin definituta, **oreka termodinamikoa** definituko da. Oreka termodinamikoa da oreka-egoeraren orokortzea, ikusiko denez, eta balio izango du edozein sistemaren kasuan, harek betetzea posible izango dituen prozesuak definitzea, era orokorrean. Ikusiko denez, eta aipatu izan denez, termo**dinamikan** $t$ denborak, hain oinarrizkoa dena 1. mailako Fisika Orokorrean eta 2. mailako Mekanikan, testuinguru hontan ez du parterik hartzen; hots, termo**estatika** izan beharko luke. Formalismotik aterako de $t$ denbora. Horretarako, *idealizatu* behar dira benetan izadian gertatzen diren prozesuak: benetako prozesuen **eredu-prozesuak** eraikiko dira eta horiek erabiliko dira benetan gertatzen direnak haien ordezkari gisa kalkuluak egiteko: ***prozesu kuasiestatikoak***. Nahiz eta abstrakzio hutsak izan guztiz erabilgarriak dira. Prozesu kuasiestatikoak definitzeko erabat beharrezkoak dira oreka termodinamikoko oreka-egoerak: horien segidak baino ez baitira izango haiek.     
+
+Aipatuko denez, benetan kalkuluak egin ahal izateko prozesuek izan behar dute **itzulgarri**, baina kontzeptu hori, 2. Printzipioa aztertzen den arte ez da definituko. Hala ere, eta liburuan esplizituki aipatzen den arren, gai honetatik aurrera erabiliko diren prozesuak badira itzulgarriak, ez soilik kuasiestatiko. Berdin dio: onartuko da kuasiestatiko baino ez direla, oraingoz. Ikusiko denez, itzulgarri izateko, prozesuak bi baldintza bete behar ditu: izan beharko du kuasiestatiko (oreka-egoeren segida, beraz) eta energia-barreiaketarik gabeko.   
+
+Dena dela, oraindik falta da gairen tituluko kontzeptua: **egoera-ekuazioa**. Egoera-ekuazioa da edozein sistemaren kasuan definituta dogoen eta haren deskribapenean parte hartzen duten aldagai termodinamikoen arteko ekuazio matematikoa; hots, aldagaien arteko erlazioa, lotura. Gainera, egoera-ekuazioak definitzen du sistemari dagokion oreka termodinamikoko egoeren izate-eremua. Edozein sistemarekin lotutako askatasun-graduek egoera-ekuazio bana izango dute; horrexegatik, ikusiko denez, askatasun-graduari erreferentzia egingo duen *abizena dute* egoera-ekuazioek. Hortaz, askatasun-gradu mekanikoarekin lotutako egoera-ekuazioa da ***egoera-ekuazio mekanikoa***; askatasun-gradu termikoarekin lotutakoa, ***egoera-ekuazio termiko***, adibidez.     
+
+Esan denez, egoera-ekuazioek definitzen dute sistemekin lotutako izate-eremua, izate-eremu orokorraren proiekzioa izan ere, aldagaien arteko lotura baten bidez adierazten dira matematikoki; baina, prozesu kuasiestatikoak (benetan gertatzen diren prozesuen ordezkariak) aldagai termodinamikoen arteko lotura moduan ere bai adierazten dira matematikoki. Kontuz hala ere, erabat ezberdinak dira: bereizketa egingo da eta argituko da.      
+
+Azkenik, egoera-ekuazioek sistemei buruzko informazioa *gordetzen* gordetzen dute: sistemekin lotutako ***koefiziente esperimentalak*** egoera-ekuazioetatik ondorioztatu daitezke, deribatuz baino ez, ikusiko denez. Hori horrela, laborategian, koefiziente esperimentalak neurtuz eta, ondoren, era egokian integratuz, egoera-ekuazioak lortu daitezke.    
+
+Honako hau da gai honetan aztertuko dena:    
+
+>1. Sistema termodinamiko bakuna: **sistema hidrostatikoa**    
+>2. **Oreka Termodinamikoa**   
+>     1. egoera-aldaketa $\leftrightarrow$ oreka-egoera, desorekatutako indarra   
+>     2. oreka motak    
+>        1. oreka mekanikoa   
+>        2. oreka termikoa    
+>        3. oreka kimikoa    
+>        4. $\dots$     
+>        5. oreka elektrikoa, magnetikoa, elastikoa....
+>     3. I Postulatua, *Callen* liburua    
+>3. **Egoera-ekuazioa**    
+>     1. egoera-ekuazioaren adierazpide grafikoa    
+>     2. egoera-ekuazioaren adierazpen matematikoa   
+>        1. egoera-ekuazioaren adierazpen diferentziala   
+>        2. egoera-aldaketa diferentzialak    
+>        3. **prozesu kuasiestatikoak**   
+>        4. koefiziente esperimentalak    
+>4. Zenbait iruzkin
+>     1. sistema konposatuak...
+
 
 - 3.1 [Sistema termodinamiko bakuna (sinplea, hidrostatikoa)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_02_15.pdf)    
 
 
-
------------------
-
-**Sep2020-17**  (1.0 -  6.0; guztira  6.0)
-
------------------
 
 
 
@@ -523,11 +565,8 @@ $\require{\graphicx}$
 - 3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf)
 
 
-<!---
 
-**2. Ordua**
 
-- [3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf) gogorarazi]
 
    - [koefiziente esperimentalak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_08_21.pdf): $\alpha$ eta $\kappa_{T}$
      - $\alpha\equiv\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{p}$
@@ -553,6 +592,9 @@ $\require{\graphicx}$
   - Prozesua eta Egoera-ekuazioa:
     - ![Prozesua eta Egoera-ekuazioa 1](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20_1.pdf)
 
+
+
+<!---
 
 -----------------------
 
