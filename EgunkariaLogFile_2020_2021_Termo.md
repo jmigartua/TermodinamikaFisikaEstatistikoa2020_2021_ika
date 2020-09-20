@@ -548,49 +548,167 @@ Honako hau da gai honetan aztertuko dena:
 
 - 3.1 [Sistema termodinamiko bakuna (sinplea, hidrostatikoa)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_02_15.pdf)    
 
+Sistema bakuna/sistema sinplea/sistema hidrostatikoa, sinonimoak dira sistema mota berbera adierazteko: hiru askatasun gradu baino ez duen sistema, honako hauek: mekanikoa, termikoa eta kimikoa. Liburuaren arabera, sistema hidrostatikoa da presio hidrostatikoa baino ezin duen egin sistema.     
+
+Edozein kasutan, eta edozein askatasun-graduren kasuan, beti bi aldagai termodinamiko daude lotuta askatasun-graduarekin, konjokatuak haiek mekanikako zentzuan, horietako bat da estentsiboa eta bestea, intentsiboa.    
+
+Bi horien bidez eraikitzen da askatasun-gradu horrek energiarako egiten duen ekarpena, ikusiko denez. Edozein kasutan, edozein askatasun-graduren kasuan, energiarako ekarpena beti da forma berekoa, honako hau:    
+
+$$\delta W_{\textrm{askatasun-gradu}} = Y_{\textrm{askastasun-gradu_Intentsibo}}\cdot dX_{\textrm{askastasun-gradu_Estentsibo}}$$     
+
+
+Sistema hidrostatikoaren *definizio-ezaugarriak* honako taula honetan laburbildu dira:      
+
+| Askatasun-gradua  | Algdagai Intentsiboa  | Aldagai Estentsiboa  | Energiarako Ekarpena  |   |
+|---|:---:|:---:|---:|---|
+| Mekanikoa  |  $p$ | $V$  | $\delta W_{\textrm{mek}}= -p\cdot dV$  |   |
+| Termikoa  |  $\theta$ ($T$) | [$S$]  | $\delta W_{\textrm{ter}}\equiv \delta Q= -T\cdot dS$  |   |
+|  Kimikoa |  [$\mu$] | $n$  | $\delta W_{\textrm{kim}}= \mu\cdot dn$  |   |
 
 
 
 
-**3. Gaia: [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/3_Gaia_EgoeraEkuazioa/3_Gaia_EgoeraEkuazioa.md)**, 2Z
+-----------------
 
-- 3.2 [Oreka **Termodinamikoa** (sistema sinplean, hidrostatikoan)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_03_16.pdf)
+**Sep2020-17**  (1.0 -  8.0; guztira  8.0)
 
-- 3.3 [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_04_17.pdf)
-  - egoera-ekuazioaren adierazpide grafikoen zenbait adibide
-[03_05_18.pdf](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_05_18.pdf)
-  - egoera-ekuazioaren adierazpide diferentziala
-[03_06_19.pdf](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_06_19.pdf)
-
-- 3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf)
+-----------------
 
 
+Sistema hidrostatikoak adierazteko honako adierazpide grafiko hauen modukoak erabiliko dira, ia-ia beti:    
+
+![]()     
+
+Zilindro bat erabiliko da eta hori ixten, pistoi bat. Zilindroak eta pistoiak osatzen dute *sistema* eta *ingurunearen* arteko *bereizte-horma* zeinaren *izaerak* finkatuko duen haien arteko *sistemaren askatasun-grauden bidezko lotura*. Hots, aztertu behar den sistema hidrostatikoa izanik, hiru askatasun-gradukoa bera, mekaniko, termiko eta kimikoa, orduan, bereizte-hormen izaerak horien moduko ezaugarriak izan beharko ditu, sistema eta ingurunea konektatu behar baditu behintzat. Konektatu zentzu orokorrean: ***askatasun-gradu jakinarekin lotutako elkarrekintza bere zehar pasatzen utziz*** (askatasun-gradu horri dagokionez **elkar ikusiko dute sistemak eta inguruneak**) edo ***ez utziz*** (askatasun-gradu horri dagokionez **ez dute elkar ikusiko sistemak eta inguruneak**).    
+
+Adibidez, askatasun-gradu mekanikoari erreparatuz, sistema eta ingurunearen arteko *lotura mekanikoa* pistoia higikorraren bidez ahalbidetuko da. Pistoia higikor izanik, sistema eta ingurunea mekanikoki elkar ikusiko dute: batean gertatzen bada aldaketa mekanikoren bat, besteak nabarituko du. Orduan, sistema hidrostatikoaren hiru askatasun-graduen kasuan, erabil daitezkeen hormak izango dira: finko edo higikor; adiabatiko edo diatermo; *zulorik gabeko* edo *zulodun*. Eta sistema edukiko duen tanga horretan horien edozein konbinazio erabil daiteke, sistema eta ingurunearen arteko lotura adierazteko. Ondoko irudian posibleak diren konbinazio denak adierazi dira:    
+
+![]()       
+
+Kontuan hartu behar da sistema dela soilik aipatutako tangan sartutakoa eta ingurunea, tangatik kanpo dagoen guztia, kanpoko lerro jarraituraino (ikus beherago). Tangak ez du parterik hartzen edozein sistemaren inongo azterketatan. Tangak helburu bakarra dauka: sistema bere baitan mantentzea, behar den moduan, ingurunearekin lotuz. Beraz, nolabait esatearren, eta nahiz eta irudikatuko den, *ikertzailearen buruan dagoen tramankulua baino ez dela pentsa daiteke*: buruko eredua da. Orduan, buruko eredua den heinean, burua erabiliz alda daiteke eta modu horretan pentsatu behar da edozein kasutan. Eredu honen arabera, edozein bereizte-hormaren ezaugarriak, buruan dauden bereizte-hormak haiek, buruz alda daitezke. Hau da, tanga hori adierazteko zilindro bat erabiliz gero, zilindro horren hormetako bat, bat-batean, pistoi bihurtu dezake ikertzaileak, higikor beraz, ordura arte zegoen sistema eta ingurunearen arteko lotura guztiz aldatuz. ***Bat-batekotasun*** hori benetakoa da: ez dago seinalerik, ez dago buruko prozesu horrekin lotutako denbora-tarterik, edo, nahi izanez gero, nulua da denbora-tartea.       
+
+Edozein iruditan, unibertsoa adierazteko, hots sistema gehi ingurunea, erabat isolatutako bikotea adierazteko, lerro jarraitua beti erabiliko da. Jakina, esan bezala, unibertsoa erabat isolatutako *sistema termodinamikoa* denez, lerro jarraitu horrek beti adieraziko du horma zurruna (behar beste) eta finkoa, adiabatikoa eta zulorik gabeko; gutxienez, sistema hidrostatikoak aztertzen diren bitartean.     
+
+Ariketa bakarrean izan ezik aztertuko diren sistema hidrostatikoek ***izoztuta*** izango dute askatasun-gradu kimikoa; hots, sistemak haien baitan mantentzen dituzten tangak beti izango dira zulorik gabekoak (edo ez dute onartuko erreakzio kimikorik gertatzea); ez dute ahalbidetuko sistema eta ingurunearen arteko lotura kimikorik; sistemak eta inguruneak ez dute, orokorrean esanda, masa trukatuko, masa aldatuko; masa konstantekoak izango dira, hortaz. (Aurreko esaldietan erabilitako adierazpenak baliokideak dira; era berean erabil daitezke.) Era efektiboan, beraz, aztertuko diren sistema hidrostatikoek bi askatasun-gradu baino ez dute izango: mekanikoa eta termikoa.     
 
 
 
-   - [koefiziente esperimentalak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_08_21.pdf): $\alpha$ eta $\kappa_{T}$
-     - $\alpha\equiv\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{p}$
-     - $\kappa_{T}\equiv-\frac{1}{V}\left(\frac{\partial V}{\partial p}\right)_{T}$
 
-- Iruzkinak:
+- 3.2 [Oreka **Termodinamikoa** (sistema sinplean, hidrostatikoan)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_03_16.pdf)      
 
-  - Beraz, bi koefiziente esperimentalen definizioen *azpian* egoera-ekuazio mekanikoa dago, hots: $V=V(T,p)$. Horren arabera, $T$ eta $p$ dira aldagai independenteak (askatasun-graduek bana dute esleituta).
-  - Aldagai independenteak edozein izan daitezke, nahiz eta masa konstanteko sistema hidrostatikoarekin lotutako askatasun-graduak *mekanikoa* eta *termikoa* diren, sistemaren deskribapenean parte hartzen duten edozein aldagai aukeratu daiteke (gure esku dago).
-  - Egoera-ekuazio mekanikoa beste edozein formatan adieraz daiteke; hau da, aukeratutako edozein aldagai termodinamikoen bikoteren funtzioan idatz daiteke:
-  $$ V=V(T,p) \Leftrightarrow T=T(V,p) \Leftrightarrow p=p(T,V)$$
-  - Aukeratutako forma batetik bestera bi modutan (gutxienez pasa daiteke):
-    - aukeratutako aldagai *dependentearen* adierazpen diferentzialean beste edozein aldagairen diferentziala bakanduz
-    - deribatu partzialen arteko honako bi erlazio hauek erabiliz:
-      - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv\frac{1}{\left(\frac{\partial Y}{\partial X}\right)_Z}$
-      - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv -\frac{\left(\frac{\partial Z}{\partial Y}\right)_X}{\left(\frac{\partial Z}{\partial X}\right)_Y}$
-  - Egoera-ekuazioan dagoen informazioa (fisikoa, sistemari buruzkoa, termodinamikak teoria moduan ezagutzen ez duena) eta berarekin lotutako 2 koefiziente esperimentaletan dagoena baliokideak dira.
-  Batetik bestera bi noranzkotan pasa daiteke:
-    - egoera-ekuaziotik koefiziente esperimentaletara: *deribatuz*
-    - koefiziente esperimentaletatik egoera-ekuaziora: *integratuz*
-    ($+$ sistemaren oreka-egoeraren bat ezagutu beharko da, *integrazio-konstantearen balioa finkatzeko*)
-  - Irudietan ia-ia berbera dago; baina, kontuz! ñabardura dago:
-  - Prozesua eta Egoera-ekuazioa:
-    - ![Prozesua eta Egoera-ekuazioa 1](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20_1.pdf)
+Sistema baten deskribapenean parte hartzen duten aldagai termodinamikoen balioak aldatzen ez diren heinean, sistema oreka-egoeran dago; horixe da oreka-egoeraren definizioa, egoera bat zeinean aldagai termodinamikoen balioak ez diren aldatzen. Dagoeneko askatasun gradu batekin lotutako oreka-egoera aztertu da: oreka-egoera termikoa. Horren kasuan, bi sistemen artean bereizte-horma diatermoa jarritakoan, esperientziaren arabera, sistemen aldagai termodinamikoen balioak aldatuz doaz, era askean, eta, halako batean, lortutako balioek konstante diraute, ordutik aurrera lortu dute sistemek oreka-egoera termikoa. Beste edozein askatasun-graduren kasuan berdin antzekoa esan daiteke, esaterako, askatasun-gradu mekanikoaren kasuan honako irudiaren bidez adieraziko da oreka mekanikoaren lortzea:   
+
+![]()      
+
+Sistema da ezkerreko irudiko pistoi finkoz itxitako zilindroan sartutako gasa. Pistoia finkatzeko, ikus daitekeenez, *topeak* ezarri dira. Gainera, zilindroaren eta pistoiaren hormak diatermoak dira (adiabatikoak ere bai izan zitezkeen), ikus daitekeenez. Aukera dago, mentalki, nahi izanez gero, zilindroaren barneko presioa neurtzeko, manometro baten bidez, jakina, gasaren egoera perturbatu gabe. Barneko presioa neurtu da eta handiagoa da kanpokoa baino. Esperientziaren arabera, presio-diferentzia horrek kanporatuko luke pistoia, onartuz zilindroaren hormak zurrunak eta finkoak direla eta pistoia librea izango litzatekeen baldintzatan. Baina aipatutako *topeek* konpentsatzen dute barneko eta kanpoko presio-diferentzia eta pistoia ez da kanporatzen.      
+
+Kasu hori oso berezia da, ***oreka-egoera lotua*** deritzo. Sistema eta ingurunearen aldagai termodinamikoen balioak ez dira aldatzen baina ezaguna da horien artean presio-diferentzia dagoela. Jakina, egoera hori bat dator oreka-egoeraren definizioarekin, balioak ez baitira aldatzen; baina, *lotua* da, aldaketa eza behartuta dagoelako baldintza esperimentalen bidez: izatez higikor den bereizte-horma, pistoia, ukipen mekanikoa ahalbidetzen duena sistema eta ingurunearen artean; kanpotik, topeen bidez, ez-higikor bihurtu da; efektiboki sistema eta ingurunearen arteko lotura mekanikoa apurtuz. Edo beste modu batean esanda: pistoia topeen bidez finkatuz, bereizte-hormaren izaera kontrako ezaugarrikoa izatera pasarazi da eta ukipen mekanikoa apurtu da, mekanikoki isolatu dira edo askatasun-gradu mekanikoa izoztu da. Edozein kasutan, oreka mekanikoa dago kanpotik ezarritakoa.     
+
+Topeak egon ezean eta presio-diferentzia mantentzekotan, pistoiak kanpora egingo luke, libreki, kokapen bat lortu arte, zeinean, ez dagoen barneko eta kanpoko presioen arteko diferentziarik. Hortaz, gasak eta inguruneak lortu dute elkarren arteko oreka-egoera, kasu honetan, ***mekanikoa***, askatasun-gradu mekanikoaren arteko lotura baitago haien artean, pistoi librearen bidezkoa bera. Horixe da goiko irudiko eskuin aldean adierazi den egoera: sistema eta ingurunea oreka-egoera mekanikoan daude, ez baitago aldagai termodinamikoen balioen aldaketarik. Gainera, oreka-egoera mekaniko hori era askean lortu da, pistoiari libreki eboluzionatzen (higitzen) utzi baitzaio, oreka-egoera lortu arte.     
+
+Deskribatu berri den eboluzionatzea ez da bakarra. Pistoia, izatez higikorra da, baina topeek ez-higikor bihurtzen dute efektiboki. Topeak kendutakoan, pistoiak berreskuratzen du bere benetako izaera eta librea da higitzeko, lotura mekanikoa ezarriz sistema eta ingurunearen artea, eta higituz libreki beste tope batzuk aurkitu arte, egotekotan. Egoera horretan, nahiz eta presio-diferentzia dagoen pistoian zehar, pistoia bera ez da higitzen, topeak daudelako, baina aldagai termodinamikoen balioak ez dira aldatzen, nahiz eta ez den aurreko kasuan lortu den bukaerako egoera mekanikoa lortu. Beheko irudiko eskuinean adierazi den bukaerako egoera, berriro, lotua da.      
+
+![]()      
+
+
+Deskribatu diren oreka-egoera lotuak edozein sistemaren edozein askatasun-graduren kasuan definitu daitezke. Hots, sistemaren eta ingurunearen arteko oreka-egoera termiko lotua definitu daiteke; horretan, haien artean kokatutako bereizte-horma adiabatikoa da eta, beraz, efektiboki ez ditu termikoki konektatzen: isolatuta daude aldagaien balioak aldatu gabe, oreka-egoeran, beraz, oreka-egoera termikoan.       
+
+Egiatan, oreka-egoera lotuak dira ***edozer, edozein prozesu, gertatzeko abiapuntuko egoerak***. Ikusi denez, oreka-egoera lotuak bidea ematen dio, apurtutakoan, sistemaren eta ingurunearen aldagaien balioen eboluzionatzeari; aipatutako apurtzeak benetako **desoreka** dakarrelako sistema eta inguruenaren artean. Esan denez, apurtzea buruarekin egiten da, ideala da bera; eta, beraz, *betiko apurtzea* izan daiteke (sorraraziz eboluzio librea, eboluzio askea, zeinaren ondorioz lortuko den oreka-egoera ez den lotua izango, beraz), edo era kontrolatuan egindako apurtzea izan daiteke. Era kontrolatuan horrek esan nahi du edozein luzeratako denbora-tarte mentala izan daitekeela *apurtzea*: mentalki denbora-tarte jakinean baino ez da izango sistemaren eta ingurunearen arteko bereizte-horma diatermo, aztertzailearen araberako lotura termiko efektiboa dago eta bukaeran lortzen den oreka-egoera termikoa ez da libreki lortuko litzatekeena. Askatasun-gradu termiakorekin lotutako apurtze termiko kontrolatua da askatasun-gradu mekanikoarekin lotutako topeen tartekatzearen baliokide.    
+
+Hauxe da honen guztiaren ondorioa: edozein sistemaren edozein askatasun-gradurekin beti definitu daitezke oreka-egoera lotu batetik era librean lortutako bi oreka-egoera: ***oreka-egoera lotua***, kanpotik behartutakoa bera; eta, ***benetako oreka-egoera***, bereizte-hormaren ezaugarriaren araberakoa bera.     
+
+Aztergai den sistemarekin lotutako askatasun-gradu ororekin lotutako oreka-egoerak betetzen direnean, sistema dago ***oreka-egoera termodinamikoan***. Oinarrizko Kontzeptuak gaian definitutako oreka-egoeraren orokortzea baino ez da oreka-egoera termodinamikoa. Orduan, sistema hidrostatikoa oreka-egoera termodinamikoan dagoela esango da aldi berean betetzen direnean oreka-egoera mekanikoa, termikoa eta kimikoa. Aztertuko diren sistema hidrostatikoak masa konstantekoak direnez, masa konstanteko sistema hidrostatikoak oreka-egoera termodinamikoan daude ziurtuta daudenean oreka-egoera mekanikoa eta termikoa. Termodinamika, *Termo**estatika** hobeto esateko, da oreka-egoera termodinamikoen arteko prozesu kuasi-estatikoen azterketa*; hots, **sistemen konfigurazio-espazioko oreka-egoera termodinamikoen ordezkari diren puntuen segiden azterketa**. Prozesu kuasi-estatikoak asmakizun hutsak dira, konfigurazio-espazioko segidak adierazi behar baitu benetako denborako eboluzioa, azken hori gertatzen da desorekaren bat dagoelako, baina konfigurazio-espazioak ez du onartzen desorekarik, buruz egindakoa ez bada, behintzat. Horixe da hain zuzen ere egiten dena:    
+
+>denborako eboluzio librearen ordez, konfigurazio-espazioko eboluzio lotua erabiltzen da, oreka-egoeratik oreka-egoerarako buruz egindako ***oreka-egoeratik ateratze (desorekatze infinitesimal) $-$ oreka-egoeraren berreskuratze***a (***orekatze infinitesimal***) bera.    
+
+Hurrengo adierazpide grafikoko konfigurazio-espazioko lerro jarraituak adierazten du prozesu kuasi-estatikoa.    
+
+![]()    
+
+Dena dela, erabat ondo definitzeko, hobeto esateko, prozesu kuasi-estitakoaren definizioa osatzeko **egoera-ekuazioa** definitu behar da, ondoko aztergaia.     
+
+
+-----------------
+
+**Sep2020-21**  (2.0 -  10.0; guztira  10.0)
+
+-----------------
+
+
+
+- 3.3 [Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_04_17.pdf)         
+
+  Esperientziaren arabera, edozein sistemaren deskribapenean parte hartzen duten aldagai termodinamikoak ez dira (denak) independenteak; hots, haien artean **loturak** daude, zenbait aldagai termodinamikoren balioak finkatuta, beste zenbait aldagairen balio finkatuta daude. Lotura horiek dira sistemaren araberakoak, hau da, sistemei buruzko informazioa barneratzen dute.   
+
+  Aldagai matematikoen arteko erlazioak, loturak adierazteko, funtzio matematikoak erabiltzen dira; gauza berbera, aldagai termodinamikoen kasuan, jakina: sistemei buruzko informazioa gordetzen dituzten aldagai termodinamikoen arteko loturei, funtzio matematikoen bidez adierazita haiek, ***egoera-ekuazio*** deritze.   
+
+  Funtzio matematiko diren heinean, bi modu orokorretan ager daitezke egoera-ekuazioak:  
+    - inplizituki: $f(X,Y,Z,\dots)=0$     
+    - esplizituki: $X=X(Y,Z,\dots)$    
+      Aurreko kasuan, $f$ funtzio inplizitutik $X$ bakandu da gainerakoen funtzioan. Hori ez da aukera bakarra, beste edozein aldagai, $Y$, $Z$, $\dots$ bakan daiteke, printzipioz, gainerakoen funtzioan.   
+
+  Orain arte, konfigurazio-espazioko edozein puntu izan da aztergai den sistemaren posiblea de oreka-egoera termodinamikoko egoeraren ordezkari. Konfigurazio-espazio definituta dago aldagai termodinamiko independenteen bidez. Horrexegatik, konfigurazio-espazioko edozein puntu da oreka-egoera bat(en ordezkari). Baina, agian, batzuetan, komeni da oreka-egoerak adieraztea independenteak ez diren aldagai termodinamikoen bidez, konfigurazio-espazio baten antzeko batean. Kasu honetan, esan denez, aldagai termodinamikoen arteko loturak daudenez, egoera-ekuazioak, sasi konfigurazio-espazio horretan dauden puntu denak ez dira sistemaren oreka-egoera termodinamikoen ordezkari: ordezkariak izango dira soilik egoera-ekuazioa betetzen dituztenak.    
+
+  Beraz, horrelako espazio batean egoera-ekuazioak aukeratzen ditu ordezkariak: soilik egoera-ekuazioa betetzen duten puntuak, hiru dimentsioko sasi espazioan egoera-ekuazioa funtzioak definitzen duen gainazalean daudenak dira oreka-egoeren ordezkari.    
+
+  Esaterako, beheko irudian, $A$ puntua dago $Z=Z(X,Y)$ funtzioak definitzen duen gainazalean; baina $B$ puntua, ez. $Z=Z(X,Y)$ funtzioa da egoera-ekuazioa, $X$ eta $Y$ aldagai termodinamiko independenteen arteko erlazioa.    
+
+  ![](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_04_17_gainazala.png)     
+
+
+- egoera-ekuazioaren adierazpide grafikoen zenbait adibide   
+[03_05_18.pdf](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_05_18.pdf)    
+
+![](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_05_18_adibidea.png)     
+
+- egoera-ekuazioaren adierazpide diferentziala   
+[03_06_19.pdf](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_06_19.pdf)     
+
+
+
+- 3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf)    
+   Gorago definitu da
+
+
+
+
+- [koefiziente esperimentalak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_08_21.pdf): $\alpha$ eta $\kappa_{T}$      
+
+     - $\alpha\equiv\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_{p}$   
+
+     - $\kappa_{T}\equiv-\frac{1}{V}\left(\frac{\partial V}{\partial p}\right)_{T}$    
+
+- `Iruzkinak:`   
+
+  - Beraz, bi koefiziente esperimentalen definizioen *azpian* egoera-ekuazio mekanikoa dago, hots: $V=V(T,p)$. Horren arabera, $T$ eta $p$ dira aldagai independenteak (askatasun-graduek bana dute esleituta).    
+
+  - Aldagai independenteak edozein izan daitezke, nahiz eta masa konstanteko sistema hidrostatikoarekin lotutako askatasun-graduak *mekanikoa* eta *termikoa* diren, sistemaren deskribapenean parte hartzen duten edozein aldagai aukeratu daiteke (ikertzailearen esku dago).   
+
+  - Egoera-ekuazio mekanikoa beste edozein formatan adieraz daiteke; hau da, aukeratutako edozein aldagai termodinamikoen bikoteren funtzioan idatz daiteke:   
+
+    $$ V=V(T,p) \Leftrightarrow T=T(V,p) \Leftrightarrow p=p(T,V)$$   
+
+    Adierazpen horiek guztiak baliokideak dira: denetan dago sistemari buruzko informazio berbera. Beti onartuko da, batetik bestera analitikoki pasatu daitekeela, nahiz eta hori ez den kasua egoera-ekuazio guztien kasua.
+
+  - Aukeratutako forma batetik bestera bi modutan (gutxienez pasa daiteke):    
+    - aukeratutako aldagai *dependentearen* adierazpen diferentzialean beste edozein aldagairen diferentziala bakanduz     
+    - deribatu partzialen arteko honako bi erlazio hauek erabiliz:     
+      - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv\frac{1}{\left(\frac{\partial Y}{\partial X}\right)_Z}$    
+      - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv -\frac{\left(\frac{\partial Z}{\partial Y}\right)_X}{\left(\frac{\partial Z}{\partial X}\right)_Y}$    
+  - Egoera-ekuazioan dagoen informazioa (fisikoa, sistemari buruzkoa, termodinamikak teoria moduan ezagutzen ez duena) eta berarekin lotutako 2 koefiziente esperimentaletan dagoena baliokideak dira.    
+  Batetik bestera bi noranzkotan pasa daiteke:    
+    - egoera-ekuaziotik koefiziente esperimentaletara: *deribatuz*    
+    - koefiziente esperimentaletatik egoera-ekuaziora: *integratuz*    
+    ($+$ sistemaren oreka-egoeraren bat ezagutu beharko da, *integrazio-konstantearen balioa finkatzeko*)   
+
+
+`Iruzkina:`      
+- Irudietan ia-ia berbera dago; baina, kontuz! ñabardura dago:    
+
+
+  - ![Prozesua eta Egoera-ekuazioa 1](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20_1.png)   
+
+  - ![Prozesua eta Egoera-ekuazioa 2](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_23_1.png)   
 
 
 
