@@ -711,6 +711,8 @@ Dena dela, erabat ondo definitzeko, hobeto esateko, prozesu kuasi-estitakoaren d
   - ![Prozesua eta Egoera-ekuazioa 2](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_23_1.png)   
 
 
+- Ariketak proposatu    
+
 
 <!---
 
