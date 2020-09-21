@@ -664,6 +664,52 @@ Dena dela, erabat ondo definitzeko, hobeto esateko, prozesu kuasi-estitakoaren d
 - egoera-ekuazioaren adierazpide diferentziala   
 [03_06_19.pdf](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_06_19.pdf)     
 
+Egoera-ekuazioa da, esan denez, edozein sistemaren kasuan bere deskribapenean parte hartzen duten aldagaien arteko lotura, existitzen den funtzio matematiko baten bidez adierazten dena eta, gainera, funtzio hori *jokabide onekotzat* hartzen da; hots, jarraitua eta deribagarria da, gutxienez aldagai termodinamikoek definitzen duten izate-eremuren batean (zenbait baldintza esperimentaletan, beraz).      
+
+Sistema hidrostatikoa, masa konstantekoa izanik, bi askatasun-gradukoa da eta egoera-ekuazio mekanikoa, gehienetan, $V=V(\theta,p)$ moduan adierazten da. Fisikoki, beraz, era independentean $\theta$ eta $p$ aldagaien balioak finkatuz, $V$ bolumenaren balioa bakarra da. Finkatze horrek definitzen du sistema horren oreka-egoera termodinamikoa, orain artekoaren laburbilduma. Oreka-egoera horretan dagoela, sistemak ezin du ezer egin: bertan iraungo du. Hala ere, definitu da prozesu kuasi-estatikoa, zeinean, mentalki eramaten da sistema oreka-egoera batetik horretatik gertu-gertu dagoen (*gertutasuna* da nahi bestekoa) beste oreka-egoera batera: *hemen dago eta bat-batean, hemen dago*. *Hemen dago* horrek adierazten du sistemaren oreka-egoera, sistema eta ingurunearen arteko oreka, askatasun-graduekin lotutako indarren arteko oreka, bien artean ezarritako bereizte-hormaren zeharreko elkarrekintza eza.     
+
+Berezite-hormaren zeharreko elkarrekintza agertaraz daiteke mentalki, era infinitesimalean desorekatuz askatasun-gradu batekin lotutako sistema eta ingurunearen arteko indarra: desoreka hain txikia da, ikertzailearen esku dago, ia-ia ez dagoela prentsa daitekeela; baina egon dago, eta, ondorioz, sistema mentalki eraman da gertuko oreka-egoera batera. Egoera-ekuazioak adierazten ditu sistemaren oreka-egoerak: edozein oreka-egoerak bete behar du egoera-ekuazioa. Jokabide oneko funtzio matematikoa denez egoera-ekuazioa, deribagarri da eta, beraz, bere diferentzial osoa definitua dago (beti; fisikoki, sistema existitzen den gune esperimentalean,  aldagaien izate-eremuan). Diferentzial orokor hori erabiliko da oreka-egoeren arteko *buruzko pasaraztea* adierazteko, prozesu kuasi-estatikoa adierazteko, beraz. Baina, kontuz, diferentzial osoak ez du prozesua adierazten: diferentzial osoak adierazten du funtzioaren beraren propietate bat, sistemarena beraz; diferentzial osoaren *proiekzio batek adieraziko du prozesua*: proiekzio bat zeinean lotura bat dagoen aldatzen diren aldagai independenteen artean, prozesuan, independente ez direnak, jakina.   
+
+Sistema dago $0$ oreka-egoeran, $\{\theta_{0}, p_{0}\}$, $V\to V_{0}$; eta $1$ egoerara, mentalki eraman da, $\{\theta_{1}, p_{1}\}$, $V\to V_{1}$, beraz. Bi puntu horiek bete behar dute $V=V(\theta, p)$ egoera-ekuazioa. Hortaz, $\{\theta, p\}$ aldagai independenteak izanik eta bi dimentsioko konfigurazio-espazioa aukeratuz, $\{OX, OY\}$ ardatzetan, $V$ da $OZ$ ardatzean adierazi beharreko gainazala. Aipatutako bi puntuek honako hau betetzen dute:   
+
+$$V_{0}  +  dV \to V_{1}$$     
+
+Eta $dV$ horrek lotuko ditu $V=V(\theta,p)$ gainazaleko gertu-gertuko $\{\theta, p\}$ puntuak, gainazal bera definitzen dituztenak. Horrexegatik, honako adierazpen honek definitzen du gainazaa bera, sistemaren propietatea, esan denez:    
+
+$$dV = \left(\frac{\partial V}{\partial \theta}\right)_{p} d\theta + \left(\frac{\partial V}{\partial p}\right)_{\theta} dp$$    
+
+Eta *guztiz orokorra* den deribatu horren *proiekzioa* erabiliko da sistema eraman nahi den prozesua adierazteko, zeinean, baldintza esperimentalek $\{\theta, p\}$ aldagai(independente)en arteko lotura definituko duten: $p=p(\theta)$, edo baliokidea dena, $\theta=\theta(p)$. Ondorioz, prozesuan gertatu den $dV$ aldaketa honako hau da:     
+
+
+$$\begin{equation}
+  \left.\begin{aligned}
+  dV = \left(\frac{\partial V}{\partial \theta}\right)_{p} d\theta + \left(\frac{\partial V}{\partial p}\right)_{\theta} dp\\
+  V_{0}  +  dV \to V_{1}\\
+  p=p(\theta)|_{V_{0} \to V_{1}}
+\end{aligned}\right\} \Rightarrow \boxed{dV = \left(\frac{\partial V}{\partial \theta}\right)_{p} d\theta + \left(\frac{\partial V}{\partial p}\right)_{\theta} \cdot \left[\left(\frac{dp}{d\theta}\right) d\theta|_{V_{0}\to V_{1}}\right]}
+\end{equation}$$     
+
+Prozesuak definitzen du zer modutan, $p=p(\theta)$ ($V$-ri buruz ez da ezer esan behar, egoera-ekuazioren bidez lortzen baita prozesuak definitutako edozein puntutan), baldintza esperimentaletan, aldatzen diren aldagai termodinamiko independenteak, dagoeneko prozesuan independente ez direnak: zer modutan eraman behar den $V$-ren balioa $V_{0}$-tik $V_{1}$-era.   
+
+Honako hau ere bai izan zitekeen, prozesua $\theta=\theta(p)$ balitz:  
+
+$$\boxed{dV = \left(\frac{\partial V}{\partial \theta}\right)_{p}  \cdot \left[\left(\frac{d\theta}{dp}\right) dp|_{V_{0}\to V_{1}}\right] + \left(\frac{\partial V}{\partial p}\right)_{\theta} dp}$$    
+
+Efektiboki, kasu batean zein bestean, aldagai independente bakarra dago, bi lotura hartu behar baitira kontuan aldi berean:     
+
+1. sistemari buruzko informazioa barneratzen duena: egoera ekuazioa, $V=V(\theta,p)$    
+
+2. prozesuari buruzko informazioa barneratzen duena, $p=p(\theta)$, esaterako    
+
+$$\begin{equation}
+  \boxed{\left.\begin{aligned}
+  V=V(\theta,p)\\
+  p=p(\theta)
+  \end{aligned}\right\} \to V(\theta,p(\theta))\Rightarrow \boxed{V=V(\theta)}}
+\end{equation}$$     
+
+
+
 
 
 - 3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf)    
@@ -704,6 +750,8 @@ Dena dela, erabat ondo definitzeko, hobeto esateko, prozesu kuasi-estitakoaren d
 
 `Iruzkina:`      
 - Irudietan ia-ia berbera dago; baina, kontuz! ñabardura dago:    
+
+
 
 
   - ![Prozesua eta Egoera-ekuazioa 1](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20_1.png)   
