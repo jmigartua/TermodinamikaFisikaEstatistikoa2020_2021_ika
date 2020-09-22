@@ -668,7 +668,7 @@ Egoera-ekuazioa da, esan denez, edozein sistemaren kasuan bere deskribapenean pa
 
 Sistema hidrostatikoa, masa konstantekoa izanik, bi askatasun-gradukoa da eta egoera-ekuazio mekanikoa, gehienetan, $V=V(\theta,p)$ moduan adierazten da. Fisikoki, beraz, era independentean $\theta$ eta $p$ aldagaien balioak finkatuz, $V$ bolumenaren balioa bakarra da. Finkatze horrek definitzen du sistema horren oreka-egoera termodinamikoa, orain artekoaren laburbilduma. Oreka-egoera horretan dagoela, sistemak ezin du ezer egin: bertan iraungo du. Hala ere, definitu da prozesu kuasi-estatikoa, zeinean, mentalki eramaten da sistema oreka-egoera batetik horretatik gertu-gertu dagoen (*gertutasuna* da nahi bestekoa) beste oreka-egoera batera: *hemen dago eta bat-batean, hemen dago*. *Hemen dago* horrek adierazten du sistemaren oreka-egoera, sistema eta ingurunearen arteko oreka, askatasun-graduekin lotutako indarren arteko oreka, bien artean ezarritako bereizte-hormaren zeharreko elkarrekintza eza.     
 
-Berezite-hormaren zeharreko elkarrekintza agertaraz daiteke mentalki, era infinitesimalean desorekatuz askatasun-gradu batekin lotutako sistema eta ingurunearen arteko indarra: desoreka hain txikia da, ikertzailearen esku dago, ia-ia ez dagoela prentsa daitekeela; baina egon dago, eta, ondorioz, sistema mentalki eraman da gertuko oreka-egoera batera. Egoera-ekuazioak adierazten ditu sistemaren oreka-egoerak: edozein oreka-egoerak bete behar du egoera-ekuazioa. Jokabide oneko funtzio matematikoa denez egoera-ekuazioa, deribagarri da eta, beraz, bere diferentzial osoa definitua dago (beti; fisikoki, sistema existitzen den gune esperimentalean,  aldagaien izate-eremuan). Diferentzial orokor hori erabiliko da oreka-egoeren arteko *buruzko pasaraztea* adierazteko, prozesu kuasi-estatikoa adierazteko, beraz. Baina, kontuz, diferentzial osoak ez du prozesua adierazten: diferentzial osoak adierazten du funtzioaren beraren propietate bat, sistemarena beraz; diferentzial osoaren *proiekzio batek adieraziko du prozesua*: proiekzio bat zeinean lotura bat dagoen aldatzen diren aldagai independenteen artean, prozesuan, independente ez direnak, jakina.   
+Bereizte-hormaren zeharreko elkarrekintza agertaraz daiteke mentalki, era infinitesimalean desorekatuz askatasun-gradu batekin lotutako sistema eta ingurunearen arteko indarra: desoreka hain txikia da, ikertzailearen esku dago, ia-ia ez dagoela prentsa daitekeela; baina egon dago, eta, ondorioz, sistema mentalki eraman da gertuko oreka-egoera batera. Egoera-ekuazioak adierazten ditu sistemaren oreka-egoerak: edozein oreka-egoerak bete behar du egoera-ekuazioa. Jokabide oneko funtzio matematikoa denez egoera-ekuazioa, deribagarri da eta, beraz, bere diferentzial osoa definitua dago (beti; fisikoki, sistema existitzen den gune esperimentalean,  aldagaien izate-eremuan). Diferentzial orokor hori erabiliko da oreka-egoeren arteko *buruzko pasaraztea* adierazteko, prozesu kuasi-estatikoa adierazteko, beraz. Baina, kontuz, diferentzial osoak ez du prozesua adierazten: diferentzial osoak adierazten du funtzioaren beraren propietate bat, sistemarena beraz; diferentzial osoaren *proiekzio batek adieraziko du prozesua*: proiekzio bat zeinean lotura bat dagoen aldatzen diren aldagai independenteen artean, prozesuan, independente ez direnak, jakina.   
 
 Sistema dago $0$ oreka-egoeran, $\{\theta_{0}, p_{0}\}$, $V\to V_{0}$; eta $1$ egoerara, mentalki eraman da, $\{\theta_{1}, p_{1}\}$, $V\to V_{1}$, beraz. Bi puntu horiek bete behar dute $V=V(\theta, p)$ egoera-ekuazioa. Hortaz, $\{\theta, p\}$ aldagai independenteak izanik eta bi dimentsioko konfigurazio-espazioa aukeratuz, $\{OX, OY\}$ ardatzetan, $V$ da $OZ$ ardatzean adierazi beharreko gainazala. Aipatutako bi puntuek honako hau betetzen dute:   
 
@@ -697,7 +697,7 @@ $$\boxed{dV = \left(\frac{\partial V}{\partial \theta}\right)_{p}  \cdot \left[\
 
 Efektiboki, kasu batean zein bestean, aldagai independente bakarra dago, bi lotura hartu behar baitira kontuan aldi berean:     
 
-1. sistemari buruzko informazioa barneratzen duena: egoera ekuazioa, $V=V(\theta,p)$    
+1. sistemari buruzko informazioa barneratzen duena: egoera-ekuazioa, $V=V(\theta,p)$    
 
 2. prozesuari buruzko informazioa barneratzen duena, $p=p(\theta)$, esaterako    
 
@@ -713,7 +713,41 @@ $$\begin{equation}
 
 
 - 3.4 [**prozesu kuasiestatikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20.pdf)    
-   Gorago definitu da
+   Gorago definitu da...      
+
+
+Baina horrekin lotutako zenbait iruzkin:     
+
+1. oreka-egoeretan edozein aldagairen balioa bakarra da eta, beraz, sistema osoan berdin *definituta* dago, sisteman balio homogeneoa dauka. Horren arabera, oreka-egoera mekanikoan, esaterako, dagoen sistema batean presioa edozein puntutan neurtuz gero, beti lortuko da balio berbera, balio bakarra: presioaren balio bakarrak definitzen du sistemaren oreka-egoera mekanikoa. Beraz, oreka-egoeretan aldagai termodinamikoen balioak ez aldatzeaz gain, balio finkoak dituzte sistema osoan. Eta kontrakoak erabil daitezke oreka ezako egoerak definitzeko.  Oreka-egoeran ez dagoenean sistema, definizioz, posibleak dituen oreka-egoeretako batzuk edo denak ez dira betetzen; desorekak daude sistema eta ingurunearen artea eta sisteman bertan.   
+
+   Askatasun mekanikoaren kasuan, honako azterketa egin daiteke.   
+
+   Abiapuntuan, sistema *kokatu* da oreka-egoera lotu batean, irudian, ezkerrean adierazi den moduan. Hots, topeen bidez finkatu da pistoia eta, nahiz eta sistemaren (gasaren, masa konstanteko sistema hidrostatikoaren) presioa ingurunearen presioa baino handigo izan, ez da ezer gertatzen topeek konpentsatzen baitute presio-diferentzia.   
+
+```{figure} ../irudiak/termodinamika_02_astea/03_02_15_1_sistema_hidrostatikoa_eskema.png    
+---
+width: 750px
+name: 03_02_15_1_sistema_hidrostatikoa_eskema   
+---
+```
+
+   Irudian, eskuinean adierazi da topeak kenduz (abiaraziz prozesua) sistemak berez, libreki eboluzionatzen utziz gero, lortuko lukeen bukaerako oreka-egoera. Deskribatutako bi oreka-egoeretan, presioa neurtuz gero sistemako edozein puntutan beti lortuko litzateke presioaren balio bakarra, egoeretan bana jakina: ezkerreko kasuan presioaren balioa inguruenarena baino handiago (hipotesiz) eta eskuinekoan, berdina.    
+
+   Abiapuntua berbera izanik, *eskuz finakatuko da* sistemaren bukaerako egoera. Horretarako, mentalki, topeak kenduko dira, baina, aurreko kasuko bukaerako egoerari dagokien kokapena eta abiapuntuko kokapenaren arteko punturen batean, finkatu. Modu horretan, jakina da nahiz eta libreki utziz gero berori lortzen, bukaerako egoera oreka-egoera lotuta dela. Gainera, topeen kokapen berria hasierako kokapenetik distantzia finitura dago. Esperientziaren arabera, pistoia askatu eta berehala neurtuko balitz sistemaren presioa zenbait tokitan, balio bat baino gehiago lortuko lirateke; besteak beste, pistoitik gertu dagoen punturen batean eta handik aldenduta dagoen beste punturen batean neurtuz gero, erabat ezberdinak dira balioak. Fisikoki hori ulertzeko, irizpide mikroskopikoa erabili behar da, konturatzeko zertxobait kanporatutakoan pistoia, bere aldamenean gasaren dentsitatea txikitu egiten dela eta, ondorioz, depresioa agertzen dela. Dentsitatea txikitzean, partikulen kopurua txikitzen da tokiz toki eta partikulen kopuruarekin batera haiek hormekin duten talken kopurua; eta horrekin batera talketan gertatzen den denborako batez besteko eta gainazal unitateko partikulen momentu linealaren aldaketa, presioa!     
+
+   Beraz, abiapuntuko oreka-egoera batetik bukaerako oreka-egoera lotu batera libreki eboluzionatzen utzi zaio sistemari, eboluzio libre horretan sistema ez dago oreka-egoeretan aldagai termodinamikoek balio bakarrak ez dutelako, jeneralean. Eboluzio libre horretan, desoreka egoeretatik pasatzen da sistema...     
+
+2. Ondorioz, prozesu ez kuasi-estatikoak ezin dira konfigurazio-espazioetan adierazi.    
+   Beste modu batean esateko, prozesu kuasi-estatikoak dira gainazaletako puntuen segida jarraituak, lerro jarraituen bidez adieraziko direnak, ikus irudia.
+
+```{figure} ../irudiak/termodinamika_02_astea/03_07_20_prozesua.png    
+---
+width: 750px
+name: 03_07_20_prozesua
+---
+```
+
+   Irudiko lerro jarraituko puntuen segida jarraitua, infinitua bera, da prozesu kuasi-estatikoa, ikusi denez; aldiz, lerro jarraitu horretako puntuen segida diskretuko puntuen artekoak ez daudenez adierazita, aipatutako puntuen arteko prozesuak ez kuasi-estatikoak direla esan beharko da. Nahiz izanez gero, modu horretan adieraz daitezke ez kuasi-estatiko diren prozesuak (egiatan, prozesu ez kuasi-estatiko batzuk).     
 
 
 
@@ -734,13 +768,27 @@ $$\begin{equation}
 
     $$ V=V(T,p) \Leftrightarrow T=T(V,p) \Leftrightarrow p=p(T,V)$$   
 
-    Adierazpen horiek guztiak baliokideak dira: denetan dago sistemari buruzko informazio berbera. Beti onartuko da, batetik bestera analitikoki pasatu daitekeela, nahiz eta hori ez den kasua egoera-ekuazio guztien kasua.
+    Adierazpen horiek guztiak baliokideak dira: denetan dago sistemari buruzko informazio berbera. Beti onartuko da, batetik bestera analitikoki pasatu daitekeela, nahiz eta hori ez den kasua egoera-ekuazio guztien kasua.     
+
+  - Puntu honetan, galdera honako hau izan daiteke: goragoko baliokideak diren egoera-ekuazioaren zein adierazpen erabili behar da? Eta erantzuna da horietako edozein erabil daiteke, testuinguruak *gomendatuko* zein erabili, denak baitira baliokide.     
+
+  - Baliokidetasuna egiaztatzeko, ikus beheko irudia, zeinean grafikoki adierazi den egoera-ekuazioa, printzipioz modu honetan: $Y=Y(X^{1}_{k},X^{1}_{j})$. Hots, $\{X^{1}_{k},X^{1}_{j}\}$ bikotea aukeratu da aldagai independentetzat eta $Y$, dependentetzat. Baina, printzipioz, posiblea da, gutxienez era formalean, analitikoki, gainerakoen funtzioan bakantzea edozein aldagai. Beraz, $X^{1}_{j}=X^{1}_{j}(Y,X^{1}_{k})$ idatz daitekeela onartuko da; nahiz eta aldagai independenteen sorta beste bat izan, kurba ez da aldatzen; hau da, sistemari buruzko informazioa ez da aldatzen.    
+
+
+```{figure} ../irudiak/termodinamika_02_astea/egoera_ekuazioa_baliokidetasuna.png    
+---
+width: 750px
+name: egoera_ekuazioa_baliokidetasuna
+---
+```
+
+  - Bide batez esan edozein planotako egoera-ekuazioaren proiekzioak definitzen duela plano horretako sistemaren aldagai termodinamikoen izate-eremua: irudietan, kolore ezberdinetan.    
 
   - Aukeratutako forma batetik bestera bi modutan (gutxienez pasa daiteke):    
-    - aukeratutako aldagai *dependentearen* adierazpen diferentzialean beste edozein aldagairen diferentziala bakanduz     
-    - deribatu partzialen arteko honako bi erlazio hauek erabiliz:     
-      - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv\frac{1}{\left(\frac{\partial Y}{\partial X}\right)_Z}$    
-      - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv -\frac{\left(\frac{\partial Z}{\partial Y}\right)_X}{\left(\frac{\partial Z}{\partial X}\right)_Y}$    
+    1. aukeratutako aldagai *dependentearen* adierazpen diferentzialean beste edozein aldagairen diferentziala bakanduz     
+    2. deribatu partzialen arteko honako bi erlazio hauek erabiliz:     
+       - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv\frac{1}{\left(\frac{\partial Y}{\partial X}\right)_Z}$    
+       - $\left(\frac{\partial X}{\partial Y}\right)_Z\equiv -\frac{\left(\frac{\partial Z}{\partial Y}\right)_X}{\left(\frac{\partial Z}{\partial X}\right)_Y}$    
   - Egoera-ekuazioan dagoen informazioa (fisikoa, sistemari buruzkoa, termodinamikak teoria moduan ezagutzen ez duena) eta berarekin lotutako 2 koefiziente esperimentaletan dagoena baliokideak dira.    
   Batetik bestera bi noranzkotan pasa daiteke:    
     - egoera-ekuaziotik koefiziente esperimentaletara: *deribatuz*    
@@ -748,148 +796,190 @@ $$\begin{equation}
     ($+$ sistemaren oreka-egoeraren bat ezagutu beharko da, *integrazio-konstantearen balioa finkatzeko*)   
 
 
-`Iruzkina:`      
-- Irudietan ia-ia berbera dago; baina, kontuz! ñabardura dago:    
+- `Iruzkina:`      
 
-
+  Irudietan ia-ia berbera dago; baina, kontuz! ñabardura dago:    
 
 
   - ![Prozesua eta Egoera-ekuazioa 1](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_20_1.png)   
 
-  - ![Prozesua eta Egoera-ekuazioa 2](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_23_1.png)   
+    Irudiko adierazpide grafikoetan bi testuinguru ezberdin adierazi dira egoera-ekuazioa eta prozesuak adierazteko erabiltzen den funtzio matematikoa berbera izan daitekeela egiaztatzeko, nahiz eta bi kontzeptu erebat ezberdin izan.   
+
+    Ezkerreko irudian adierazi da bi askatasun-graduko sistema orokor bati dagokion konfigurazio-espazioa, printzipioz, planoan dagoen edozein puntu har daiteke sistemari dagokion oreka-egoeraren ordezkari; aldiz, eskuinekoan adierazi da askatasun-gradu bakarreko sistema bati dagokion bi aldagai termodinamiko deskribatzailez, $\{X,Y\}$, eraikitako bi dimentsioko planoa. Ezkerreko adierazpide grafikoan erabilitako aldagaien etiketak baita ere $\{X,Y\}$ dira. Bi adierazpide grafikoetan aldagaien izate-eremuak berdinak dira; bina puntu aukeratu dira: $i$ eta $f$, bietan berdinak; eta, bietan adierazi da kurba berbera, $Y=Y(X)$ funtzio matematiko berdinaren adierazpide grafikoa. Hortaz, inolako testuingururik gabe, ezkerrean zein eskuinean dagoena berbera da.      
+
+    Eskuineko grafikoan, askatasun-gradu bakarreko sistemaren egoera-ekuazio adierazita dagoela onartu daiteke: bi aldagai deskribatzaileetako bat ez da independentea, $Y$, eta bestea, bai. Beraz, adierazitako kurbak aukeratzen ditu planoko zein puntu diren sistemaren oreka-egoeren ordezkari. Ezkerreko grafikoan, planoko puntuak badira, printzipioz, sistemaren oreka-egoeren ordezkariak, bi askatasun-graduko sistema baita eta kurbak aukeratzen du oreka-egoeren ordezkari diren puntuen segida jarraitua (modu horretan adierazita baitago irudian eta modu horretan adierazita baitago funtzio matematikoaren bidez); hortaz, kurba da prozesu kuasi-estatikoa (kurbak adierazten du prozesu kuasi-estatikoa).    
+
+    Prozesu kuasi-estatikoaren definizioa eskuineko kurban kontuan hartuz, $i$-tik $f$-rako kurbaren zatia, sistemaren izate-eremuan, beste bi puntu aukeratu behar dira eta horien arteko kurbako puntuen segida jarraitua eratu: horixe da prozesu kuasi-estatikoa.    
+
+  - ![Prozesua eta Egoera-ekuazioa 2](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/03_07_23_1.png)     
+
+    Aurreko irudian deskribatutako kontzeptu berbera baina sistema jakin baten kasuan, oraingoz *formalizatu gabe dagoen* gas idealaren kasuan.     
+
+--------------
+
+- Ariketak proposatu   
+
+  Lortu $\alpha$ eta $\kappa_{T}$ koefiziente esperimentalak, honako egoera-ekuazio mekanikoetatik:   
+
+  1. $pV=nRT$      
+
+  2. $p(V-b)=nRT$       
+
+  3. $pV=nRT\left(1 + \frac{B(T)}{V}\right)$
 
 
-- Ariketak proposatu    
 
+
+-----------------------     
+
+**Sep2020-22**  (2.0 -  12.0; guztira  12.0)
+
+------------------------   
+
+
+
+- Proposatutako ariketak egin   
+
+  Lortu $\alpha$ eta $\kappa_{T}$ koefiziente esperimentalak, honako egoera-ekuazio mekanikoetatik:   
+
+  1. $pV=nRT$      
+
+  2. $p(V-b)=nRT$       
+
+  3. $pV=nRT\left(1 + \frac{B(T)}{V}\right)$
+
+- Proposatutako ariketetatik *pasatu*     
+
+---------------------
+
+**4. Gaia: [Termodinamikaren Lehen Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/4_Gaia_LehenengoPrintzipioa/4_Gaia_LehenengoPrintzipioa.md)**, 2Z
+[gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_01_23.pdf)     
+
+- Iruzkinak:     
+
+  Gaiaren helburua da *Termodinamikaren Lehen Printzipioaren adierazpen ondorioztatzea*. Orain arteko sistemek, Fisika Orokorrekoek edo Mekanikoek, *ez zuten* askatasun-gradu termikoa (hobeto esateko, izoztuta izan dute) eta energiaren kontserbazioaren adierazpenean ez da agertu horrekin lotutako ekarpenik. Termodinamikaren testuinguruan askatasun-gradu termikoa funtsezkoa da eta bere ekarpena kontuan hartu behar da ezinbestean; horixe da, beraz, helburua. Aztergai-sistema da masa konstanteko sistema hidrostatikoa, soilik bi askatasun-gradukoa bera, honako bi hauek: mekanikoa, sistema mekanikoki lotuta dago (elkarrekintza dauka, ...) ingurunearekin eta, ondorioz, ***lan mekanikoa*** (definitzeko kontzeptua) baino ezin du egin; eta, termikoa, sistema termikoki lotuta dago (elkarrekintza dauka, ...) ingurunearekin eta, beraz, ***lan termikoa*** (definitzeko, beroa trukatuz aldatuko du bere egoera). Bi modu independente horien bidez alda dezake sistemak bere energia-edukia, bere egoera, *orokorrean, biak era independentean erabiliz*. Jakina, betiko legez, ez da inolako orokortasunik galduko, nahiz eta 2 askatasun-graduko sistema hidrostatikoa baino ez aztertu.
+
+  Egoera aldatzeko bi modu horien bidezko energiarako ekarpena lortu behar da. Horretarako, prozesu kuasiestatikoak erabiliko dira; horietan definituko da zer ekarpen egiten duten elkarrekintza mekanikoak eta termikoak; eta horien adierazpen diferentzialak lortuko dira.     
+
+  Egoera aldatzeko bi modu horiek energiaren dimentsioak dituzte, baina ez dira energiak.     
+    - fisikoki:     
+      - Ez dira sistemei dagozkien propietateak     
+      - Ez dago sistema bati dagokion *lana* edo sistema bati dagokion *beroa*     
+      Badago *prozesu batean*, kuasiestatikoa bera (kalkuluak egin behar badira), sistema batek *egindako* lana (positibo zein negatibo, ikusiko denez) edo *trukatutako* beroa    
+    - matematikoki:     
+      - Ez daude funtzio matematikoak horiek adierazteko     
+      - Ez dira diferentzial zehatzak, ez dira *egoera-funtzioak*; beraz, lanaren eta beroaren balioek **badute** sistemaren egoera aldatzeko erabili den ibilbidearekiko mendekotasunik    
+      - Ezin da honelako hauek idatzi:     
+        - $Q=Q(T, p, V, \dots)$    
+        - $W=W(n, p, T, \dots)$    
+      - Ibilbideko integralak dira     
+    - Adibidea: (oraindik definitu gabeko gas ideala) sistema baten     
+    ![Adibidea, Prozesua eta Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_01_23_1.pdf)     
+  - Orokorrean, bi diferentzial ez-zehatzen batura diferentzial ez-zehatza da     
+    Aipatutako bi diferentzial ez-zehatz berezi (fisikoki interpretazioa dute) horien batura **beti** da diferentzial zehatza     
+    Bitxikeria hori Izadiak finkatzen du     
+  - Lan mekanikoa definituko da eta bere inguruan dauden beste zenbait kontzeptu     
+    *Mekanikako* lan mekanikoa da     
+    - Sistema *berezietara* orokortuko da definizioa     
+  - Beroa (*lan termikoa*) definituko da eta bere inguruan dauden beste zenbait kontzeptu     
+    Ez dago *Mekanikan* definituta    
+    - Sistema *berezietara* orokortuko da definizioa     
+  - Orokorrean, edozein lanek (hots, *edozein askatasun-graduk energiaren aldaketarako egingo duen ekarpenak*) duen forma honako hau da:     
+    - $\delta W^{orokor}_{Y,X}= Y\,dX$     
+    - Adierazpen horretan, $Y$ eta $X$ dira askatasun-graduarekin lotutako aldagai intentsibo eta estentsibo, konjokatuak (*Mekanikako* zentzuan) horiek, hurrenez hurren     
 
 <!---
 
------------------------
 
-**Sep2020-19**  (1.0 -  9.0; guztira  9.0)
+- 4.1 [**Lana (Lan mekanikoa)**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_02_24.pdf) gogorarazi     
+  - Mekanikako lana: $\delta W = -\vec{F}\cdot d\vec{x}$     
+  - *kanpo lana* baino ez da kontuan hartzen termodinamikan     
 
-**Ariketak nola aurkitu aurkeztu**
-
-
------------------------
-## 3. astea
----------
-
-**Sep2020-23**  (1.0 - 10.0; guztira 10.0)
-
-**4. Gaia: [Termodinamikaren Lehen Printzipioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/4_Gaia_LehenengoPrintzipioa/4_Gaia_LehenengoPrintzipioa.md)**, 2Z
-[gardenkia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_01_23.pdf)
-
-- Iruzkinak:
-
-  - Gaiaren helburua da *Termodinamikaren Lehen Printzipioaren adierazpen ondorioztatzea*.
-  - Orain arteko sistemek ez zuten askatasun-gradu termikoa eta energiaren kontserbazioaren adierazpenean ez zegoen horrekin lotutako ekarpenik
-    -  Termodinamikaren testuinguruan askatasun-gradu termikoa funtsezkoa da eta bere ekarpena kontuan hartu behar da ezinbestean
-    -  Horixe da, beraz, helburua
-  - Aztergai-sistema da masa konstanteko sistema hidrostatikoa, beraz, soilik bi askatasun-gradukoa den sistema, honako bi hauek:
-    - mekanikoa: sistema mekanikoki lotuta dago (elkarrekintza dauka, ...) ingurunearekin
-      ***lan mekanikoa*** (definitzeko) baino ezin du egin
-    - termikoa: sistema termikoki lotuta dago (elkarrekintza dauka, ...) ingurunearekin
-      ***lan termikoa*** (definitzeko, beroa trukatuz aldatuko du bere egoera)
-  - Bi modu independente horien bidez alda dezake sistemak bere energia-edukia, bere egoera, *orokorrean, biak era independentean erabiliz*
-    (Ez da inolako orokortasunik galduko, nahiz eta 2 askatasun-graduko sistema hidrostatikoa baino ez aztertu)
-  - Egoera aldatzeko bi modu horien bidezko energiarako ekarpena lortu behar da
-    - Prozesu kuasiestatikoak erabiliko dira horretarako
-    - Horietan definituko da zer ekarpen egiten duten elkarrekintza mekanikoak eta termikoak
-    - horien adierazpen diferentzialak lortuko dira
-  - Egoera aldatzeko bi modu horiek energiaren dimentsioak dituzte, baina ez dira energiak
-    - fisikoki:
-      - Ez dira sistemei dagozkien propietateak
-      - Ez dago sistema bati dagokion *lana* edo sistema bati dagokion *beroa*
-      Badago *prozesu batean*, kuasiestatikoa bera (kalkuluak egin behar badira), sistema batek *egindako* lana (positibo zein negatibo, ikusiko denez) edo *trukatutako* beroa
-    - matematikoki:
-      - Ez daude funtzio matematikoak horiek adierazteko
-      - Ez dira diferentzial zehatzak, ez dira *egoera-funtzioak*; beraz, lanaren eta beroaren balioek **badute** sistemaren egoera aldatzeko erabili den ibilbidearekiko mendekotasunik
-      - Ezin da honelako hauek idatzi:
-        - $Q=Q(T, p, V, \dots)$
-        - $W=W(n, p, T, \dots)$
-      - Ibilbideko integralak dira
-    - Adibidea: (oraindik definitu gabeko gas ideala) sistema baten
-    ![Adibidea, Prozesua eta Egoera-ekuazioa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_01_23_1.pdf)
-  - Orokorrean, bi diferentzial ez-zehatzen batura diferentzial ez-zehatza da
-    Aipatutako bi diferentzial ez-zehatz berezi (fisikoki interpretazioa dute) horien batura **beti** da diferentzial zehatza
-    Bitxikeria hori Izadiak finkatzen du
-  - Lan mekanikoa definituko da eta bere inguruan dauden beste zenbait kontzeptu
-    *Mekanikako* lan mekanikoa da
-    - Sistema *berezietara* orokortuko da definizioa
-  - Beroa (*lan termikoa*) definituko da eta bere inguruan dauden beste zenbait kontzeptu
-    Ez dago *Mekanikan* definituta
-    - Sistema *berezietara* orokortuko da definizioa
-  - Orokorrean, edozein lanek (hots, *edozein askatasun-graduk energiaren aldaketarako egingo duen ekarpenak*) duen forma honako hau da:
-    - $\delta W^{orokor}_{Y,X}= Y\,dX$
-    - Adierazpen horretan, $Y$ eta $X$ dira askatasun-graduarekin lotutako aldagai intentsibo eta estentsibo, konjokatuak (*Mekanikako* zentzuan) horiek, hurrenez hurren
-- 4.1 [**Lana (Lan mekanikoa)**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_02_24.pdf) gogorarazi
-  - Mekanikako lana: $\delta W = -\vec{F}\cdot d\vec{x}$
-  - *kanpo lana* baino ez da kontuan hartzen termodinamikan
-- [lan mekanikoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_03_25.pdf)
+- [lan mekanikoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_03_25.pdf)     
   - Mekanikako aldagaiak ez dira egokiak termodinamikaren testuinguruan, beraz, $A$ azalera tartekatuz
-     - $\vec{F}\rightarrow p$ eta
-     - $d\vec{x}\rightarrow dV$
-  - adierazpen diferentziala: $\delta W = -pdV$
-  - ***Zeinu irizpidea***:
-    - sistemak lana egiten badu, *negatibo* da
-    - sistemari lana egiten bazaio, *positibo* da
-  - $\delta W = -pdV$ adierazpenean
-    - $p$ da sistemaren presioa, oreka(termodinamikoko)-egoeran
+     - $\vec{F}\rightarrow p$ eta     
+     - $d\vec{x}\rightarrow dV$    
+  - adierazpen diferentziala: $\delta W = -pdV$     
+  - ***Zeinu irizpidea***:      
+    - sistemak lana egiten badu, *negatibo* da     
+    - sistemari lana egiten bazaio, *positibo* da      
+  - $\delta W = -pdV$ adierazpenean     
+    - $p$ da sistemaren presioa, oreka(termodinamikoko)-egoeran     
       $p$ dagokio sistema osoari, balio horren bidez sistemaren egoera mekanikoa ezaugarritzen da, ...
-    - $dV$ da sisteman gertatu den bolumen-aldaketa (infinitesimala, diferentziala)
-      Bolumen-aldaketa hori, sistemarena, ingurunearen kontrakoa da: batak galden duena besteak irabazten du
-      - Sistema *konprimitzen* bada ($dV<0$), ingurunea zabaldu delako da
-      - Sistema *zabaltzen* (handitzen) bada ($dV>0$), ingurunea konprimitu delako da
-- [adierazpen finitua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_03_25.pdf)
-  - $\int\delta W\equiv W = -\int pdV$
-  - adierazpen hori *formala* da: integratu ahal izateko derrigorrean ezagutu behar da $p = p(V)$ ekuazioa
-    - ekuazioa hori **bada**:
-      - sistema eraman den ibilbideari dagokion adierazpena,
-      - prozesuaren, kuasiestatikoa bera, adierazpena
-    - ekuazio hori **ez da** egoera-ekuazioa
+    - $dV$ da sisteman gertatu den bolumen-aldaketa (infinitesimala, diferentziala)     
+      Bolumen-aldaketa hori, sistemarena, ingurunearen kontrakoa da: batak galden duena besteak irabazten du     
+      - Sistema *konprimitzen* bada ($dV<0$), ingurunea zabaldu delako da     
+      - Sistema *zabaltzen* (handitzen) bada ($dV>0$), ingurunea konprimitu delako da     
+
+
+- [adierazpen finitua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_03_25.pdf)     
+  - $\int\delta W\equiv W = -\int pdV$      
+  - adierazpen hori *formala* da: integratu ahal izateko derrigorrean ezagutu behar da $p = p(V)$ ekuazioa      
+    - ekuazioa hori **bada**:       
+      - sistema eraman den ibilbideari dagokion adierazpena,     
+      - prozesuaren, kuasiestatikoa bera, adierazpena     
+    - ekuazio hori **ez da** egoera-ekuazioa      
+
+
 - [lanaren interpretazioa, $p/V$ diagraman](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_04_26.pdf)
   - $\int\delta W\equiv W = -\int pdV$
     $\hspace{1.9cm}W = -\int p(V)dV$
     - inportantea da konturatzea $p = p(V)$ ezagutu behar dela!!
 
 
------------------------
 
-**Sep2020-24**  (1.0 - 11.0; guztira 11.0)
 
-- 4.2 [**Lanaren orokortzea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_05_27.pdf)
-  - lan mekanikoan erabili den definizio berbera erabiliko da, formari dagokionez
-  - demagun askatasun-gradu mekanikoa ez den beste askatasun-gradu batekin lotutako lana (lanaren *abizena* izango da aipatutako askatasun-graduari dagokiona, jakina) idatzi nahi dela:
-    - askatasun-graduarekin lotutako aldagai **in**tentsiboa eta **es**tentsiboa direla $Y$ eta $X$, hurrenez hurren.
-    - lan mekanikoaren kasuan $p$ eta $V$ aldagaien parekoak
-    - lana da:
-    $$\boxed{\delta W^{Y,X} =  YdX}$$
-  - askatasun-gradua edozein motatako izan daiteke:
-    - magnetikoa: $(H, M) \Rightarrow \delta W^{H,M}_{mag} =  HdM$
-    - elektrikoa: $(E, P) \Rightarrow \delta W^{E,P}_{ele} =  EdP$
-    - elastikoa: $(\tau, L) \Rightarrow \delta W^{\tau,L}_{ela} =  \tau dL$
-  - Iruzkina:
-  ![Iruzkina](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_07_29_1.png)
-  - askatasun-gradu bat baino gehiagokoren kasuan, askatasun-graduek ekarpena bana egiten dute lanerako
-  - jakina, askatasun-graduarekin lotutako aldagai konjokatuak baino ezin dira erabili lanerako ekarpena eraikitzeko
-  - askatasun-graduekin lotutako aldagai konjokatuak adierazteko edozein ikur erabil daiteke:
-    - orokorrena da, esan bezala, $(Y, X)$ erabiltzea
-    - baina $(\Delta, \bigcirc)$ izan daitezke:
-    $$\boxed{\delta W^{(\Delta, \bigcirc)}_{a-g} = \Delta d\bigcirc}$$
-    - bat baino gehiagoko horiek mota berekoak izan daitezke, zein mota ezberdinekoak: edozein kasutan, ezaugarriek, askatasun-graduek ekarpen bana izango dute
-    - bi askatasun-gradu mekanikoko adibidea:
-      bakoitzak bere aldetik, askatasun-graduak baitira
-      - mekanikoa 1: $(p, V)^1 \Rightarrow [\delta W^{p,V}_{mek} = -pdV]^1$
-      - mekanikoa 2: $(p, V)^2 \Rightarrow [\delta W^{p,V}_{mek} = -pdV]^2$
-    - guztira, lan osoa (guztizko lana) da bien batura:
-     $$\boxed{\delta W^{osoa} =  \sum\limits_{a-g=1}^{2}\delta W_{a-g}}=\delta W_{mek}^{1} + \delta W_{mek}^{2}$$
-  - lanaren adierazpenik orokorrena:
-    $$\boxed{\delta W^{osoa} =  \sum\limits_{i=1}^{n}\delta W_{a-g}}$$
-    -  $i$ d(ir)a sistemaren askatasun-gradua(k)$(a-g)$
-    -  $i$ d(ir)a sistemaren azpisistemak, eta horietan askastasun-graduak
-  - 2 askatasun-graduko mekanikoko adibidea garatuta:
+- 4.2 [**Lanaren orokortzea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_05_27.pdf)        
+
+  - lan mekanikoan erabili den definizio berbera erabiliko da, formari dagokionez     
+  - demagun askatasun-gradu mekanikoa ez den beste askatasun-gradu batekin lotutako lana (lanaren *abizena* izango da aipatutako askatasun-graduari dagokiona, jakina) idatzi nahi dela:      
+    - askatasun-graduarekin lotutako aldagai **in**tentsiboa eta **es**tentsiboa direla $Y$ eta $X$, hurrenez hurren.      
+
+    - lan mekanikoaren kasuan $p$ eta $V$ aldagaien parekoak     
+    - lana da:    
+
+    $$\boxed{\delta W^{Y,X} =  YdX}$$    
+
+  - askatasun-gradua edozein motatako izan daiteke:     
+
+    - magnetikoa: $(H, M) \Rightarrow \delta W^{H,M}_{mag} =  HdM$     
+
+    - elektrikoa: $(E, P) \Rightarrow \delta W^{E,P}_{ele} =  EdP$     
+
+    - elastikoa: $(\tau, L) \Rightarrow \delta W^{\tau,L}_{ela} =  \tau dL$     
+
+
+- `Iruzkina:`      
+  ![Iruzkina](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_07_29_1.png)     
+
+  - askatasun-gradu bat baino gehiagokoren kasuan, askatasun-graduek ekarpena bana egiten dute lanerako     
+
+  - jakina, askatasun-graduarekin lotutako aldagai konjokatuak baino ezin dira erabili lanerako ekarpena eraikitzeko     
+
+  - askatasun-graduekin lotutako aldagai konjokatuak adierazteko edozein ikur erabil daiteke:    
+
+    - orokorrena da, esan bezala, $(Y, X)$ erabiltzea    
+    - baina $(\Delta, \bigcirc)$ izan daitezke:      
+    $$\boxed{\delta W^{(\Delta, \bigcirc)}_{a-g} = \Delta d\bigcirc}$$     
+    - bat baino gehiagoko horiek mota berekoak izan daitezke, zein mota ezberdinekoak: edozein kasutan, ezaugarriek, askatasun-graduek ekarpen bana izango dute     
+    - bi askatasun-gradu mekanikoko adibidea:     
+      bakoitzak bere aldetik, askatasun-graduak baitira      
+      - mekanikoa 1: $(p, V)^1 \Rightarrow [\delta W^{p,V}_{mek} = -pdV]^1$     
+      - mekanikoa 2: $(p, V)^2 \Rightarrow [\delta W^{p,V}_{mek} = -pdV]^2$    
+    - guztira, lan osoa (guztizko lana) da bien batura:     
+     $$\boxed{\delta W^{osoa} =  \sum\limits_{a-g=1}^{2}\delta W_{a-g}}=\delta W_{mek}^{1} + \delta W_{mek}^{2}$$     
+
+  - lanaren adierazpenik orokorrena:     
+    $$\boxed{\delta W^{osoa} =  \sum\limits_{i=1}^{n}\delta W_{a-g}}$$     
+    -  $i$ d(ir)a sistemaren askatasun-gradua(k)$(a-g)$     
+    -  $i$ d(ir)a sistemaren azpisistemak, eta horietan askastasun-graduak     
+
+
+- 2 askatasun-graduko mekanikoko adibidea garatuta:     
   ![Adibidea](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_06_28_1.png)
+
+
+
 
 - 4.3 [**Masa konstanteko sistema hidrostatikoaren hiru aldaketa posibleak**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_08_30.pdf)
   Masa konstanteko sistema hidrostatikoak 2 askatasun-gradu baino ez dauka: termikoa eta mekanikoa (kimikoa izoztuta dauka). Orduan, orokorrean, bi modutan baino ezin da *lotu*, elkarrekintza izan, ingurunearekin: termikoki edo/eta mekanikoki. Hots, banan banan erabilgarri dituen askatasun-graduak *martxan jarriz*.
