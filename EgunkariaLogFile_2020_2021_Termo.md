@@ -13,6 +13,9 @@ MathJax.Hub.Config({
 
 $\require{\cancel}$
 $\require{\graphicx}$
+$\require{\nice}$
+$\require{xcolor}$
+$\require{usepackage[table]{xcolor}}$
 $\require{\amssymb}$
 
 
