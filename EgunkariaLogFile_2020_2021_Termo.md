@@ -776,7 +776,7 @@ name: 03_07_20_prozesua
 
   - Puntu honetan, galdera honako hau izan daiteke: goragoko baliokideak diren egoera-ekuazioaren zein adierazpen erabili behar da? Eta erantzuna da horietako edozein erabil daiteke, testuinguruak *gomendatuko* zein erabili, denak baitira baliokide.     
 
-  - Baliokidetasuna egiaztatzeko, ikus beheko irudia, zeinean grafikoki adierazi den egoera-ekuazioa, printzipioz modu honetan: $Y=Y($X_{k}^{1},X_{j}^{1})$. Hots, $\{$X_{k}^{1},X_{j}^{1}\}$ bikotea aukeratu da aldagai independentetzat eta $Y$, dependentetzat. Baina, printzipioz, posiblea da, gutxienez era formalean, analitikoki, gainerakoen funtzioan bakantzea edozein aldagai. Beraz, $X_{j}^{1}=X_{j}^{1}(Y,X^{1}_{k})$ idatz daitekeela onartuko da; nahiz eta aldagai independenteen sorta beste bat izan, kurba ez da aldatzen; hau da, sistemari buruzko informazioa ez da aldatzen.    
+  - Baliokidetasuna egiaztatzeko, ikus beheko irudia, zeinean grafikoki adierazi den egoera-ekuazioa, printzipioz modu honetan: $Y=Y(X_{k}^{1},X_{j}^{1})$. Hots, $\\{$X_{k}^{1},X_{j}^{1}\\}$ bikotea aukeratu da aldagai independentetzat eta $Y$, dependentetzat. Baina, printzipioz, posiblea da, gutxienez era formalean, analitikoki, gainerakoen funtzioan bakantzea edozein aldagai. Beraz, $X_{j}^{1}=X_{j}^{1}(Y,X^{1}_{k})$ idatz daitekeela onartuko da; nahiz eta aldagai independenteen sorta beste bat izan, kurba ez da aldatzen; hau da, sistemari buruzko informazioa ez da aldatzen.    
 
 
 ```{figure} ../irudiak/termodinamika_02_astea/egoera_ekuazioa_baliokidetasuna.png    
