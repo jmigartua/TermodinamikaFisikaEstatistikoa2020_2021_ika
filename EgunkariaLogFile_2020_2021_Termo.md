@@ -343,10 +343,10 @@ $\require{\amssymb}$
 
       Honako hau egin denez:     
 
-      $$\{X,Y,Z,\cdots\} \to \{X,Y,Z\} \to S=S(X,Y,X) \Rightarrow S=S(X,Y)\to S_{1}=S_{1}(X_{1},Y_{1}={Y_{1}|}_{Y_{1}=Y_{0}})\equiv S_{1}=S_{1}(X_{1};Y_{0})$$    
+      $$\\{X,Y,Z,\cdots\\} \to \\{X,Y,Z\\} \to S=S(X,Y,X) \Rightarrow S=S(X,Y)\to S_{1}=S_{1}(X_{1},Y_{1}={Y_{1}|}_{Y_{1}=Y_{0}})\equiv S_{1}=S_{1}(X_{1};Y_{0})$$    
 
       Honakoa hau da lortu den tenperatura-funtzioa: $h_{S_{1}}=h_{S_{1}}(X_{1};Y_{0})$.    
-      Horri, eite jakina esleitu zaio, lineala (adierazpenak errazteko $\square_{1}$ azpiindizea desagertarazi da, orokortasunik galdu gabe):   
+      Horri, eite jakina esleitu zaio, lineala (adierazpenak errazteko $\circle_{1}$ azpiindizea desagertarazi da, orokortasunik galdu gabe):   
 
       $$h=h(X;Y_{0})\equiv \theta(X;Y_{0})\Rightarrow \theta(X)=a X$$    
 
