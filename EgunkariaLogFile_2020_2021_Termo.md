@@ -118,10 +118,10 @@ $\require{\graphicx}$
    - *Callen* liburua     
 
   Jakina, bietan modu berean planteatzen da helburua:    
-    - aztergai den *[sistema]*$_{1}$  
-    - hasierako *[oreka-egoeran dago]*$_{2}$    
-    - *[prozesuren]*$_{3}$ bat *[martxan jartzen]*$_{4}$ da    
-    - *[iragarri]*$_{5}$ behar da zer bukaerako oreka-egoeratan bukatuko duen sistemak  
+    - aztergai den *[sistema]* $_{1}$  
+    - hasierako *[oreka-egoeran dago]* $_{2}$    
+    - *[prozesuren]* $_{3}$ bat *[martxan jartzen]* $_{4}$ da    
+    - *[iragarri]* $_{5}$ behar da zer bukaerako oreka-egoeratan bukatuko duen sistemak  
 
   Azpiindizedunak dira azaldu beharreko kontzeptuak, horiek dira hain zuen ere teoria eraiki ahala argituz joango direnak: zer den sistema eta nola definituta dagoen, zer den oreka-egoera, zer den eta zer ez den prozesua, nola definitu behar den; zer esan nahi duen prozesua martxan jartzeak eta nola iragarri behar den, zer tresna dagoen iragartzeko.    
 
@@ -194,17 +194,17 @@ $\require{\graphicx}$
 
    Horrela definitutako bi sistema hartuko dira aintzakotzat: $A$ eta $B$ sistemak, eta horiek deskribatzeko independenteak diren aldagaien sortak dira: $\{X,Y\}$ eta $\{X',Y'\}$, esan bezala, inolako orokortasunik galdu gabe.    
 
-   Finkatu egingo da $A$ sistemaren oreka-egoera bat: $\{X_{1},Y_{1}\}$. Ondoren, $A$ eta $B$ sistemen artean berezite-horma diatermoa jarriko da. Esperientziaren arabera, aurkitu daiteke $B$ sistemaren oreka-egoera bat, $\{X'_{1},Y'_{1}\}$, zeinaren kasuan $A$ sistemaren $\{X_{1},Y_{1}\}$ oreka-egoera ez den aldatzen. Hots, horren kasuan, $A$ eta $B$ sistemak oreka-egoera termikoan daudela esango da.    
+   Finkatu egingo da $A$ sistemaren oreka-egoera bat: $\{X_{1},Y_{1}\}$. Ondoren, $A$ eta $B$ sistemen artean berezite-horma diatermoa jarriko da. Esperientziaren arabera, aurkitu daiteke $B$ sistemaren oreka-egoera bat, $\{X^{'}_{1},Y^{'}_{1}\}$, zeinaren kasuan $A$ sistemaren $\{X_{1},Y_{1}\}$ oreka-egoera ez den aldatzen. Hots, horren kasuan, $A$ eta $B$ sistemak oreka-egoera termikoan daudela esango da.    
 
-   Esperientziaren arabera baita ere, honako hau posiblea da: $A$ bere horretan dagoela $\{X_{1},Y_{1}\}$ egoeran, aldatzea $B$ sistemaren aldagaien balioak, era independentean (aldagai independenteak baitira), $\{X'_{1},Y'_{1}\}$ balioetara, eta oraindik ere mantentzea bi sistemen arteko oreka-egoera termikoa. Hots, $\{X_{1},Y_{1}\}$ eta $\{X'_{1},Y'_{1}\}$, batetik; eta, bestetik, $\{X_{1},Y_{1}\}$ eta $\{X'_{2},Y'_{2}\}$ aldagaien balio-bikoteek adierazten dituzte $A$ eta $B$ sistemen oreka-egoera termikoan dauden egoerak.    
+   Esperientziaren arabera baita ere, honako hau posiblea da: $A$ bere horretan dagoela $\{X_{1},Y_{1}\}$ egoeran, aldatzea $B$ sistemaren aldagaien balioak, era independentean (aldagai independenteak baitira), $\{X^{'}_{1},Y^{'}_{1}\}$ balioetara, eta oraindik ere mantentzea bi sistemen arteko oreka-egoera termikoa. Hots, $\{X_{1},Y_{1}\}$ eta $\{X^{'}_{1},Y^{'}_{1}\}$, batetik; eta, bestetik, $\{X_{1},Y_{1}\}$ eta $\{X'_{2},Y'_{2}\}$ aldagaien balio-bikoteek adierazten dituzte $A$ eta $B$ sistemen oreka-egoera termikoan dauden egoerak.    
 
-   Puntu honetan aintzakotzat hartuz 0. Printzipioa, honako hau ondorioztatu daiteke: $\{X_{1},Y_{1}\}$ eta $\{X'_{1},Y'_{1}\}$ oreka termikoan daudenez (oreka termikoan dauden egoerak direnez, hobeto esateko); eta $\{X_{1},Y_{1}\}$ eta $\{X'_{2},Y'_{2}\}$, ere bai, orduan, $\{X'_{1},Y'_{1}\}$ eta $\{X'_{2},Y'_{2}\}$ oreka-egoera termikoan daude. Hots, ondorio orokorra da aurkitu direla $B$ sistemaren elkarren arteko oreka-egoera termikoan dauden bi egoera (konfigurazio-espazioko bi puntu) aldi berean $A$ sistemako egoera batekin oreka-egoera termikoan daudenak.    
+   Puntu honetan aintzakotzat hartuz 0. Printzipioa, honako hau ondorioztatu daiteke: $\{X_{1},Y_{1}\}$ eta $\{X^{'}_{1},Y^{'}_{1}\}$ oreka termikoan daudenez (oreka termikoan dauden egoerak direnez, hobeto esateko); eta $\{X_{1},Y_{1}\}$ eta $\{X'_{2},Y'_{2}\}$, ere bai, orduan, $\{X^{'}_{1},Y^{'}_{1}\}$ eta $\{X'_{2},Y'_{2}\}$ oreka-egoera termikoan daude. Hots, ondorio orokorra da aurkitu direla $B$ sistemaren elkarren arteko oreka-egoera termikoan dauden bi egoera (konfigurazio-espazioko bi puntu) aldi berean $A$ sistemako egoera batekin oreka-egoera termikoan daudenak.    
 
     >`Iruzkina`: Era independentean aldatzea da $\{X',Y'\}$ planoko (konfigurazio-espazioko) edozein puntutara *joatea*, aldatzea aldagaien balioak. Onartuko da aldaketa hori txikia dela, nahiz eta edozein motatakoa izan daitekeen, eta halere, ez da orokortasunik galduko.     
 
    Orain arte burututako prozedura behin eta berriro errepikatu daiteke eta, beraz, aurkitu daitezke $B$ sistemaren $\{X'_{i},Y'_{i}\}$, $i \in [1,2,3,\cdots]$ nahi beste oreka-egoerak $A$ sistemaren $\{X_{1},Y_{1}\}$ egoerarekin oreka-egoera termikoan daudenak eta, hortaz, elkarren arteko oreka-egoera termikoan ere bai egongo direnak.     
 
-   Prozedura, bestera ere bai errepikatu daiteke: hots, abiapuntuan $B$ sistemaren oreka-egoera bat finkatuz, $\{X'_{1},Y'_{1}\}$ eta aurkituz $A$ sistemaren oreka-egoeren sorta bat, $\{X_{i},Y_{i}\}$, $i \in [1,2,3,\cdots]$, harekin oreka-egoera termikoan dagoena eta, beraz, elkarren arteko oreka-egoera termikoan daudenak.    
+   Prozedura, bestera ere bai errepikatu daiteke: hots, abiapuntuan $B$ sistemaren oreka-egoera bat finkatuz, $\{X^{'}_{1},Y^{'}_{1}\}$ eta aurkituz $A$ sistemaren oreka-egoeren sorta bat, $\{X_{i},Y_{i}\}$, $i \in [1,2,3,\cdots]$, harekin oreka-egoera termikoan dagoena eta, beraz, elkarren arteko oreka-egoera termikoan daudenak.    
 
     >`Iruzkina`: Liburuak aipatzen duen moduan, sistema edozein izanda ere, ez dago zertan onartzea prozeduretan aurkitu diren sortetako puntuek (oreka-egoera termikoek) konfigurazio-espazioko lerro jarraituak eratzen dituztenik, baina, esperientziaren arabera, horrela izaten da, normalean, gutxienez, konfigurazio-espazioko gune jakinetan. Ikusiko denez, konfigurazio-espazioko gune horietan *definituta* egongo dira, *baliagarriak izango dira* ***egoera-ekuazioak***.    
 
@@ -889,6 +889,11 @@ name: egoera_ekuazioa_baliokidetasuna
     - Adierazpen horretan, $Y$ eta $X$ dira askatasun-graduarekin lotutako aldagai intentsibo eta estentsibo, konjokatuak (*Mekanikako* zentzuan) horiek, hurrenez hurren     
 
 
+-----------------------     
+
+**Sep2020-23**  (2.0 -  14.0; guztira  14.0)
+
+------------------------   
 
 
 - 4.1 [**Lana (Lan mekanikoa)**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_02_24.pdf) gogorarazi     
@@ -932,7 +937,7 @@ name: egoera_ekuazioa_baliokidetasuna
 - 4.2 [**Lanaren orokortzea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_05_27.pdf)        
 
   - lan mekanikoan erabili den definizio berbera erabiliko da, formari dagokionez     
-  - demagun askatasun-gradu mekanikoa ez den beste askatasun-gradu batekin lotutako lana (lanaren *abizena* izango da aipatutako askatasun-graduari dagokiona, jakina) idatzi nahi dela:      
+  - askatasun-gradu mekanikoa ez den beste askatasun-gradu batekin lotutako lana (lanaren *abizena* izango da aipatutako askatasun-graduari dagokiona, jakina) idatzi nahi dela:      
     - askatasun-graduarekin lotutako aldagai **in**tentsiboa eta **es**tentsiboa direla $Y$ eta $X$, hurrenez hurren.      
 
     - lan mekanikoaren kasuan $p$ eta $V$ aldagaien parekoak     
