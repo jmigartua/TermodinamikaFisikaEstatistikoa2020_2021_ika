@@ -190,9 +190,9 @@ $\require{\graphicx}$
 
    Onartuko da, inolako orokortasunik galdu gabe, aztertu beharreko sistemak 2 aldagai independente baino ez dauzkala; gainera, ondorioztatuko dena erabat orokorra izango denez, ez da erreferentziarik egingo sistema mota jakin bati; beraz, aldagai independenteak adierazteko $X$ eta $Y$ ikurrak erabiliko dira.      
 
-   Bi aldagai independente horien bidez sistema deskribatuko da eta, horretarako, bi dimentsioko konfigurazio-espazioa erabiliko da. Konfigurazio-espazio horretan, sistemaren oreka-egoerak adieraziko dira. Definizioz, oreka-egoera da sistemaren egoera bat zeinean bere deskribapenean parte hartzen duten aldagai termodinamikoen balioak ez diren aldatzen. Beraz, konfigurazio-espazioko puntuek adieraziko dituzte sistemaren oreka-egoerak. Aztertzen ari den edibide jakinean, konfigurazio-espazioko puntuak adierazteko $X$ eta $Y$ aldagaien balio-bikoteak finkatu behar dira, honako hauek, esaterako: $\{X_{1},Y_{1}\}$.     
+   Bi aldagai independente horien bidez sistema deskribatuko da eta, horretarako, bi dimentsioko konfigurazio-espazioa erabiliko da. Konfigurazio-espazio horretan, sistemaren oreka-egoerak adieraziko dira. Definizioz, oreka-egoera da sistemaren egoera bat zeinean bere deskribapenean parte hartzen duten aldagai termodinamikoen balioak ez diren aldatzen. Beraz, konfigurazio-espazioko puntuek adieraziko dituzte sistemaren oreka-egoerak. Aztertzen ari den edibide jakinean, konfigurazio-espazioko puntuak adierazteko $X$ eta $Y$ aldagaien balio-bikoteak finkatu behar dira, honako hauek, esaterako: ${X_{1},Y_{1}}$.     
 
-   Horrela definitutako bi sistema hartuko dira aintzakotzat: $A$ eta $B$ sistemak, eta horiek deskribatzeko independenteak diren aldagaien sortak dira: $\{X,Y\}$ eta $\{X',Y'\}$, esan bezala, inolako orokortasunik galdu gabe.    
+   Horrela definitutako bi sistema hartuko dira aintzakotzat: $A$ eta $B$ sistemak, eta horiek deskribatzeko independenteak diren aldagaien sortak dira: ${X,Y}$ eta ${X',Y'}$, esan bezala, inolako orokortasunik galdu gabe.    
 
    Finkatu egingo da $A$ sistemaren oreka-egoera bat: $\{X_{1},Y_{1}\}$. Ondoren, $A$ eta $B$ sistemen artean berezite-horma diatermoa jarriko da. Esperientziaren arabera, aurkitu daiteke $B$ sistemaren oreka-egoera bat, $\{X'_{1},Y'_{1}\}$ bera, zeinaren kasuan $A$ sistemaren $\{X_{1},Y_{1}\}$ oreka-egoera ez den aldatzen. Hots, horren kasuan, $A$ eta $B$ sistemak oreka-egoera termikoan daudela esango da.    
 
@@ -202,7 +202,7 @@ $\require{\graphicx}$
 
     >`Iruzkina`: Era independentean aldatzea da $\{X',Y'\}$ planoko (konfigurazio-espazioko) edozein puntutara *joatea*, aldatzea aldagaien balioak. Onartuko da aldaketa hori txikia dela, nahiz eta edozein motatakoa izan daitekeen, eta halere, ez da orokortasunik galduko.     
 
-   Orain arte burututako prozedura behin eta berriro errepikatu daiteke eta, beraz, aurkitu daitezke $B$ sistemaren $\{X'_{i},Y'_{i}\}$ $i \in [1,2,3,\cdots]$ nahi beste oreka-egoerak $A$ sistemaren $\{X_{1},Y_{1}\}$ egoerarekin oreka-egoera termikoan daudenak eta, hortaz, elkarren arteko oreka-egoera termikoan ere bai egongo direnak.     
+   Orain arte burututako prozedura behin eta berriro errepikatu daiteke eta, beraz, aurkitu daitezke $B$ sistemaren $\{X'_{i},Y'_{i}\},i \in [1,2,3,\cdots]$ nahi beste oreka-egoerak $A$ sistemaren $\{X_{1},Y_{1}\}$ egoerarekin oreka-egoera termikoan daudenak eta, hortaz, elkarren arteko oreka-egoera termikoan ere bai egongo direnak.     
 
    Prozedura, bestera ere bai errepikatu daiteke: hots, abiapuntuan $B$ sistemaren oreka-egoera bat finkatuz, $\{X{'}_{1},Y{'}_{1}\}$ eta aurkituz $A$ sistemaren oreka-egoeren sorta bat, $\{X_{i},Y_{i}\}$, $i \in [1,2,3,\cdots]$, harekin oreka-egoera termikoan dagoena eta, beraz, elkarren arteko oreka-egoera termikoan daudenak.    
 
