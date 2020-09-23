@@ -13,6 +13,7 @@ MathJax.Hub.Config({
 
 $\require{\cancel}$
 $\require{\graphicx}$
+$\require{\amssymb}$
 
 
 # *Log file, irakasgaiaren egunkaria*
@@ -309,7 +310,7 @@ $\require{\graphicx}$
 
       Sistema mota jakina horretan sistema konkretua finkatzea da, orokorrean, honako hau: $S=S(X,Y,Z) \to S_{1}=S_{1}(X_{1},Y_{1},Z_{1})$.   
 
-      Hurrengo urratsetarako, orokortasunik galdu gabe, azterketak errazteko asmoz, bi aldagai baino ez duen sistema konkretua aukeratuko da; hots, honako hau izango da: $S_{1}=S_{1}(X_{1},Y_{1})$. Gainera, notazioa errazteko, $\msquare_{1}$ azpiindizea kendu egingo da, jakinik, dagoeneko aukeratuta dagoela sistema konkretua.    
+      Hurrengo urratsetarako, orokortasunik galdu gabe, azterketak errazteko asmoz, bi aldagai baino ez duen sistema konkretua aukeratuko da; hots, honako hau izango da: $S_{1}=S_{1}(X_{1},Y_{1})$. Gainera, notazioa errazteko, $\square_{1}$ azpiindizea kendu egingo da, jakinik, dagoeneko aukeratuta dagoela sistema konkretua.    
 
       Bi aldagai independenteko sistema erabiltzean, sistemari dagokion konfigurazio-espazioa bi dimentsiokoa da eta hari dagozkion *egoerak* (oreka-egoerak, nahiz eta diskurtsoa errazteko egoerak erabiliko den; baina, jakina, ***oreka-egoerak*** dira **beti**) dira, orokorrean, $X$ eta $Y$ aldagaiez osatuko planoko *puntuak*. Hobeto esateko: planoko puntu horiek adierazten dituzte aukeratutako sistemari dagozkion egoerak (oreka-egoerak). Eta puntuek adierazten dituzte oreka-egoerak haien koordenatuen balioak aldatzen ez diren bitartean, hori baita orekan egotea, ezer ez aldatzea.    
 
