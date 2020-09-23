@@ -343,7 +343,7 @@ $\require{\amssymb}$
 
       Honako hau egin denez:     
 
-      $$\\{X,Y,Z,\cdots\\} \to \\{X,Y,Z\\} \to S=S(X,Y,X) \Rightarrow S=S(X,Y)\to S_{1}=S_{1}(X_{1},Y_{1}={Y_{1}|}_{Y_{1}=Y_{0}})\equiv S_{1}=S_{1}(X_{1};Y_{0})$$    
+      $$\\{X,Y,Z,\cdots\\} \to \\{X,Y,Z\\} \to S=S(X,Y,X) \Rightarrow S=S(X,Y)\to S_{1}=S_{1}(X_{1},Y_{1}=Y_{1}|_{Y_{1}=Y_{0}})\equiv S_{1}=S_{1}(X_{1};Y_{0})$$    
 
       Honakoa hau da lortu den tenperatura-funtzioa: $h_{S_{1}}=h_{S_{1}}(X_{1};Y_{0})$.    
       Horri, eite jakina esleitu zaio, lineala (adierazpenak errazteko $\circle_{1}$ azpiindizea desagertarazi da, orokortasunik galdu gabe):   
@@ -776,7 +776,7 @@ name: 03_07_20_prozesua
 
   - Puntu honetan, galdera honako hau izan daiteke: goragoko baliokideak diren egoera-ekuazioaren zein adierazpen erabili behar da? Eta erantzuna da horietako edozein erabil daiteke, testuinguruak *gomendatuko* zein erabili, denak baitira baliokide.     
 
-  - Baliokidetasuna egiaztatzeko, ikus beheko irudia, zeinean grafikoki adierazi den egoera-ekuazioa, printzipioz modu honetan: $Y=Y(X^{1}_{k},X^{1}_{j})$. Hots, $\{X^{1}_{k},X^{1}_{j}\}$ bikotea aukeratu da aldagai independentetzat eta $Y$, dependentetzat. Baina, printzipioz, posiblea da, gutxienez era formalean, analitikoki, gainerakoen funtzioan bakantzea edozein aldagai. Beraz, $X^{1}_{j}=X^{1}_{j}(Y,X^{1}_{k})$ idatz daitekeela onartuko da; nahiz eta aldagai independenteen sorta beste bat izan, kurba ez da aldatzen; hau da, sistemari buruzko informazioa ez da aldatzen.    
+  - Baliokidetasuna egiaztatzeko, ikus beheko irudia, zeinean grafikoki adierazi den egoera-ekuazioa, printzipioz modu honetan: $Y=Y($X_{k}^{1},X_{j}^{1})$. Hots, $\{$X_{k}^{1},X_{j}^{1}\}$ bikotea aukeratu da aldagai independentetzat eta $Y$, dependentetzat. Baina, printzipioz, posiblea da, gutxienez era formalean, analitikoki, gainerakoen funtzioan bakantzea edozein aldagai. Beraz, $X_{j}^{1}=X_{j}^{1}(Y,X^{1}_{k})$ idatz daitekeela onartuko da; nahiz eta aldagai independenteen sorta beste bat izan, kurba ez da aldatzen; hau da, sistemari buruzko informazioa ez da aldatzen.    
 
 
 ```{figure} ../irudiak/termodinamika_02_astea/egoera_ekuazioa_baliokidetasuna.png    
