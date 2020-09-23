@@ -248,7 +248,7 @@ $\require{\amssymb}$
 
    Har dezagun kontuan 0. Printzipioa: berdintza horrek adierazten du $A$ eta $B$ sistemen arteko oreka-egoera termikoa. Baina berori kontuan hartzeko modua da honako funtzio inplizitua idaztea: $f_{A,B}(X_{A},Y_{A};X_{B},Y_{B})=0$, zeinean, jakina, $A$ eta $B$ sistemen aldagai termodinamikoak baino ez diren agertzen. B funtzio inplizituek *oreka berbera adierazten dute*:   
 
-   $$\left. \begin{array}{rcl} f_{A,B}  (X_{A},Y_{A};X_{B},Y_{B})&=&0  \\ g_{A,B,C}(X_{A},Y_{A};X_{B},Y_{B};X_{C})&=&0 \end{array} \right\} \quad X_{C} \quad \textrm{soberan dago}$$    
+   $$\left. \begin{array}{rcl} f_{A,B}  (X_{A},Y_{A};X_{B},Y_{B})&=&0  \\ g_{A,B,C}(X_{A},Y_{A};X_{B},Y_{B};X_{C})&=&0 \end{array} \right\\} \quad X_{C} \quad \textrm{soberan dago}$$    
 
    Jakina, $X_{C}$ soberan dago, bi funtzio inplizituek adierazten baitute oreka-egoera termiko berbera, eta funtzio matematiko diren heinean, egoera berbera adierazten badute, $A$ eta $B$ sistemen aldagaien balioak edozein izanda (kurbetan, jakina) baina $C$ egoera berbera izanik, modu bakarra da $A$ eta $B$ sistemen aldagaien *konbiazio* izatea:   
 
