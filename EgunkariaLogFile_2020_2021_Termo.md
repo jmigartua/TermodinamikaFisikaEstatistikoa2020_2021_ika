@@ -194,7 +194,7 @@ $\require{\graphicx}$
 
    Horrela definitutako bi sistema hartuko dira aintzakotzat: $A$ eta $B$ sistemak, eta horiek deskribatzeko independenteak diren aldagaien sortak dira: ${X,Y}$ eta ${X',Y'}$, esan bezala, inolako orokortasunik galdu gabe.    
 
-   Finkatu egingo da $A$ sistemaren oreka-egoera bat: $\\{X_{1},Y_{1}\\}$. Ondoren, $A$ eta $B$ sistemen artean berezite-horma diatermoa jarriko da. Esperientziaren arabera, aurkitu daiteke $B$ sistemaren oreka-egoera bat, $\\{X^{\prime}_{1},Y^{\prime}_{1}\\}$ bera, zeinaren kasuan $A$ sistemaren $\\{X_{1},Y_{1}\\}$ oreka-egoera ez den aldatzen. Hots, horren kasuan, $A$ eta $B$ sistemak oreka-egoera termikoan daudela esango da.    
+   Finkatu egingo da $A$ sistemaren oreka-egoera bat: $\\{X_{1},Y_{1}\\}$. Ondoren, $A$ eta $B$ sistemen artean bereizte-horma diatermoa jarriko da. Esperientziaren arabera, aurkitu daiteke $B$ sistemaren oreka-egoera bat, $\\{{X}^{\prime}_{1},{Y}^{\prime}_{1}\\}$ bera, zeinaren kasuan $A$ sistemaren $\\{X_{1},Y_{1}\\}$ oreka-egoera ez den aldatzen. Hots, horren kasuan, $A$ eta $B$ sistemak oreka-egoera termikoan daudela esango da.    
 
    Esperientziaren arabera baita ere, honako hau posiblea da: $A$ bere horretan dagoela $\\{X_{1},Y_{1}\\}$ egoeran, aldatzea $B$ sistemaren aldagaien balioak, era independentean (aldagai independenteak baitira), $\\{X'_{1},Y'_{1}\\}$ balioetara, eta oraindik ere mantentzea bi sistemen arteko oreka-egoera termikoa. Hots, $\\{X_{1},Y_{1}\\}$ eta $\\{X'_{1},Y'_{1}\\}$ batetik; eta, bestetik, $\\{X_{1},Y_{1}\\}$ eta $\\{X'_{2},Y'_{2}\\}$ aldagaien balio-bikoteek adierazten dituzte $A$ eta $B$ sistemen oreka-egoera termikoan dauden egoerak.    
 
