@@ -988,126 +988,244 @@ name: egoera_ekuazioa_baliokidetasuna
   ![Adibidea](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_06_28_1.png)
 
 
+-------------------------
+
+**Sep2020-24**  (2.0 -  16.0; guztira  16.0)
+
+-------------------------      
+
+
+
+- 4.3 [**Masa konstanteko sistema hidrostatikoaren hiru aldaketa posibleak**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_08_30.pdf)       
+
+  Masa konstanteko sistema hidrostatikoak 2 askatasun-gradu baino ez dauka: termikoa eta mekanikoa (kimikoa izoztuta dauka). Orduan, orokorrean, bi modutan baino ezin da *lotu*, elkarrekintza izan, ingurunearekin: termikoki edo/eta mekanikoki. Hots, banan banan erabilgarri dituen askatasun-graduak *martxan jarriz*.     
+
+    - lana aztertu denean, aipatu gabe joan da honako hau: lan mekanikoa egiten denean,beti pentsa daiteke sistema ingurunearekin lotuta dagoela mekaniko tramankulu mekaniko baten bidez.    
+
+    - tramankulu mekaniko horren konfigurazioari begiratuz, esan dezakegu lana egin dela eta nolakoa izan den lan hori: positibo edo negatibo.      
+
+    - Irudiko lehen hilaran adierazten da masa konstanteko sistema hidrostatiko bat termikoki isolatuta, horma adiabatikoz inguratuta, eta mekanikoki lotuta, tramankulu mekanikoaren bidez, inguruneari.     
+
+       Sistemak egiten duen lana da ***adiabatikoa***.     
+
+    - Irudiko bigarren hilaran adierazten da masa konstanteko sistema hidrostatikoa termikoki lotua inguruneari, beheko horma diatermoa baita, eta inolako lotura mekanikorekin ingurunearekin (mekanikoki isolatuta da, beraz).     
+
+    - Irudiko hirugarren hilaran adierazten da masa konstanteko sistema hidrostatikoa, kasu honetan, posibleak dituen 2 askatasun-graduak martxan dauzkala: lotura termikoa eta mekanikoa dauka ingurunearekin.     
+
+    Beraz, azken kasu honetan pairatuko du gerta dakiokeen prozesurik orokorrena, zeinak sistemaren egoera termikoa eta mekanikoa independenteki aldatu dituen.     
+
+- 4.4 [**Oinarrizko bereizketa: *sistema/ingurunea* bikotea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_09_31.pdf)       
+
+    - [Beste adibide batzuk](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_10_32.pdf)      
+
+Iruzkina:      
+
+  - Ez dago energia-barreiaketarik: *ondo* irakurri liburua (1)       
+  ![Energia-barreiaketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_11_33_1_1.png)       
+
+  - Ez dago energia-barreiaketarik: *ondo* irakurri liburua (2)     
+  ![Energia-barreiaketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_11_33_2_1.png)      
+
+- 4.4 [**Lan adiabatikoaren azterketa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_12_34.pdf)       
+
+  - Inguruenarekin lotura mekanikoa baino ez duen sistema aztertuko da; beraz, egoera aldatzekotan mekanikoki baino ezin izango du aldatu. Gainerako askatasun-graduak izoztuta dauzkala onartuko da.      
+
+  - Zertxobait orokorrago egitearren, masa konstanteko bi azpisistema hidrostatikoz gehi erresistentzia elektriko banaz osatutako sistema konposatua aztertuko da. Hortaz, bina askatasun-gradu dituzte azpisitemek eta, ondorioz, sistema konposatuak lau askatasun-gradu. Halere, azpisistemen artean bereizte-horma diatermoa ezarriko da. Horren arabera, bik partekatuko dute egoera termikoa eta tenperaturaren balio bakarrak balioko du sistema konposatuaren egoera termikoa ezaugarritzeko. Azkenik, sistema konposatuak hiru askatasun-gradu baino ez dauzka: termikoa eta bi mekaniko, bi pistoi higikorren bidez adierazita.     
+
+  - Aldagai independenteen sortan sistema konposatuaren deskribapenean parte hartzen duten edozein hiru aldagaiz osatutako konbinazio ager daiteke; esaterako $(V^{1},V^{2},T)$.    
+
+  - Hiru horien bidez, sistema konposatuari dagokion konfigurazio espazioa eraiki daiteke. Jakina, espazio horretan dagoen edozein puntuk adierazten du sistemari dagokion oreka-egoera. Horietako bi finkatuko dira eta prozesuen bidez lotuko dira: $i$ eta $f$.     
+
+  - Prozesuak orotarikoak izan daitezke:     
+
+    - pistoiak, era independentean, atera edo barneratu daitezke, poliki-poliki (kuasi-estatikoki termodinamikan) edo kolpeen bidez, bat-batean, era ez kuasi-estatikoan      
+
+    - azpisitemak osatuz dauden erresistentzia elektrikoetan korronte elektrikoa zirkularaz daiteke (poliki-poliki edo *kolpeka*), horretarako horiekin mekanikoki lotuta dauden tramankulu mekanikoen konfigurazio mekanikoa aldatuz      
+
+    - edo horien bidezko edozein konbinazio      
+
+  - Kasu horietan guztietan, lana baino ez da egiten, lan adiabatikoa, sistema konposatua adiabatikoki isolatuta baitago.       
+
+  - Esperientziak esaten du horietan guztietan egiten den lanaren (lan adiabatikoaren) balioa beti dela berdina: $i$-tik $f$-rako prozesua edozein izanda ere, lanaren balioa ez da aldatzen.     
+
+  - Horrelako lanak, ***lan adiabatikoak***, ez dauka ibilbidearekiko mendekotasunik.    
+
+    - Ibilbidearekiko mendekotasunik ez badauka      
+      - matematikoki diferentzial zehatza da       
+      - fisikoki sistemaren propietatea da      
+    - esperientziaren arabera definitu daiteke (edozein sistemaren kasuan) sistemaren propietatea den magnitude bat, ***barne-energia*** deritzona, zeinaren bi egoeren arteko aldaketa den bi egoera horiek lotzeko egin den lan adiabatikoren berdin:       
+
+       $$W_{i\rightarrow f}^{ad.}\equiv U_{f} - U_{i}$$      
+
+  - Adierazpen horretan:    
+
+    1. energiaren kontserbazioaren printzipioa dago     
+      sistemak egin duen lana bere (barne-)energiari esker egin du      
+    2. edozein sistemaren kasuan definitu daiteke *barne-energia* propietatea      
+    3. Barne-energia da, beraz, sistemaren deskribapenean parte hartzen duten aldagai termodinamikoen benetan existitzen den funtzioa, diferentzial zehatza     
+
+
+
+- Gogora ekarri barne-energia funtzioa ondorioztatzeko erabili diren prozesuak, ondo zehaztuz      
+
+- Gogora ekarri *edozein sistemaren kasuan ondorioztatu daitekeela $U$ barne-energiaren existentzia eta funtzio hori beti idatz daitekeela sistemaren deskribapenean parte hartzen duten edozein aldagairen sortaren funtzioan eta, gainera, sistemaren propietate bat adierazten duenez, barne-energia egoera-funtzioa dela, diferentzia zehatza.*      
+
+- 4.6 [**Lehenengo Printzipioaren formulazio matematikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_13_35.pdf)      
+
+  - $i$ eta $f$ egoerak berriro lotuko dira baina oraingo honetan lan ez-adiabatikoa eginez; hots, lehengo isolamendu adiabatikoa kenduta.    
+
+  - egindako lana ez da berezia, adiabatikoa, baizik eta arrunta; hortaz, lan arrunta den heinean, ibildearekiko mendekotasuna dauka eta ez da lehengo lan adiabatikoaren berdin     
+
+  - halere, bi egoeren arteko barne-energiaren aldaketa, diferentzial zehatza den heinean, ez da aldatu     
+
+  - bi prozesu motetan, adiabatikoa eta ez-adiabatiko, gertatu den barne-energiaren aldaketa da:     
+    - adiabatikoan: $\Delta U_{i-f}^{ad} = W_{i-f}^{ad}$     
+    - ez-adiabatikoan: $\Delta U_{i-f}^{ez-ad}=U_{i-f}^{ad}(=W_{i-f}^{ad})\ne W_{i-f}^{ez-ad}$     
+
+  - lan ez-adiabatikoa eta barne-energiaren artean aldea dago, sistema eta inguruenaren artean tenperatura-diferentzia dagoelako, tenperatura-diferentziari esker...      
+
+  - energiaren kontserbazioaren printzipioarekin bat etortzeko, diferentzia hori da ***sistemak ingurunearekin bero moduan trukatu duen energia***     
+
+  $$Q = \Delta U - W$$     
+
+  $$\delta Q = dU - \delta W$$     
+
+  - Energiaren kontserbazioaren printzipioa, askatasun-gradu termikoa kontuan hartuz:
+  $$\boxed{\Delta U = Q + W}$$      
+
+  - Sistemak (masa konstanteko sistema hidrostatikoak, bi askatasun-gradukoa baino ez bera) bi modu dauzka bere egoera, bere energia-edukia, aldatzeko:     
+
+      - termikoki lotuta dagoela ingurunearekin energia bero moduan trukatuz   
+      - mekaniko lotuta dagoela ingurunearekin lan eginez      
+
+- 4.7 [**Laburbilduma eta orokortzea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_15_37.pdf)      
+
+
+
+----------------------------
+
+$$\boxed{\delta Q = dU - \delta W}$$       
+
+  - $\delta$: diferentzial ez zehatza    
+
+    - ez dago sistema bati dagokion BEROA (LANA)    
+    - ez dago sistema bati dagokion $Q=Q(X,Y,Z,\dots)$ edo $W=W(X,Y,Z,\dots)$     
+
+  - $d$: diferentzial zehatza      
+
+    - badago sistema bati dagokion BARNE-ENERGIA    
+
+      $$\boxed{U=U(X,Y,Z,\dots)}$$    
+
+
+-----------------------------
+
+- $dU$: sistema bati dagokion ***barne-energia*** bi modutan alda daiteke:    
+
+  1. tenperatura-diferentziari esker: $\hspace{1.6cm} \delta Q$     
+  2. tenperatura-diferentzia *ez denari* esker: $\delta W$    
+
+     lan hori edozein motatakoa izan daiteke, edo denak    
+     edozein askatasun-graduarekin lotutakoa    
+
+
+
+$$\begin{aligned} \delta W &=\sum\limits_{i=1}^{n} \delta W_{i} \\ &=\sum\limits_{i=1}^{n} Y_{i} d X_{i}\end{aligned}$$     
+
+$$\boxed{dU =\delta Q+\sum\limits_{i=1}^{n} Y_{i} d X_{i}}$$   
+--------------------
+
+Eta hori guztia orokortu daiteke eta beste forma bat, laburtua, eman dakioke, formalismoa aldatzean lortuko dena, honako hau
+
+$$\begin{aligned} dU &=T dS+ \sum_{i=1}^{n} Y_{i} dX_{i} \end{aligned}$$     
+
+$$\boxed{dU = \sum_{i=0}^{n} Y_{i} d X_{i}}$$     
+
+Askatasun-gradu termikoarekin lotutako *lan termikoaren* (beroaren) adierazpena, zenbait baldintza esperimentaletan, bestelako lan motekin lotutako adierazpenen modukoa da: askatasun-graduarekin lotutako aldagai intentsiboaren bider aldagai estentsiboaren aldaketa infinitesimalaren arteko biderkadura:     
+
+$$\delta Q \equiv \delta W^{termiko} = T dS$$     
+
+--------------------
+
 <!---
 
-- 4.3 [**Masa konstanteko sistema hidrostatikoaren hiru aldaketa posibleak**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_08_30.pdf)
-  Masa konstanteko sistema hidrostatikoak 2 askatasun-gradu baino ez dauka: termikoa eta mekanikoa (kimikoa izoztuta dauka). Orduan, orokorrean, bi modutan baino ezin da *lotu*, elkarrekintza izan, ingurunearekin: termikoki edo/eta mekanikoki. Hots, banan banan erabilgarri dituen askatasun-graduak *martxan jarriz*.
-    - lana aztertu denean, aipatu gabe joan da honako hau: lan mekanikoa egiten denean,beti pentsa daiteke sistema ingurunearekin lotuta dagoela mekaniko tramankulu mekaniko baten bidez.
-    - tramankulu mekaniko horren konfigurazioari begiratuz, esan dezakegu lana egin dela eta nolakoa izan den lan hori: positibo edo negatibo.
-    - Irudiko lehen hilaran adierazten da masa konstanteko sistema hidrostatiko bat termikoki isolatuta, horma adiabatikoz inguratuta, eta mekanikoki lotuta, tramankulu mekanikoaren bidez, inguruneari.
-     Sistemak egiten duen lana da ***adiabatikoa***.
-    - Irudiko bigarren hilaran adierazten da masa konstanteko sistema hidrostatikoa termikoki lotua inguruneari, beheko horma diatermoa baita, eta inolako lotura mekanikorekin ingurunearekin (mekanikoki isolatuta da, beraz).
-    - Irudiko hirugarren hilaran adierazten da masa konstanteko sistema hidrostatikoa, kasu honetan, posibleak dituen 2 askatasun-graduak martxan dauzkala: lotura termikoa eta mekanikoa dauka ingurunearekin.
-    Beraz, azken kasu honetan pairatuko du gerta dakiokeen prozesurik orokorrena, zeinak sistemaren egoera termikoa eta mekanikoa independenteki aldatu dituen.
-- 4.4 [**Oinarrizko bereizketa: *sistema/ingurunea* bikotea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_09_31.pdf)
-    - [Beste adibide batzuk](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_10_32.pdf)
+- 4.8 [**Bero-ahalmena**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_16_38.pdf): Honako hau da *bero-ahalmenaren* eragiketa-definizioa:    
 
-Iruzkina:
-  - Ez dago energia-barreiaketarik: *ondo* irakurri liburua (1)
-  ![Energia-barreiaketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_11_33_1_1.png)
-  - Ez dago energia-barreiaketarik: *ondo* irakurri liburua (2)
-  ![Energia-barreiaketa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_11_33_2_1.png)
+$$C_{\bigcirc}=\left(\frac{\delta Q}{dT}\right)_{\bigcirc}$$     
 
-- 4.4 [**Lan adiabatikoaren azterketa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_12_34.pdf)
-  - Inguruenarekin lotura mekanikoa baino ez duen sistema aztertuko da; beraz, egoera aldatzekotan mekanikoki baino ezin izango du aldatu. Gainerako askatasun-graduak izoztuta dauzkala onartuko da.
-  - Zertxobait orokorrago egitearren, masa konstanteko bi azpisistema hidrostatikoz gehi erresistentzia elektriko banaz osatutako sistema konposatua aztertuko da. Hortaz, bina askatasun-gradu dituzte azpisitemek eta, ondorioz, sistema konposatuak lau askatasun-gradu. Halere, azpisistemen artean bereizte-horma diatermoa ezarriko da. Horren arabera, bik partekatuko dute egoera termikoa eta tenperaturaren balio bakarrak balioko du sistema konposatuaren egoera termikoa ezaugarritzeko. Azkenik, sistema konposatuak hiru askatasun-gradu baino ez dauzka: termikoa eta bi mekaniko, bi pistoi higikorren bidez adierazita.
-  - Aldagai independenteen sortan sistema konposatuaren deskribapenean parte hartzen duten edozein hiru aldagaiz osatutako konbinazio ager daiteke; esaterako $(V^{1},V^{2},T)$.
-  - Hiru horien bidez, sistema konposatuari dagokion konfigurazio espazioa eraiki daiteke. Jakina, espazio horretan dagoen edozein puntuk adierazten du sistemari dagokion oreka-egoera. Horietako bi finkatuko dira eta prozesuen bidez lotuko dira: $i$ eta $f$.
-  - Prozesuak orotarikoak izan daitezke:
-    - pistoiak, era independentean, atera edo barneratu daitezke, poliki-poliki (kuasi-estatikoki termodinamikan) edo kolpeen bidez, bat-batean, era ez kuasi-estatikoan
-    - azpisitemak osatuz dauden erresistentzia elektrikoetan korronte elektrikoa zirkularaz daiteke (poliki-poliki edo *kolpeka*), horretarako horiekin mekanikoki lotuta dauden tramankulu mekanikoen konfigurazio mekanikoa aldatuz
-    - edo horien bidezko edozein konbinazio
-  - Kasu horietan guztietan, lana baino ez da egiten, lan adiabatikoa, sistema konposatua adiabatikoki isolatuta baitago.
-  - Esperientziak esaten du horietan guztietan egiten den lanaren (lan adiabatikoaren) balioa beti dela berdina: $i$-tik $f$-rako prozesua edozein izanda ere, lanaren balioa ez da aldatzen.
-  - Horrelako lanak, ***lan adiabatikoak***, ez dauka ibilbidearekiko mendekotasunik.
-    - Ibilbidearekiko mendekotasunik ez badauka
-      - matematikoki diferentzial zehatza da
-      - fisikoki sistemaren propietatea da
-    - esperientziaren arabera definitu daiteke (edozein sistemaren kasuan) sistemaren propietatea den magnitude bat, ***barne-energia*** deritzona, zeinaren bi egoeren arteko aldaketa den bi egoera horiek lotzeko egin den lan adiabatikoren berdin:
-    $$W_{i\rightarrow f}^{ad.}\equiv U_{f} - U_{i}$$
-  - Adierazpen horretan:
-    1. energiaren kontserbazioaren printzipioa dago
-      sistemak egin duen lana bere (barne-)energiari esker egin du
-    2. edozein sistemaren kasuan definitu daiteke *barne-energia* propietatea
-    3. Barne-energia da, beraz, sistemaren deskribapenean parte hartzen duten aldagai termodinamikoen benetan existitzen den funtzioa, diferentzial zehatza
+- Iruzkinak:    
+  - Bi kantitateren arteko zatidura da: $\delta Q$ eta $dT$ aldaketa infinitesimalen arteko zatidura.     
 
+  - Interpretazioa: neurtzen du zer eragin duen tenperaturan bero moduan sistemak trukatu (galduz edo irabaziz, negatibo zein positibo izan daiteke beroa, zeinuz) duen energiak; nola aldatzen duen energia horrek tenperatura sistemari.    
 
------------------------
+  - Definizioz, magnitude *estentsiboa* da, masarekiko mendekotasuna dauka eta letra larriz adierazten da; ez da, beraz, sistemaren, sistema motaren, propietatea, baizik eta aztertzen den sistemaren propietate.     
 
-**Sep2020-25**  (2.0 - 13.0; guztira 13.0) (+2 aurreratuta)
+  - *Masa unitateko bero-ahalmena*, letra xehez adierazita bera, definitu daiteke eta intentsibo da:     
 
+  $$c_{\bigcirc}=\frac{1}{M}\left(\frac{\delta Q}{dT}\right)_{\bigcirc}$$     
 
-**1. ordua**
+  - Bero moduan sistemak trukatu duen beroak badauka, jakina beroa diferentzial ez-zehatza baita, trukea gertatu den modu esperimentalarekiko (baldintza esperimentalak) mendekotasuna.    
 
-- Gogora ekarri barne-energia funtzioa ondorioztatzeko erabili diren prozesuak, ondo zehaztuz
+     Horixe da, hain zuzen ere definizioan agertzen den $\circ$ ikurraren esanahia: argi eta garbi adierazi behar da zer baldintza esperimentaletan trukatu duen energia, bero moduan, sistemak.     
 
-- Gogora ekarri *edozein sistemaren kasuan ondorioztatu daitekeela $U$ barne-energiaren existentzia eta funtzio hori beti idatz daitekeela sistemaren deskribapenean parte hartzen duten edozein aldagairen sortaren funtzioan eta, gainera, sistemaren propietate bat adierazten duenez, barne-energia egoera-funtzioa dela, diferentzia zehatza.*
+  - **birdefinizioa**:     
 
-- 4.6 [**Lehenengo Printzipioaren formulazio matematikoa**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_13_35.pdf)
-  - $i$ eta $f$ egoerak berriro lotuko dira baina oraingo honetan lan ez-adiabatikoa eginez; hots, lehengo isolamendu adiabatikoa kenduta.
-  - egindako lana ez da berezia, adiabatikoa, baizik eta arrunta; hortaz, lan arrunta den heinean, ibildearekiko mendekotasuna dauka eta ez da lehengo lan adiabatikoaren berdin
-  - halere, bi egoeren arteko barne-energiaren aldaketa, diferentzial zehatza den heinean, ez da aldatu
-  - bi prozesu motetan, adiabatikoa eta ez-adiabatiko, gertatu den barne-energiaren aldaketa da:
-    - adiabatikoan: $\Delta U_{i-f}^{ad} = W_{i-f}^{ad}$
-    - ez-adiabatikoan: $\Delta U_{i-f}^{ez-ad}=U_{i-f}^{ad}(=W_{i-f}^{ad})\ne W_{i-f}^{ez-ad}$
-  - lan ez-adiabatikoa eta barne-energiaren artean aldea dago, sistema eta inguruenaren artean tenperatura-diferentzia dagoelako, tenperatura-diferentziari esker...
-  - energiaren kontserbazioaren printzipioarekin bat etortzeko, diferentzia hori da ***sistemak ingurunearekin bero moduan trukatu duen energia***
-  $$Q = \Delta U - W$$
-  $$\delta Q = dU - \delta W$$
-  - Energiaren kontserbazioaren printzipioa, askatasun-gradu termikoa kontuan hartuz:
-  $$\boxed{\Delta U = Q + W}$$
-  - Sistemak (masa konstanteko sistema hidrostatikoak, bi askatasun-gradukoa baino ez bera) bi modu dauzka bere egoera, bere energia-edukia, aldatzeko:
-      - termikoki lotuta dagoela ingurunearekin energia bero moduan trukatuz
-      - mekaniko lotuta dagoela ingurunearekin lan eginez
-- 4.7 [**Laburbilduma eta orokortzea**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_15_37.pdf)
+  $$C_{\textrm{baldintza esperimentalak}}=\left(\frac{\delta Q}{dT}\right)_{\textrm{baldintza esperimentalak}}$$     
 
+  - Beraz: *edozein sistemaren eta askatasun-gradu termikoa ez den haren edozein askatasun-gradurekin lotutako aldagai intentsiboaren eta estentsiboaren bitartez bero-ahalmen bana definitu daiteke*: aldagai horiek definitzen dituzte baldintza esperimentalak.     
 
+    - masa konstanteko sistema hidrostatikoaren kasuan, hortaz, termikoa ez den askatasun-gradua mekanikoa da    
 
-**2. ordua**
+    - askatasun-gradu mekanikoarekin lotutako aldagaiak dira: $p$ eta $V$, hots, bi bero-ahalmenak dira honako hauek:      
 
-- 4.8 [**Bero-ahalmena**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_16_38.pdf): Honako hau da *bero-ahalmenaren* eragiketa-definizioa:
-$$C_{\bigcirc}=\left(\frac{\delta Q}{dT}\right)_{\bigcirc}$$
-- Iruzkinak:
-  - Bi kantitateren arteko zatidura da: $\delta Q$ eta $dT$ aldaketa infinitesimalen arteko zatidura.
-  - Interpretazioa: neurtzen du zer eragin duen tenperaturan bero moduan sistemak trukatu (galduz edo irabaziz, negatibo zein positibo izan daiteke beroa, zeinuz) duen energiak; nola aldatzen duen energia horrek tenperatura sistemari.
-  - Definizioz, magnitude *estentsiboa* da, masarekiko mendekotasuna dauka eta letra larriz adierazten da; ez da, beraz, sistemaren, sistema motaren, propietatea, baizik eta aztertzen den sistemaren propietate.
-  - *Masa unitateko bero-ahalmena*, letra xehez adierazita bera, definitu daiteke eta intentsibo da:
-  $$c_{\bigcirc}=\frac{1}{M}\left(\frac{\delta Q}{dT}\right)_{\bigcirc}$$
-  - Bero moduan sistemak trukatu duen beroak badauka, jakina beroa diferentzial ez-zehatza baita, trukea gertatu den modu esperimentalarekiko (baldintza esperimentalak) mendekotasuna.
-  Horixe da, hain zuzen ere definizioan agertzen den $\circ$ ikurraren esanahia: argi eta garbi adierazi behar da zer baldintza esperimentaletan trukatu duen energia, bero moduan, sistemak.
-  - **birdefinizioa**:
-  $$C_{\textrm{baldintza esperimentalak}}=\left(\frac{\delta Q}{dT}\right)_{\textrm{baldintza esperimentalak}}$$
-  - Beraz: *edozein sistemaren eta askatasun-gradu termikoa ez den haren edozein askatasun-gradurekin lotutako aldagai intentsiboaren eta estentsiboaren bitartez bero-ahalmen bana definitu daiteke*: aldagai horiek definitzen dituzte baldintza esperimentalak.
-    - masa konstanteko sistema hidrostatikoaren kasuan, hortaz, termikoa ez den askatasun-gradua mekanikoa da
-    - askatasun-gradu mekanikoarekin lotutako aldagaiak dira: $p$ eta $V$, hots, bi bero-ahalmenak dira honako hauek:
-    $$C_{p}=\left(\frac{\delta Q}{dT}\right)\_p\,;C_{V}=\left(\frac{\delta Q}{dT}\right)\_V$$
-    - askatasun-gradu *orokor batekin* lotutako aldagaiak dira: $Y$ eta $X$, hots, bi bero-ahalmenak dira honako hauek:
-    $$\boxed{C_{Y}=\left(\frac{\delta Q}{dT}\right)\_Y \,;C_{X}=\left(\frac{\delta Q}{dT}\right)\_X}$$
+    $$C_{p}=\left(\frac{\delta Q}{dT}\right)\_p\,;C_{V}=\left(\frac{\delta Q}{dT}\right)\_V$$    
+
+    - askatasun-gradu *orokor batekin* lotutako aldagaiak dira: $Y$ eta $X$, hots, bi bero-ahalmenak dira honako hauek:     
+
+    $$\boxed{C_{Y}=\left(\frac{\delta Q}{dT}\right)\_Y \,;C_{X}=\left(\frac{\delta Q}{dT}\right)\_X}$$      
+
   - `Kontuz`: bero-ahalmena aldagai termodinamikoen funtzioa da, orokorrean
-    $C_{V}$ badauka $V$ bolumenarekiko mendekotasunik
-    Bolumen konstanteko bero-ahalmenak neurtzen du energiaren eragina tenperaturan, bolumenaren balio finkoa batea, baina aldatutakoan bolumena eragina ezberdina izan daiteke
-- 4.9 **Bero-iturria**
-  Bero-iturria da masa infinituko eta askatasun-gradu termikoa baino ez duen sistema, gainera, honako ezaugarria dauka sistema berezi honek: ***edozein neurritan truka dezake*** (galduz edo irabaziz) ***energia*** (termikoki baino ez, hori baita daukan askatasun-gradu bakarra) ***bere egoera termikoa aldatu gabe***
+    $C_{V}$ badauka $V$ bolumenarekiko mendekotasunik       
+    Bolumen konstanteko bero-ahalmenak neurtzen du energiaren eragina tenperaturan, bolumenaren balio finkoa batea, baina aldatutakoan bolumena eragina ezberdina izan daiteke      
 
-- Iruzkinak:
-  - bi prozesutan erabiltzen dira bero-iturriak:
-    - masa finituko sistema baten tenperatura finkatzeko, bero-iturriaren tenperaturaren balioan finkatzeko
-    - masa finituko sistema baten egoera termikoa mantentzeko, bero-iturriarekin ukipen termikoan, bereizte-horma diatermoaren bidez, mantenduz
-  - Bi horien kasuan, bero-iturriaren ikuspuntutik, gertatu den prozesua (tenperatura aldatzekoa zein tenperatura mantetzekoa) beti da kuasiestatiko
-  - Bi horien kasuan, sistemaren ikuspuntutik, prozesuak ez du zertan kuasiestatiko izan, baina izan daiteke
-  - kuasiestatikoa den kasuetan:
-    - tenperatura aldatzeko prozesua:
-      bero-iturrien segida infinituaren bidez adierazten da (jakina, asmatutako prozesua da)
+- 4.9 **Bero-iturria**     
+  Bero-iturria da masa infinituko eta askatasun-gradu termikoa baino ez duen sistema, gainera, honako ezaugarria dauka sistema berezi honek: ***edozein neurritan truka dezake*** (galduz edo irabaziz) ***energia*** (termikoki baino ez, hori baita daukan askatasun-gradu bakarra) ***bere egoera termikoa aldatu gabe***        
+
+- Iruzkinak:       
+  - bi prozesutan erabiltzen dira bero-iturriak:      
+    - masa finituko sistema baten tenperatura finkatzeko, bero-iturriaren tenperaturaren balioan finkatzeko      
+    - masa finituko sistema baten egoera termikoa mantentzeko, bero-iturriarekin ukipen termikoan, bereizte-horma diatermoaren bidez, mantenduz      
+
+  - Bi horien kasuan, bero-iturriaren ikuspuntutik, gertatu den prozesua (tenperatura aldatzekoa zein tenperatura mantetzekoa) beti da kuasiestatiko    
+
+  - Bi horien kasuan, sistemaren ikuspuntutik, prozesuak ez du zertan kuasiestatiko izan, baina izan daiteke    
+
+  - kuasiestatikoa den kasuetan:     
+    - tenperatura aldatzeko prozesua:    
+      bero-iturrien segida infinituaren bidez adierazten da (jakina, asmatutako prozesua da)    
       Segida infinitua osatzen dituzten bero-iturrien arteko tenperatura-aldaketa $dT$ da, infinitesimala beraz
     - tenperatura finkatzeko prozesua:
-      bero-iturri bakarra dago eta trukatzen duen $\delta Q$ infinitesimala da sistemak berak trukatzen duena, zeinuz kontrakoa, jakina
-  - Beroa diferentzial ez-zehatza, beraz, edozein kasutan, edozein sistema aztertzen dela, sistemak trukatzen duen bero-kantitatea lortzeko prozesua ezagutu behar da
-    - Bero-ahalmenen definizioak erabil daitezke zenbait baldintza esperimentaletan sistemak trukatzen duen bero kalkulatzeko
-    - baldintza esperimentaletan
-      - $Y$ mantendu bada konstante, orduan:
+      bero-iturri bakarra dago eta trukatzen duen $\delta Q$ infinitesimala da sistemak berak trukatzen duena, zeinuz kontrakoa, jakina     
+
+  - Beroa diferentzial ez-zehatza, beraz, edozein kasutan, edozein sistema aztertzen dela, sistemak trukatzen duen bero-kantitatea lortzeko prozesua ezagutu behar da    
+
+    - Bero-ahalmenen definizioak erabil daitezke zenbait baldintza esperimentaletan sistemak trukatzen duen bero kalkulatzeko     
+
+    - baldintza esperimentaletan      
+      - $Y$ mantendu bada konstante, orduan:    
+
       $$[\delta Q = C_{Y}dT]\_Y \Rightarrow Q = \int\limits\_{Y=k} C\_Y dT$$
-      - $X$ mantendu bada konstante, orduan:
-      $$\left[\delta Q = C\_{X}dT \right]\_X \Rightarrow Q = \int\limits\_{X=k} C_{X} dT$$
+
+      - $X$ mantendu bada konstante, orduan:    
+
+      $$\left[\delta Q = C\_{X}dT \right]\_X \Rightarrow Q = \int\limits\_{X=k} C_{X} dT$$    
+
+
+
+
+
+
+
 - 4.10
 [**Lehen Printzipioaren adierazpen diferentzialaren formak**
   **masa konstanteko sistema hidrostatikoaren kasuan,**
