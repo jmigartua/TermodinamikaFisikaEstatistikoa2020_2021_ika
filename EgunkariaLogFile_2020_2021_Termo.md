@@ -566,7 +566,7 @@ Sistema hidrostatikoaren *definizio-ezaugarriak* honako taula honetan laburbildu
 | Askatasun-gradua  | Algdagai Intentsiboa  | Aldagai Estentsiboa  | Energiarako Ekarpena  |   |
 |---|:---:|:---:|---:|---|
 | Mekanikoa  |  $p$ | $V$  | $\delta W_{\textrm{mek}}= -p\cdot dV$  |   |
-| Termikoa  |  $\theta$ ($T$) | [$S$]  | $\delta W_{\textrm{ter}}\equiv \delta Q= -T\cdot dS$  |   |
+| Termikoa  |  $\theta$ ($T$) | [$S$]  | $\delta W_{\textrm{ter}}\equiv \delta Q= T\cdot dS$  |   |
 |  Kimikoa |  [$\mu$] | $n$  | $\delta W_{\textrm{kim}}= \mu\cdot dn$  |   |
 
 
