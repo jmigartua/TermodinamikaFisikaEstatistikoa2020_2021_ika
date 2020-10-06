@@ -1455,14 +1455,14 @@ Adierazpen horretan, $j$ edozein (printzipioz) izan daiteke eta $k$ da balio kon
 
 Jakina, prozesuko edozein punturen bidez finkatu daiteke $k$ konstantearen balioa:   
 
-$$k = p_{1}V^{j}_{1} = p_{2}V^{j}_{2} = \dots$$    
+  $$k = p_{1}V^{j}_{1} = p_{2}V^{j}_{2} = \dots$$    
 
 
 Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana ($W$) eta izan duen barne-energiaren aldaketa ($\Delta U$) kalkulatu daitezke, honako hauek dira:    
 
 1. $W$:    
 
-   $$\left.\begin{array}{l}\delta W=-p d V \\p V^{j}=k \Rightarrow p=\dfrac{k}{V^{j}}\end{array}\right\} \quad \delta W=-\dfrac{k}{V^{j}} d V \Rightarrow W=-k \int\dfrac{1}{V^{j}} d V$$   
+   $$\left.\begin{array}{l}\delta W=-p d V \\ p V^{j}=k \Rightarrow p=\dfrac{k}{V^{j}}\end{array}\right\} \quad \delta W=-\dfrac{k}{V^{j}} d V \Rightarrow W=-k \int\dfrac{1}{V^{j}} d V$$   
 
    $$\begin{array}{l}W=\dfrac{1}{(j-1)}\left(p_{2} V_{2}-p_{1} V_{1}\right) \\\\\boxed{W=\dfrac{1}{(j-1)} n R\left(T_{2}-T_{1}\right)}\end{array}$$    
 
@@ -1476,7 +1476,7 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
    $$Q=\Delta U-W$$     
 
-   $$\begin{array}{l}Q=n R\left(T_{2}-T_{1}\right)\left[C_{V}-\dfrac{1}{(j-1)}\right] \\Q=\dfrac{\left(T_{2}-T_{1}\right)}{(j-1)}\left[j C_{V}-C_{p}\right] \\\\\boxed{Q=\dfrac{\left(T_{2}-T_{1}\right)}{(j-1)} n R\left[j C_{V}-C_{p}\right]}\end{array}$$     
+   $$\begin{array}{l}Q=n R\left(T_{2}-T_{1}\right)\left[C_{V}-\dfrac{1}{(j-1)}\right] \\ Q=\dfrac{\left(T_{2}-T_{1}\right)}{(j-1)}\left[j C_{V}-C_{p}\right] \\\\\boxed{Q=\dfrac{\left(T_{2}-T_{1}\right)}{(j-1)} n R\left[j C_{V}-C_{p}\right]}\end{array}$$     
 
 <br>
 
@@ -1501,7 +1501,7 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
 
 
-<!-- 
+<!--
 
 -------------
 
