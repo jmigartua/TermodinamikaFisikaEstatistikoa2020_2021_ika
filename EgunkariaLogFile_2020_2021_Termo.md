@@ -1494,7 +1494,9 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
   - Azken ariketan, masa ez da konstante, beraz, zerbait aldatu beharko da eta kontuan hartu beharrekoa honako hau da: *barne-energia aldgai estentsiboa da beti*, hots, masarekiko mendekotasuna dauka beti, beraz, $U=U(T)$ idazten denean, honako hau idazten ari gara, inplizituki: $U=U(n,T)$, adierazpen orokor horretan $n$ adierazten du masarekiko mendekotasuna, edozein eskalatan.   
 
     - $C_{V}=\left(\frac{\partial U}{\partial T}\right)_V\Rightarrow C_{V}=\left(\frac{\partial U(n,T)}{\partial T}\right)_{n,V}$   
+
     - $U=U(n,T)$   
+
     - ondorioz: $\boxed{dU=C_V(n)\,dT}$ edo honako hau, orokorrean:   
 
       $$\Delta U = \Delta(C_{V}(n)\cdot T)$$    
