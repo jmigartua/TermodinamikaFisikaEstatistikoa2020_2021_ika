@@ -1462,7 +1462,7 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
 1. $W$:    
 
-   $$\left.\begin{array}{l}\delta W=-p d V \\ p V^{j}=k \Rightarrow p=\dfrac{k}{V^{j}}\end{array}\right\} \quad \delta W=-\dfrac{k}{V^{j}} d V \Rightarrow W=-k \int\dfrac{1}{V^{j}} d V$$   
+   $$\left.\begin{array}{l}\delta W=-p d V \\ p V^{j}=k \Rightarrow p=\dfrac{k}{V^{j}}\end{array}\right\\} \quad \delta W=-\dfrac{k}{V^{j}} d V \Rightarrow W=-k \int\dfrac{1}{V^{j}} d V$$   
 
    $$\begin{array}{l}W=\dfrac{1}{(j-1)}\left(p_{2} V_{2}-p_{1} V_{1}\right) \\\\\boxed{W=\dfrac{1}{(j-1)} n R\left(T_{2}-T_{1}\right)}\end{array}$$    
 
@@ -1493,7 +1493,7 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
   - Azken ariketan, masa ez da konstante, beraz, zerbait aldatu beharko da eta kontuan hartu beharrekoa honako hau da: *barne-energia aldgai estentsiboa da beti*, hots, masarekiko mendekotasuna dauka beti, beraz, $U=U(T)$ idazten denean, honako hau idazten ari gara, inplizituki: $U=U(n,T)$, adierazpen orokor horretan $n$ adierazten du masarekiko mendekotasuna, edozein eskalatan.   
 
-    - $C_{V}=\left(\frac{\partial U}{\partial T}\right)_V\Rightarrow C_{V}=\left(\frac{\partial U(n,T)}{\partial T}\right)_{n,V}$   
+    - $C_{V}=\left(\frac{\partial U}{\partial T}\right)_V\Rightarrow C_{V}=\left(\frac{\partial U(n,T)}{\partial T}\right)\_{n,V}$   
 
     - $U=U(n,T)$   
 
