@@ -988,13 +988,6 @@ name: egoera_ekuazioa_baliokidetasuna
   ![Adibidea](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_06_28_1.png)
 
 
--------------------------
-
-**Sep2020-24**  (2.0 -  16.0; guztira  16.0)
-
--------------------------      
-
-
 
 - 4.3 [**Masa konstanteko sistema hidrostatikoaren hiru aldaketa posibleak**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_08_30.pdf)       
 
@@ -1145,9 +1138,30 @@ Askatasun-gradu termikoarekin lotutako *lan termikoaren* (beroaren) adierazpena,
 
 $$\delta Q \equiv \delta W^{termiko} = T dS$$     
 
---------------------
 
-<!---
+-----------------------
+## 4. astea
+---------
+
+
+
+**Sep2020-28**  (2.0 -  16.0; guztira  16.0)
+
+-------------------------      
+
+Ez da eskolarik egon!
+
+<br>
+
+-------------------------
+
+**Sep2020-29**  (2.0 -  16.0; guztira  16.0)
+
+-------------------------      
+
+
+
+
 
 - 4.8 [**Bero-ahalmena**](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/04_16_38.pdf): Honako hau da *bero-ahalmenaren* eragiketa-definizioa:    
 
@@ -1225,7 +1239,6 @@ $$C_{\bigcirc}=\left(\frac{\delta Q}{dT}\right)_{\bigcirc}$$
 
 
 
-
 - 4.10
 [**Lehen Printzipioaren adierazpen diferentzialaren formak**
   **masa konstanteko sistema hidrostatikoaren kasuan,**
@@ -1261,10 +1274,7 @@ $$(T, X)\hspace{1cm}\delta Q \rightarrow \delta Q (T, X)$$
 $$(T, Y)\hspace{1cm}\delta Q \rightarrow \delta Q (T, Y)$$
 $$(X, Y)\hspace{1cm}\delta Q \rightarrow \delta Q (X, Y)$$
 
------------------------
-
-
-**Sep2020-26**  (1.0 - 14.0; guztira 14.0)
+-----------------
 
 $$(T, p)\hspace{1cm}\delta Q \rightarrow \delta Q (T, p)$$
 $$(V, p)\hspace{1cm}\delta Q \rightarrow \delta Q (V, p)$$
@@ -1294,18 +1304,9 @@ $$C_{p} - C_{V} =  T \left(\frac{\partial V}{\partial T}\right)_p \left(\frac{\p
 
 $$C_{Y} - C_{X} =  -T \left(\frac{\partial X}{\partial T}\right)_Y \left(\frac{\partial Y}{\partial T}\right)_X$$
 
+-------
 
-
-
------------------------
-
-## 4. astea
----------
----------
-
-**Sep2020-30**  (1.0 - 15.0; guztira 15.0)
-
-- Lehenengo Printzipioaren adierazpen diferentziala $(T,X)$ aldagai termodinamiko independenteren funtzioan idatzi, aurreko eskoletan erabilitako metodoari segituz
+- Lehenengo Printzipioaren adierazpen infinitesimala $(T,X)$ aldagai termodinamiko independenteren funtzioan idatzi, aurreko eskoletan erabilitako metodoari segituz
 
 - Egiatan, hainbat modu dago adierazpen diferentziala lortzeko
 
@@ -1314,7 +1315,16 @@ $$C_{Y} - C_{X} =  -T \left(\frac{\partial X}{\partial T}\right)_Y \left(\frac{\
 >  - aztergai den sistema adiabatikoki isolatuta egoteak ez du esan nahi sistemak ezin duenik egoera termikoa aldatu:
 >     - $\delta Q= 0 \Rightarrow dT= 0$, ez da egia
 >- aztergai den sistemaren tenperatura aldatzeko ez da beharrezkoa soilik beroa trukatzea:
->     - $dT \neq 0 \Rightarrow \delta Q \neq 0$, ez da egia
+>     - $dT \neq 0 \Rightarrow \delta Q \neq 0$, ez da egia     
+
+
+
+------------------
+
+**Sep2020-30**  (2.0 - 18.0; guztira 18.0)     
+
+----------------
+
 
 **5. Gaia: [<span style="color:orange">Apunteak](https://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_ApunteakNotebooks/0_5_GasIdela.ipynb)**
 
@@ -1412,7 +1422,7 @@ $$C_{Y} - C_{X} =  -T \left(\frac{\partial X}{\partial T}\right)_Y \left(\frac{\
 
 ---------
 
-**Oct2020-01**  (1.0 - 16.0; guztira 16.0)
+**Oct2020-01**  (2.0 - 20.0; guztira 20.0)
 
 - **5.3 [Prozesu adibatiko kuasiestatikoen  adierazpena](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/05_06_46.pdf)**
 
@@ -1420,251 +1430,7 @@ $$C_{Y} - C_{X} =  -T \left(\frac{\partial X}{\partial T}\right)_Y \left(\frac{\
 
 - Jo [apunteetara](https://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_ApunteakNotebooks/0_5_GasIdela.ipynb)
 
-- `Iruzkinak`
 
-
----------
-
-**Oct2020-02**  (2.0 - 18.0; guztira 18.0) (+3 aurreratuta)
-
----------
-
-**1. ordua**
-
-- Zalantza/Iruzkina argitu:
-
-
-
-- Prozesu politropikoak, gas idealetan
-
-- Iruzkinak
-
-
-**2. ordua**
-
-
-- Gas idealkin lotutako lau prozesu errazen azterketa:
-
-  #### Lau prozesuren azterketa, gas idealetan:
-
-**Isotermoa**
-
-Aldameneko irudiak adierazi duen moduan, bereizte-horma diatermanoz inguraturiko gas ideala dugu esku artean; $T_0$ tenperaturako bero-iturriarekin ukipen termikoan eta hasierako $p_{i}$ presioko presio-iturriarekin ere kontaktuan. Iturriaren presioa $p_{f}$ balioraino kuasiestatikoki aldatu da.
-
-Lortu ondokoak:
-
-1. Transferitutako lana,
-2. trukaturiko bero-kantitatea, eta
-3. gasaren barne-energiaren aldaketa.
-
-</div>
-<figure class="figure">
-  <img src="./irudiak/gasideala4prozesuIsotermo.jpg" class="figure-img img-fluid rounded" width="200">
-</figure>
-
-`Ebazpena`
-
-Erantzunen ordena aldatuko dut.
-
-  - Bero-iturriarekin ukipenean gertatzen den prozesuan tenperatura konstantea da; prozesu isotermoa da, beraz.
-
-
-$$
-\left. \begin{array}{l}
- \Delta U = c_V nR\Delta T \\
- \Delta T = 0 \\
- \end{array} \right\} \Rightarrow \boxed{\Delta U = 0}
-$$
-
-  - Tenperatura konstantea denez, *prozesuaren ibilbidea* finkatuta dago eta lana, esaterako (diferentzial ez-zehatza) kalkulatu daiteke, ibilbidean integratuz. Kalkulatuko dut lana. Horretarako, $p=p(T, V)$ funtzioa, prozesuarena, adieraziko dut.
-
-$$W = - \int \frac{nRT}{V}dV $$
-
--   eta tenperatura konstantea denez:
-$$W = - \int nRT \frac{1}{V}dV $$
-$$\boxed{W = -nRT \ln \frac{V_{f}}{V_{i}} }$$
-
-  - edo, egoera-ekuazioa erabilita:
-
-$$W = -nRT \ln \frac{p_{i}}{p_{f}}$$
-
-  - Azkenik, beroa kalkulatzeko, prozesu osoari, makroskopikoari, lehen printzipioa aplikatuko diot, diferentziaz kalkulatu daitekeela esaten da:
-
-  $$\boxed {Q = -W } $$
-
->Interpretatu dezadan aurreko emaitza. Bero-iturriarekin ukipen termikoan gertatu den prozesua denez, tenperatura konstantea da. Ondorioz, gas idealaren barne-energiaren edukia ezin da aldatu: hasierakoa bukaerakoaren berdina da. Baina, gas ideala espantsioantu da; hau da, lana egin du (kanporatu du). Horrek energiaren edukia beheratuko du. Beherapena bero-iturritiko bero-xurgapenak konpentsatuko du. Barne-energiaren edukia aldatu gabe lana egin ahal izateko bero xurgatu behar du bero-iturritik. Beroa lan bihurtuko da, sistema tartekari moduan erabilita.
-
-- `Iruzkinak`
-
-
-  1. **Gas idealen bero-ahalmenak:**
-     1. konstanteak dira
-     2. *Mayer-en* erlazio orokortua erabiliz haien kasuan, honako hau da $C_{p}$ eta $C_{V}$ bero-ahalemen arteko erlazioa:
-      - $C_{p} - C_{V} =  T \left(\frac{\partial V}{\partial T}\right)_p \left(\frac{\partial p}{\partial T}\right)_V$
-      - $\left(\frac{\partial V}{\partial T}\right)_p\equiv\frac{1}{T}$
-      - $\left(\frac{\partial V}{\partial p}\right)_T\equiv\frac{1}{p}$
-      $$C_{p} - C_{V} = nR$$
-      - $C = c \,nR\Rightarrow C_{p,V}=c_{p,V}\,nR$
-      $$\boxed{c_{p} - c_{V} = 1}$$
-     3. - Gas ideal monoatomikoetan: $c_{V}=\frac{3}{2}$
-        - Gas ideal diatomikoetan: $c_{V}=\frac{5}{2}$
-
-
-  2. **Edozein ariketa egiteko bi motako informazioa erabili behar da:**
-     1. sistemari buruzkoa:
-        1. egoera-ekauzioak, koefiziente esperimentalak...
-        2. oreka-egoeraren bat
-     2. prozesuari buruzkoa:
-        1. kuasiestatiko izan behar du prozesuak
-           ez bada, barne-energiaren aldaketa baino ezin da kalkulatu
-        2. aipatutako *egoeraren bat* horrek egon behar du *prozesuan*
-
-  2. **Ebatzi den prozesu isotermoaren *bariantea***
-     1.
----------
-
-**Oct2020-03**  (1.0 - 19.0; guztira 19.0)
-
----------
-- Atzo planteatutako ariketekin jarraitu:
-
-**Isobaroa**
-
-$M$ masako eta $s$ sekzioko pistoi batek horma diatermano eta iragaztezinezko zilindro bertikal batean dagoen 1 mol gas itxi du. Bero-iturrien segida infinituarekin ukipean jarriz, $T_1$-etik $T_2$-ra pasatu da gasaren tenperatura.
-
-Lortu ondokoak:
-
-1. Hasierako eta amaierako egoeren presioa eta bolumena,
-2. $Q$, $W$ eta $\Delta U$.
-
-  $C_{V}$ eta $C_{p}$ konstanteak dira, pistoiaren beste aldean hutsa dago; eta, azkenik, grabitateak soilik du eragina pistoiaren gainean.
-</div>
-<figure class="figure">
-  <img src="./irudiak/gasideala4prozesuIsobaro.jpg" class="figure-img img-fluid rounded" width="200">
-</figure>
-
-`Ebazpena`
-
-Tenperatura era kuasiestatikoan aldatzeko, bero-iturrien sorta batekin ukipen termikoan jarri behar da sistema. Kasu honetan, zilindroa ixten presio konstantea eragingo duen pistoia dago; beraz, gertatuko den prozesua presio konstantekoa da, isobaroa $p=\frac{Mg}{s}$, esan bezala. Tenperaturak gora egiten duen heinean, presioa konstante adenez, bolumenak ere bai gora egingo du: proportzioanalak dira bolumena eta tenperatura (egoera-ekuazio mekanikoa).
-
-  1. Bolumena kalkulatzeko egoera-ekuazioa erabiliko dugu: $pV = nRT \Rightarrow V = \frac{nRT}{p}$
-$$pV = nRT \Rightarrow V = \frac{nRT}{p} \Rightarrow V_{f} = \frac{nRT_{f}}{p} \Rightarrow \boxed{V_{f} = \frac{s}{Mg}nRT_{f} }$$
-
-  2. Barne-energia kalkulatzeko, egoera-funtzioa denez (diferentzial zehatza), berdin dio nolakoa izan den prozesua, zer ibilbidetan gertatu den. Egoera-ekuazio termikoaren bidez lor daiteke *beti* barne-energiaren aldaketa.
-  $$\Delta U = c_{V} nR \Delta T \Rightarrow \boxed{\Delta U = c_{V} nR (T_{f}-T_{i}) } $$
-
-  3. Lanari dagokionez, kontuan hartuko dut prozesua isobaroa izan dela:
-
-  $$W = -\int pdV \Rightarrow W = -p \int dV \Rightarrow W = -p \Delta V \Rightarrow$$
-
-  $$W =-\frac{Mg}{s}\frac{s}{Mg} nR(T_{f}-T_{i}) \Rightarrow  \boxed{W = -nR(T_{f}-T_{i}) }$$
-
-  4. Beroa kalkulatzeko, berriro ere bai diferentziaz egingo dut:
-
-   $$Q = c_{V} nR (T_{f}-T_{i}) - \{ -nR(T_{f}-T_{i}) \} \Rightarrow  Q=(c_{V}+1) nR (T_{f}-T_{i}) \Rightarrow \boxed{Q=c_{p} nR (T_{f}-T_{i}) }$$
-
-  - Konturatu behar da, zuzenean kalkulatu daitekeela, kasu honetan, gas idealak trukatu duen beroa, ezaguna baita nola gertatu den prozesua, presio konstantean. Orduan, koefiziente esperimentalaren definiziotik abiatuta lor daiteke, kasu honetan, presio konstanteko bero-ahalmena.
-
-  - Azken adierazpena idazteko gas idealearen *Mayer-en* erlazioa erabili dut: $c_{p}=c_{V}+1$. Edo: $C_{p}=C_{V}+nR$.
-
-
-_____________
-
-**Isokoroa**
-
-
-Aurreko ariketako sistema berbera dugu; beraz, gas ideala dugu esku artean. Kasu honetan bolumena konstante mantenduko dut; horretarako, pistoiaren gainean area era jarraituan botako da.
-
-Lortu:
-
-1. Botatako are-kantitatea,
-2. $Q$, $W$ eta $\Delta U$.
-
-</div>
-<figure class="figure">
-  <img src="./irudiak/gasideala4prozesuIsokoro.jpg" class="figure-img img-fluid rounded" width="200">
-</figure>
-
-`Ebazpena`
-
-Oraingo honetan, berriro ere, bero-iturrien sorta erabiliz, sistemaren tenperatura aldatuko da $T_{1}$ etik $T_{2}$ ra; baina, bolumena konstante mantenduz. Tenperatura-aldaketak berarekin lotuta dakarren bolumen-aldaketa (presioa konstante mantenduz), presioa aldatuz konpentsatuko dugu. Kasu honetan, presioak segituko dio tenperaturari: $pV = nRT \Rightarrow p \propto T$, $\frac{nRT}{V}$ konstantea baita.
-
-$$\left. \begin{array}{l}
- \left. {\begin{array}{*{20}c}
-   {V_i  = V_f  = V}  \\
-   \begin{array}{l}
-    p_i  = \frac{nRT_i}{V} \\
-    p_f  = \frac{nRT_f}{V} \\
-   \end{array}  \\
-\end{array}} \right\} \Rightarrow \Delta p = \frac{nR}{V}\left( {T_f  - T_i } \right) \\
- \Delta p = \frac{g}{s}\Delta m_a  \\
- \end{array} \right\} \Rightarrow \frac{g}{s}\Delta m_a  = \frac{nR}{V}\Delta T \Rightarrow \boxed{\Delta m_a  = \frac{s}{g}\frac{nR}{V}\Delta T}
-$$
-
-  1. Betiko eran, barne-energiari berdio dio prozesu mota:
-
-  $$\Delta U = c_{V} nR \Delta T \Rightarrow \boxed{\Delta U = c_{V} nR (T_{f}-T_{i}) } $$
-
-  2. Lana kalkulatzea oso erraza da, bolumena konstantea baita.
-
-  $$W = -\int pdV \Rightarrow W = -p \int dV \Rightarrow W = -p \Delta V \Rightarrow
-   W = 0 $$
-
-   bolumena konstantea baita.
-
-  3. Azkenik, beroari dagokionez, lanik egin ez duenez sistemak, barne-energiaren aldaketaren berdina da.
-
-  $$ Q = \Delta U \Rightarrow \boxed{Q = c_{V} nR (T_{f}-T_{i}) }$$
-
-   - Baina hori argi zegoen: bolumen konstanteko prozesua izanik, ezaguna ibilbidea, eta trukatuako beroa lortu daiteke $C_{V}$ bero-ahalamena zuzenean integratuz:
-
-	  $$ C_{V} \equiv \frac{\delta Q}{dT} \Rightarrow \delta Q = C_{V}\,dT \Rightarrow Q = C_{V}\Delta T$$
-
->Aurreko ariketan gertatu den modu berean ere, oraingo honetan bero-kantitatea lortzeko, prozesua gertatu den baldintzak kontuan hartuz, zuzenenea kalkulatu daiteke: presioa konstante mantenduz edo bolumena konstante mantenduz, bero-ahalmenaren definizioa aplikatuz:
->
->$$ C = {(\frac {\delta Q}{dT})}_{\textrm{baldintzak}} \Rightarrow \delta Q = C_{\textrm{baldintzak}} dT$$
->
->$$ \int \delta Q = \int  C_{\textrm{baldintzak}} dT$$
-
-_____________
-
-**Adiabatikoa**
-
-Aurreko ariketako zilindroko hormak adiabatikoak direla onartuko da. Hasierako tenperatura $T_{i}$ da.
-
-  1. Zenbateko masa-kantitate gehitu behar diogu pistoiari kuasiestatikoki bukaerako tenperatura $T_{f}=kT_{i}$ izateko?
-  2. Lortu $Q$, $W$ eta $\Delta U$.
-
-<figure class="figure">
-  <img src="./irudiak/gasideala4prozesuAdiabatiko.jpg" class="figure-img img-fluid rounded" width="200">
-</figure>
-
-`Ebazpena`
-
-Prozesua adiabatikoa da; eta, beraz, sistemaren oreka-egoera ezaugarrituko dituzten aldagai guztien balioak aldatuko dira; ez edozein modutan, jakina, ondoko adierazpenetako bati segituz:
-
-$$pV^{\gamma}=C$$
-$$Tp^{\frac{1-\gamma}{\gamma}}=C'$$
-$$TV^{\gamma-1}=C''$$
-
-Egoera-ekuazioa bera eta horietako bigarrena erabiliko dut, bukaerako oreka-egoerarekin lotutako aldagien balioak kalkulatzeko:
-
-  - Hasierako egoera: ($T_{i}$, $p_{i}=\frac{Mg}{s}$, $V_{i}=\frac{nRT_{i}}{\frac{Mg}{s}}$)
-  - Bukaerako egoera: ($T_{f}=kT_{i}$, $p_{f}=\frac{(M+\Delta m)g}{s}$, $V_{f}=\frac{nRT_{f}}{p_{f}}$)
-
-$$	\left. \begin{array}{l}
-	p_{f}=p_{i}(\frac{T_{i}}{T_{f}})^{\frac{\gamma}{1-\gamma}}\\
-	p_{f}=\frac{(M+\Delta m)g}{s}\\
-  	 \end{array} \right\} \Rightarrow \boxed{\Delta m = M[k^{\frac{\gamma}{\gamma-1}-1}] }
-$$
-
-  1. Prozesua adibatikoa izan denez, honako hau bete da:
-
- $$\boxed{Q=0}$$
-
-  2. Lehen Printzipioa aplikatuz, ondoko hau izango dugu: $\Delta U = W$
-
-$$\Delta U = c_{V}nR(T_{f}-T_{i}) \Rightarrow \boxed{\Delta U = W = c_{V}nR\Delta T }$$
 
 
 -----------------------
@@ -1672,17 +1438,76 @@ $$\Delta U = c_{V}nR(T_{f}-T_{i}) \Rightarrow \boxed{\Delta U = W = c_{V}nR\Delt
 ## 5. astea
 ---------
 
-**Oct2020-07**  (1.0 - 20.0; guztira 20.0)
+
+**Oct2020-05**  (2.0 - 22.0; guztira 22.0)
 
 ---------
+
+
+**Prozesu politropikoak**, gas idealetan     
+
+
+Prozesu politropikoak definitzen dira soilik gas idealetan, honako era honetan:    
+
+$$ \boxed{pV^{j} = k} $$    
+
+Adierazpen horretan, $j$ edozein (printzipioz) izan daiteke eta $k$ da balio konstantea.    
+
+Jakina, prozesuko edozein punturen bidez finkatu daiteke $k$ konstantearen balioa:   
+
+$$k = p_{1}V^{j}_{1} = p_{2}V^{j}_{2} = \dots$$    
+
+
+Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana ($W$) eta izan duen barne-energiaren aldaketa ($\Delta U$) kalkulatu daitezke, honako hauek dira:    
+
+1. $W$:    
+
+   $$\left.\begin{array}{l}\delta W=-p d V \\p V^{j}=k \Rightarrow p=\dfrac{k}{V^{j}}\end{array}\right\} \quad \delta W=-\dfrac{k}{V^{j}} d V \Rightarrow W=-k \int\dfrac{1}{V^{j}} d V$$   
+
+   $$\begin{array}{l}W=\dfrac{1}{(j-1)}\left(p_{2} V_{2}-p_{1} V_{1}\right) \\\\\boxed{W=\dfrac{1}{(j-1)} n R\left(T_{2}-T_{1}\right)}\end{array}$$    
+
+2. $\Delta U$:    
+
+   $$U=U(T) \Rightarrow d U=C_{V} d T \Rightarrow \Delta U=C_{V} \Delta T$$    
+
+   $$ \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\boxed{\Delta U={\color{red}{\boxed{C_{V}}}}\left(T_{2}-T_{1}\right)} \quad \quad \quad\Delta U={\color{red}{\boxed{c_{V} n R}}}\left(T_{2}-T_{1}\right)$$     
+
+3. $Q$:      
+
+   $$Q=\Delta U-W$$     
+
+   $$\begin{array}{l}Q=n R\left(T_{2}-T_{1}\right)\left[C_{V}-\dfrac{1}{(j-1)}\right] \\Q=\dfrac{\left(T_{2}-T_{1}\right)}{(j-1)}\left[j C_{V}-C_{p}\right] \\\\\boxed{Q=\dfrac{\left(T_{2}-T_{1}\right)}{(j-1)} n R\left[j C_{V}-C_{p}\right]}\end{array}$$     
+
+<br>
+
+------------------------------     
+
+<br>
+
+- Gas idealekin lotutako lau prozesu errazen azterketa: 1., 2., 3. eta 4. ariketak   
+- 5\. ariketa    
+
 - Azken ariketari buruzko iruzkina:
 
-  - Sistema hidrostatikoa definitutakoan, hiru askatasun-gradukoa dela esan da, baina askatasun-gradu kimikoa izoztu zaio, hasieratik. Gas idela da horren kasu berezia, hots, *masa konstanteko gas ideala* da gas ideala soilik esaten denean, besterik esan ezean. Beraz, gas idealaren ereduan ondorioztatutako denek balio dute masa konstanteko gas idealaren kasurako.
-  - Azken ariketan, masa ez da konstante, beraz, zerbait aldatu beharko da eta kontuan hartu beharrekoa honako hau da: *barne-energia aldgai estentsiboa da beti*, hots, masarekiko mendekotasuna dauka beti, beraz, $U=U(T)$ idazten denean, honako hau idazten ari gara, inplizituki: $U=U(n,T)$, adierazpen orokor horretan $n$ adierazten du masarekiko mendekotasuna, edozein eskalatan.
-    - $C_{V}=\left(\frac{\partial U}{\partial T}\right)_V\Rightarrow C_{V}=\left(\frac{\partial U(n,T)}{\partial T}\right)_{n,V}$
-    - $U=U(n,T)$
-    - ondorioz: $\boxed{dU=C_V(n)\,dT}$ edo honako hau, orokorrean:
-      $$\Delta U = \Delta(C_{V}(n)\cdot T)$$
+  - Sistema hidrostatikoa definitutakoan, hiru askatasun-gradukoa dela esan da, baina askatasun-gradu kimikoa izoztu zaio, hasieratik. Gas idela da horren kasu berezia, hots, *masa konstanteko gas ideala* da gas ideala soilik esaten denean, besterik esan ezean. Beraz, gas idealaren ereduan ondorioztatutako denek balio dute masa konstanteko gas idealaren kasurako.    
+
+  - Azken ariketan, masa ez da konstante, beraz, zerbait aldatu beharko da eta kontuan hartu beharrekoa honako hau da: *barne-energia aldgai estentsiboa da beti*, hots, masarekiko mendekotasuna dauka beti, beraz, $U=U(T)$ idazten denean, honako hau idazten ari gara, inplizituki: $U=U(n,T)$, adierazpen orokor horretan $n$ adierazten du masarekiko mendekotasuna, edozein eskalatan.   
+
+    - $C_{V}=\left(\frac{\partial U}{\partial T}\right)_V\Rightarrow C_{V}=\left(\frac{\partial U(n,T)}{\partial T}\right)_{n,V}$   
+    - $U=U(n,T)$   
+    - ondorioz: $\boxed{dU=C_V(n)\,dT}$ edo honako hau, orokorrean:   
+
+      $$\Delta U = \Delta(C_{V}(n)\cdot T)$$    
+
+
+
+<!-- 
+
+-------------
+
+**Oct2020-06**  (2.0 - 24.0; guztira 24.0)
+
+---------
 
 - Honako ariketa hauek egin dira:
 
