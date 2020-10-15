@@ -1742,15 +1742,22 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
   - #### 11. Ariketa
 
----------
+
+--->
+
+
+
 
 -----------------------
-
 ## 6. astea
 ---------
+
+
+**Oct2020-13*  (2.0 - 30.0; guztira 30.0)**
+
 ---------
 
-**Oct2020-14**  (1.0 - 25.0; guztira 25.0)
+
 
 **6. Gaia: [<span style="color:orange">Apunteak](https://nbviewer.jupyter.org/github/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_ApunteakNotebooks/0_6_BigarrenPrintzipioa.ipynb)**
 
@@ -1815,11 +1822,10 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
 ---------
 
-**Oct2020-15**  (1.0 - 26.0; guztira 26.0)
+**Oct2020-14**  (2.0 - 32.0; guztira 32.0)
+-------------
 
-- Gaiaren sarrera-orria komentatu (atzo ahaztu zitzaidan...)
-
-- **6.3 [Termodinamikaren Bigarren Printzipioaren (bi) enuntziatu](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_08_56.pdf)**
+  - **6.3 [Termodinamikaren Bigarren Printzipioaren (bi) enuntziatu](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_08_56.pdf)**
     - 2.garren Printzipioaren zenbait enuntziatu dago; oraingo honetan *klasikoenak aztertuko dira.*
     - Ematen du ez dutela inolako loturarik, baina asimetria berberaren bi aurpegi baino ez dira.
     - Kontuz! Izugarri garrantzitsua da *inolako eraginik gabe, eskua sartu gabe, besterik gabe...* modukoak **beti** esatea enuntziatuak aipatzen direnean.
@@ -1839,9 +1845,9 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
     - Berezko prozesuen sailkapenak eta aztertzeak hiru ondorio dauka:
         1. berez gertatzen diren prozesuei buelta emateko, kontrako noranzkoan eragiteko, Bigarren Printzipioaren aurka egin behar da; beraz, ezinezkoak dira kontrako noranzkokoak eta, ondorioz, *berez gertatzen diren prozesuak **itzulezinak** dira*
         2. hortaz, horrexegatik, propietate komuna dute berezko prozesuek: energia-barreiatzea, edozein motatakoa, haiekin lotuta dago: barreiatutako energia hori, bero moduan, da lan bihurtu beharko litzakeena buelta emateko prozesuari...ezinezkoa bera
-        3. aipatutako propietate komun horren bidez, ondorioztatzen dira *itzulgarritasunerako baldintzak*: prozesuak izan behar du, aldiberean,
+        3. aipatutako propietate komun horren bidez, ondorioztatzen dira *itzulgarritasunerako baldintzak*: prozesuak izan behar du, aldi berean,
             - kuasiestatiko
-            - energia-barreiketarik gabeko
+            - energia-barreiaketarik gabeko
     - metodo axiomatikoa:
         - [*Carathodory-ren* enuntziatua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_12_60.pdf): [ikus honako hau](https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory#Thermodynamics)
         2. [**G**ainazal **A**diabatikoen **E**xistentzia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2018_2019_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_12_60.pdf):
@@ -1849,22 +1855,9 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
                 - kasu honetan lehen printzipioa baino ez da behar, ez da bigarren printzipioaren potentzia osoa behar
                 - dena dela, kontuan hartu behar da behin baino gehiagotan aipatutakoa: aztertzen den prozesua ez da soilik kuasiestatiko; aldi berean itzulgarria da
                 - esan bezala, hori ez da azpimarratzen liburuan, nahiz eta bai komentatzen den
-                - gogoratu gas idealaren kasuan lortu direla prozesu adiabatiko kuasiestatikoei dagokien forma (edozein diagramatan): prozedura berbera da
+                - gogoratu gas idealaren kasuan lortu direla prozesu adiabatiko kuasi-estatikoei dagokien forma (edozein diagramatan): prozedura berbera da
 
----------
 
-**Oct2020-16**  (2.0 - 28.0; guztira 28.0) (+5 aurreratuta)
-
----------
-
-**1. ordua**
-- <em>**6.6 Bigarren Printzipioaren Ondorioak**:
-    1. **6.6.1 [Izadiko berezko prozesuak *itzulezinak* dira](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2018_2019_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_09_57.pdf)**
-    - metodo axiomatikoa:
-        - [*Caratheodory-ren* enuntziatua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_12_60.pdf): [ikus honako hau](https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory#Thermodynamics)
-        2. [**G**ainazal **A**diabatikoen **E**xistentzia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_12_60.pdf):
-            - aldagai bakarreko sistema  </em>
-            ------------------------------------------- <break>
             - [aldagai anitzeko sistema](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_13_61.pdf)
                 - Aldagai anitzeko edozein sistemaren kasuan derrigorrean erabili behar da 2. printzipioaren indar osoa
                 - frogapena egin da konfigurazio-espazio berezi batean: hiru dimentsiokoa (fisikoki sistemak hiru askatasun-gradu baino ez dauka) baino ez bera, nahiz eta ondorioa erabat orokorra den eta, gainera, askatasun-graduak deskribatzeko erabili diren aldagaiak dira $U, X, X'$: sistemaren barne-energia eta bi desplazamendu orokortu. Denak dira estentsiboak
@@ -1873,35 +1866,16 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
                 - existitzen den funtzioa denez:
                     - $\sigma$ gainazal adiabatiko itzulgarriz *bete* daiteke konfigurazio-espazioa
                     - diferentzial zehatza da
-                    - sistemaren porpietate bat adierazteko erabil daiteke, beste edozein aldagai termodinamikoren antzera
+                    - sistemaren propietate bat adierazteko erabil daiteke, beste edozein aldagai termodinamikoren antzera
                     - aldagai independenteen sortakoa izan daiteke eta, beraz, esaterako, honako hau idatz daiteke: $U = U(\sigma, X, X')$; konfigurazio-espazioko aldagaitzat hartuta
-                - **Gainazal adiabatiko itzulgarriek ezin dute elkar ebaki**: hala balitz, fragapenean erabiltako argumentazio berbera erabiliz berriro 2. Printzipioaren aurka egingo luke ziklo hipotetikoak eta kontraesana ondorioztatu beharko litzateke
+                - **Gainazal adiabatiko itzulgarriek ezin dute elkar ebaki**: hala balitz, frogapenean erabilitako argumentu berberak erabiliz berriro 2. Printzipioaren aurka egingo luke ziklo hipotetikoak eta kontraesana ondorioztatu beharko litzateke
 
-**2. ordua**
 
-- <em>**6.6 Bigarren Printzipioaren Ondorioak**:
-    1. **6.6.1 [Izadiko berezko prozesuak *itzulezinak* dira](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_09_57.pdf)**
-    - metodo axiomatikoa:
-        - [*Caratheodory-ren* enuntziatua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_12_60.pdf): [ikus honako hau](https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory#Thermodynamics)
-        2. [**G**ainazal **A**diabatikoen **E**xistentzia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_12_60.pdf):
-            - aldagai bakarreko sistema  </em>
-            ------------------------------------------- <break>
-            - [aldagai anitzeko sistema](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_13_61.pdf)
-                - Aldagai anitzeko edozein sistemaren kasuan derrigorrean erabili behar da 2. printzipioaren indar osoa
-                - frogapena egin da konfigurazio-espazio berezi batean: hiru dimentsiokoa (fisikoki sistemak hiru askatasun-gradu baino ez dauka) baino ez bera, nahiz eta ondorioa erabat orokorra den eta, gainera, askatasun-graduak deskribatzeko erabili diren aldagaiak dira $U, X, X'$: sistemaren barne-energia eta bi desplazamendu orokortu. Denak dira estentsiboak
-                - nahikoa da diagrama bakarrean lortzea frogapena
-                - ondorio da: $\sigma = \sigma(U, X, X')$ funtzioa existitzen dela (edozein sistemaren kasuan)
-                - existitzen den funtzioa denez:
-                    - $\sigma$ gainazal adiabatiko itzulgarriz *bete* daiteke konfigurazio-espazioa
-                    - diferentzial zehatza da
-                    - sistemaren porpietate bat adierazteko erabil daiteke, beste edozein aldagai termodinamikoren antzera
-                    - aldagai independenteen sortakoa izan daiteke eta, beraz, esaterako, honako hau idatz daiteke: $U = U(\sigma, X, X')$; konfigurazio-espazioko aldagaitzat hartuta
-                - **Gainazal adiabatiko itzulgarriek ezin dute elkar ebaki**: hala balitz, fragapenean erabiltako argumentazio berbera erabiliz berriro 2. Printzipioaren aurka egingo luke ziklo hipotetikoak eta kontraesana ondorioztatu beharko litzateke
         2. [$\delta Q$-ren faktore integratzailea](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_14_62.pdf)
             - Edozein sistemaren kasuan eta ***edozein prozesu itzulgarritan, kuasiestatiko eta energia-barreiaketarik gabeko bera,*** sistemak trukatzen duen beroa beti da honako hau:
 
             $$\boxed{\delta Q = \left(\frac{\partial U}{\partial \sigma}\right)\_{X,X'}\cdot d\sigma}\_{(1)}\Rightarrow \delta Q = \lambda \cdot d\sigma \Rightarrow \boxed{\frac{\delta Q}{\lambda} = d\sigma}\_{(2)}$$
-            - beroak ez du galtzen bere ez-zehatz izaera: beroa **beti** da diferentzial ez -zehatza, baina, era itzulgarrian trukatutako beroak **beti** dauka *faktore integratzailea*
+            - beroak ez du galtzen bere ez-zehatz izaera: beroa **beti** da diferentzial ez-zehatza, baina, era itzulgarrian trukatutako beroak **beti** dauka *faktore integratzailea*
             - frogapenetik ondorioztatzen da, derrigorrean honako hauek *identikoki nuluak* direla:
 
             $$\left(\frac{\partial U}{\partial X}\right)_{\sigma,X'} - Y = 0$$
@@ -1914,7 +1888,8 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
             - barne-energia aldagai estentsiboen, independenteak izanik, funtzioan idatzitakoan, edozein deribatu partzialek definitzen du bere aldagai intentsibo konjokatua
 
-            [grafikoki](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_15_63.pdf)
+
+            [grafikoki](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_15_63.pdf)        <span style="background-color: #ebb1d3">[hemendik aurrera, **Oct2020-15**  (3.0 - 35.0; guztira 35.0)]</span>
             - oso interesantea da adierazpide grafikoan agertzen diren prozesuak aztertzea eta deskribatzea (*ariketa-proposamena*)
         - Faktore integratzailearen [esangura fisikoa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_16_64.pdf)
             - honako hau $\delta Q = \lambda(t, X, X',\cdots ) \cdot d\sigma$, beste ere honetan idatz daiteke:
@@ -1932,15 +1907,12 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
         4. [*Kelvin* tenperatura-eskala](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_19_67.pdf)
             - unibertsaltasun horrek ahalbidetzen du *tenperatura-eskalaren absolutua* definitzea
-            - Tenperatura-eskala absolutuaren definizioan erabiltzen den aldaga termometrikoa da sistema batek $t$ tenperaturaren balioaz ezaugarritutako egoera termikoan dagoela, tenperatura konstantean, eta era itzulgarrian trukatzen duen beroa
+            - Tenperatura-eskala absolutuaren definizioan erabiltzen den aldagai termometrikoa da sistema batek $t$ tenperaturaren balioaz ezaugarritutako egoera termikoan dagoela, tenperatura konstantean, eta era itzulgarrian trukatzen duen beroa
             - tenperatura horretan trukatutako beroak badauka mendekotasuna:
                 - sistemarekiko
                 - ibilbidearekiko
-            - baina erreferentziarako hartutako egoera termikoan trukatutako beroaz zatiztuz gero, beroen arteko zatidurak ez dauka ez sistemarekiko ezta ibilbiderekiko mendekotasunik ere, egoera termikoarekikoa baino ez, erreferentziarako hartutako egoera termikoa bada tenperatura-eskalaren definizioan kontuan hartu beharreko *puntu finkoetako bat*
+            - baina erreferentziarako hartutako egoera termikoan trukatutako beroaz zatituz gero, beroen arteko zatidurak ez dauka ez sistemarekiko ezta ibilbiderekiko mendekotasunik ere, egoera termikoarekikoa baino ez, erreferentziarako hartutako egoera termikoa bada tenperatura-eskalaren definizioan kontuan hartu beharreko *puntu finkoetako bat*
 
-
-- 6.6 Bigarren Printzipioaren Ondorioak
-    - Ondorioak
         5. [Entropia-funtzioaren existentzia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_20_68.pdf)
 
         - $\delta Q = \lambda(t, X, X')\cdot d\sigma$
@@ -1950,7 +1922,7 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
         $$\delta Q = \left[k\cdot T\right]\cdot \left[f(\sigma)\cdot d\sigma\right] \Rightarrow \delta Q = T \cdot \left[k\, f(\sigma)d\sigma\right]$$
 
         $$\boxed{\overbrace{\frac{\delta Q}{T}}^{\text{IG}}= \underbrace{k\, f(\sigma) d\sigma}_{\textrm{sistema}}}$$
-        >- edozein sistemak era itzulgarrian (eta egoera termiko jakinean, $T$ tenperaturan, beraz; aldatzekotan, izulgarriki aldatzen da) trukatzen duen beroaren faktore integratzailea da (bero-trukea gertatu den) $T$ tenperatura absolutua
+        >- edozein sistemak era itzulgarrian (eta egoera termiko jakinean, $T$ tenperaturan, beraz; aldatzekotan, itzulgarriki aldatzen da) trukatzen duen beroaren faktore integratzailea da (bero-trukea gertatu den) $T$ tenperatura absolutua
         - diferentzial zehatza da sistemaren atala
          sistemari dagokion propietatea adieraziko du
          $S$ ikurrez adierazten da eta *entropia* deritzo
@@ -1966,24 +1938,22 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
         - [Horretarako, 2 tresna](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_24_72.pdf):
             1. Bigarren Printzipioa, entropia-funtzioaren eragiketa-definizioa: $dS = \frac{\delta Q^{IG}} {T}$
             2. Lehenengo Printzipioa, era itzulgarrian trukatutako beroaren adierazpen diferentziala: $\delta Q^{IG} = \left[dU - \delta W\right]^{IG}$
-            3. Biak aldiberean:
+            3. Biak aldi berean:
             $$\boxed{dS = \frac{\left[dU - \delta W\right]^{IG}}{T}}$$
         - Prozesua IG bada, zuzenean aplikatu goikoa
         - Prozesua IE bada, IE-ak lotu dituen $i$ eta $f$ berberak lotuko dituen edozein prozesu IG aukeratu eta goikoa aplikatu
             - egokia den *ordezko prozesu IG*, horrek esan nahi du: ondo aukeratzea prozesua deskribatzeko erabiliko diren aldagai independenteak
             - gehienetan aldagairen bat konstantea izango da: *sartu* hori aldagai indenedenteen sortan, bere aldaketak ez baitu ekarpenik egingo eta entropiaren kalkulua erraztuko da
 
----------
+----------------
+----------------
 
-**Oct2020-17**  (1.0 - 29.0; guztira 29.0)
-
----------
 
 -   [Adibidea](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_22_70.pdf)
     - [gas idealaren](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_23_71.pdf) kasuan (sistema jakina zeinaren informazio guztia, ia-ia, ezaguna den) edozein prozesutan kalkulatu daiteke zer entropia-aldaketa gertatu zaion
 
 - Iruzkina:
-    - Bi askatasun-graduko (edo orokorrean, bi askatasun-gradu martxan baino ez duen) sistemaren kasuan, entropia deskribatzeko honako bi aldagai independeteen sortak aukeratu daitezke, besteak beste:
+    - Bi askatasun-graduko (edo orokorrean, bi askatasun-gradu martxan baino ez duen) sistemaren kasuan, entropia deskribatzeko honako bi aldagai independenteen sortak aukeratu daitezke, besteak beste:
         - $(T, V)$:
             - Beraz, $S= S(T, V)\Rightarrow dS = \left(\frac{\partial S}{\partial T}\right)_V dT + \left(\frac{\partial S}{\partial V}\right)_T dV$,
             - $V$ konstanteko baldintzatan, $[dS]_V = \left[\left(\frac{\partial S}{\partial T}\right)_V dT\right]_V$
@@ -2014,12 +1984,12 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
 - `Zenbait iruzkin:`
     - Bero-iturriari dagokion entropia-aldaketa, definizioz: $dS = \frac{\delta Q_{b-i}^{IG}}{T_{b-i}}$
-        1. Baina bero-iturriak **beti** trukatzen du bero era itzulgarrian (kuasiestatikoki, $\delta Q$, infinitesimala da kantitatea oso handia baita; eta energia barreiaketarik, horixe baita daukan askatasun-gradu bakarra, hots, *ez daka ezer energia barreiatzeko*)
+        1. Baina bero-iturriak **beti** trukatzen du bero era itzulgarrian (kuasi-estatikoki, $\delta Q$, infinitesimala da kantitatea oso handia baita; eta energia barreiaketarik, horixe baita daukan askatasun-gradu bakarra, hots, *ez dauka ezer energia barreiatzeko*)
         2. Gainera, bero-iturriaren tenperatura beti da konstante, beraz, integraletik atera daiteke (horixe da, kasu honetan, *ibilbidea ezagutzea, ibilbideko integrala, diferentzial ez-zehatz baten integrala kalkulatzeko*)
 
     - Ondorioz:
         $$\boxed{\Delta S_{b-i} = \frac{Q_{bi-i}}{T_{b-i}}}$$
-    - *kuasiestatikotasuna eta itzulgarritasuna*:
+    - *kuasi-estatikotasuna eta itzulgarritasuna*:
         - definizioz ez dira berdinak: itzulgarriak kuasiestatiko dakar ondorioz, baina kontrara, ez!!
         - *liburuko erabilera praktikoari dagokionez*, badira berdinak: liburuaren arabera, kuasiestatiko izatean, *azpitik*, onartzen ari da itzulgarria dela baita ere
 
@@ -2041,13 +2011,17 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
       >
       >$$\Delta S^{U} = \Delta S^{sis} + \Delta S^{ing}$$
       >
-      >- Onartu hasierako oreka-egoera lortzeko prozesua, hots, $T_{1}$ tenperaturan dagoen bero-iturriarekin ukipen termikoan jarritakoan gertatzen den prosezua dela prozesu osoaren parte.
+      >- Onartu hasierako oreka-egoera lortzeko prozesua, hots, $T_{1}$ tenperaturan dagoen bero-iturriarekin ukipen termikoan jarritakoan gertatzen den prozesua dela prozesu osoaren parte.
 
-    2. Sistema eraman da 1-egoeratik, $T_{1}$ tenperaturakoa bera, 2-egoerara, $T_{2}$ tenperaturakoa bera, bat-bateko bi azpi-propsezuren bidez eraman da, bi tenperaturen artean, erdiko tenperatura tartekatuz. Oraingo honetan ere bai kalkulatu behar dira aurrekoan kalkulatu behar izandakoak.
-    3. Aurreko ariketa errepikatu, baina, oraingo honetan tarteko bi tesnperatura tartekatuz, bestela, dena gertatzen da baldintza berberetan.
+    2. Sistema eraman da 1-egoeratik, $T_{1}$ tenperaturakoa bera, 2-egoerara, $T_{2}$ tenperaturakoa bera, bat-bateko bi azpi-prozesuren bidez eraman da, bi tenperaturen artean, erdiko tenperatura tartekatuz. Oraingo honetan ere bai kalkulatu behar dira aurrekoan kalkulatu behar izandakoak.
+    3. Aurreko ariketa errepikatu, baina, oraingo honetan tarteko bi tenperatura tartekatuz, bestela, dena gertatzen da baldintza berberetan.
     4. ...
     ...
     5. ..limitera eramanda, hasierako eta bukaerako egoeren artean, infinitu tenperatura tartekatu dira...
+
+
+
+<!---   
 
 -----------------------
 
