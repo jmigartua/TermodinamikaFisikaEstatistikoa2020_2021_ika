@@ -1,0 +1,252 @@
+- name:     Introduction
+  days:
+      - date:           09/11
+        topics:         Sarrera, Syllabus
+        assignment:     Irakurketa 00
+        items:
+        - name:         Gardenkiak
+          link:         https://docs.google.com/a/nd.edu/presentation/d/1X_6ydwY2NE28n1-8CgcwAgxe34P88pymP3UqntSiwwQ/edit?usp=sharing
+
+      - date:           08/25
+        topics:         Programming, Python, Anaconda
+        assignment:     Notebook 00
+        items:
+        - name:         Slides
+          link:         https://docs.google.com/a/nd.edu/presentation/d/1GAWdldZoRyj5pUvOpTXeDH3lDGo7l2pYx-rJQQxbZWA/edit?usp=sharing
+
+- name:     Basic Syntax & Types
+  days:
+      - date:           08/30
+        topics:         Arithmetic, Values, Types
+        assignment:     Reading 01
+        items:
+        - name:         Slides
+          link:         https://docs.google.com/a/nd.edu/presentation/d/1OtWwZllpez1FGHmBdi1hR_zD33wIz7uHg_ebW0KDCeU/edit?usp=sharing
+        - name:         Notes
+          link:         http://nbviewer.jupyter.org/urls/gitlab.com/snippets/25164/raw
+
+      - date:           09/01
+        topics:         Variables, Expressions, Statements
+        assignment:     Notebook 01
+        items:
+        - name:         Notes
+          link:         http://nbviewer.jupyter.org/urls/gitlab.com/snippets/25328/raw
+
+- name:     Conditional Execution
+  days:
+      - date:           09/06
+        topics:         Conditional and Alternative Execution
+        assignment:     Reading 02
+        items:
+        - name:         Slides
+          link:         https://docs.google.com/a/nd.edu/presentation/d/1bpdh3vMVzZlzjE3uPf7BjIgunFoAr5hsb05foUmOkqg/edit?usp=sharing
+        - name:         Notes
+          link:         http://nbviewer.jupyter.org/urls/gitlab.com/snippets/25773/raw
+
+      - date:           09/08
+        topics:         Chained and Nested Conditionals
+        assignment:     Notebook 02
+        items:
+          - name:       Checklist 01
+            link:       checklist01.html
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/25774/raw
+          - name:       Quiz 01
+
+- name:     Iteration
+  days:
+      - date:           09/13
+        topics:         Loops
+        assignment:     Reading 03
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/a/nd.edu/presentation/d/1Y0uZ43SZd3-ME1e0Cgj6BbNBJn3RWaJbHHwJSswtHjc/edit?usp=sharing
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/26115/raw
+
+      - date:           09/15
+        topics:         Patterns
+        assignment:     Notebook 03
+        items:
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/26277/raw
+
+- name:     Functions
+  days:
+      - date:           09/20
+        topics:         Functions
+        assignment:     Reading 04
+        items:
+            - name:     Slides
+              link:     https://docs.google.com/a/nd.edu/presentation/d/1Ny2tdHqJniZQJdvkZLLbsJ8aobxMxhD29kDVt8v15UA/edit?usp=sharing
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/26619/raw
+
+      - date:           09/22
+        topics:         Arguments, Docstrings
+        assignment:     Notebook 04
+        items:
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/26810/raw
+
+- name:     Lists, Strings
+  days:
+      - date:           09/27
+        topics:         Lists
+        assignment:     Reading 05
+        items:
+            - name:     Slides
+              link:     https://docs.google.com/a/nd.edu/presentation/d/1ib8n91Ny8_A3NxCBdSC8wXGY6ZYGnMUTKfMowh034P4/edit?usp=sharing
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/27311/raw
+
+      - date:           09/29
+        topics:         Strings
+        assignment:     Notebook 05
+        items:
+          - name:       Checklist 02
+            link:       checklist02.html
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/27630/raw
+          - name:       Quiz 02
+
+- name:     Dictionaries, Sets
+  days:
+      - date:           10/04
+        topics:         Dictionaries
+        assignment:     Reading 06
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/a/nd.edu/presentation/d/1AU4fSIu13rA4eLZO0JrhvOLoKmyhUu3kIacqixSu9DU/edit?usp=sharing
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/27936/raw
+
+      - date:           10/06
+        topics:         Sets
+        assignment:     Notebook 06
+        items:
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/28196/raw
+
+- name:     Midterm
+  days:
+      - date:           10/11
+        topics:         Review
+        items:
+          - name:       Checklist
+            link:       checklist_midterm.html
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/28578/raw
+
+      - date:           10/13
+        items:
+          - name:       Exam 1
+
+- name:     Fall Break
+
+- name:     File I/O
+  days:
+      - date:           10/25
+        topics:         Reading
+        assignment:     Reading 07
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/a/nd.edu/presentation/d/1NEiaK-o4ApOEapIlBMZwSIGKGiwZRyJhcxZdZd8y_UM/edit?usp=sharing
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/29865/raw
+
+      - date:           10/27
+        topics:         Writing
+        assignment:     Notebook 07
+        items:
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/30091/raw
+
+- name:     Data Manipulation
+  days:
+      - date:           11/01
+        topics:         CSV
+        assignment:     Reading 08
+        items:
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/30415/raw
+
+      - date:           11/03
+        topics:         JSON, Requests
+        assignment:     Notebook 08
+        items:
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/30596/raw
+
+- name:     Image Processing
+  days:
+      - date:           11/08
+        topics:         Representation, Manipulation
+        assignment:     Reading 09
+        items:
+            - name:     Slides
+              link:     https://docs.google.com/a/nd.edu/presentation/d/1y-mKJLfX3iY6ZRbDh3O9nAzAmjAwkHwJagMutGGXWSk/edit?usp=sharing
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/31177/raw
+
+      - date:           11/10
+        topics:         Processing
+        assignment:     Notebook 09
+        items:
+          - name:       Checklist 03
+            link:       checklist03.html
+          - name:       Notes
+            link:       http://nbviewer.jupyter.org/urls/gitlab.com/snippets/31178/raw
+          - name:       Quiz 3
+
+- name:     Artificial Intelligence
+  days:
+      - date:           11/15
+        topics:         Twitter Bot
+        assignment:     Reading 10
+
+      - date:           11/17
+        topics:         Connect 4
+        assignment:     Notebook 10
+        items:
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/31747/raw
+
+      - date:           11/22
+        topics:         Battle Royale
+        assignment:     Project 01
+
+      - date:           11/24
+        topics:         Thanksgiving
+
+- name:     Web Programming
+  days:
+      - date:           11/29
+        topics:         HTML, Tornado
+        assignment:     Reading 11
+        items:
+            - name:     Slides
+              link:     https://docs.google.com/a/nd.edu/presentation/d/1bimyHODPa5-SAk3NsNRkpLTHIwKydOgZVIvyJ3PYpig/edit?usp=sharing
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/32631/raw
+
+      - date:           12/01
+        topics:         Forms
+        items:
+            - name:     Notes
+              link:     http://nbviewer.jupyter.org/urls/gitlab.com/snippets/32632/raw
+
+      - date:           12/06
+        topics:         Sprint
+
+      - date:           12/08
+        topics:         Presentations
+        assignment:     Project 02
+
+- name:     Final
+  days:
+      - date:           12/12
+        items:
+            - name:     CheckList
+              link:     checklist_final.html
+            - name:     Exam 2

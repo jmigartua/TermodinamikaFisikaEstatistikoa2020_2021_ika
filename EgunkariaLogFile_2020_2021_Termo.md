@@ -2021,148 +2021,266 @@ Horrelako prozesuen kasuan, gas idealak trukatutako beroa ($Q$), egindako lana (
 
 
 
-<!---   
+
 
 -----------------------
 
 ## 7. astea
 ---------
 
+-----------------
 
-**Oct2020-21**  (1.0 - 30.0; guztira 30.0)
+
+**Oct2020-19**  (2.0 - 34.0; guztira 34.0)
+
+--------------------
 
 - aurreko egunean planteatutako ariketa gogora ekarri: 3 helburu dauzka ariketak:
 
-  1. Entropia-funtzioa **batukorra** da, hortaz ohartaraztea
-       - Unibertsoaren entropia-aldaketa da sistemaren entropia-aldaketaren eta ingurunearen entropi-aldaketaren arteko batura
-       - sistemaren azterketan, sistemari dagokion entropia-aldaketa da haren ***zatien*** entropia-aldaketan batura
-  2. Kontuan hartze nola kalkulatu behar den bero-iturriaren (edozein) entropia-aldaketa
-  3. Edozein prozesu itzulezin itzulgarri ***bihurtzeko*** egin behar dena...ez da bihurtzen, baizik eta itzulezina den horren hasierako eta bukaerako egoera berberak lotuko duen prozesu itzulgarri bat eratzeko egin behar dena azaltzea da helburua: jakina, eskua sartu egin behar...
+  1. Entropia-funtzioa **batukorra** da, hortaz ohartaraztea    
 
-- <em>**6.6 Bigarren Printzipioaren Ondorioak**:</em>
+       - Unibertsoaren entropia-aldaketa da sistemaren entropia-aldaketaren eta ingurunearen entropi-aldaketaren arteko batura     
 
-  - metodo teknikoa:
-      - [*Carnot-en* zikloa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_25_73.pdf):
-          - definzioa
-          - iruzkinak/ezaugarriak:
-              - *Carnot-en* zikloaren adierazpide grafikoa $(Y,X)$ diagrama orokorrean
-              - *Carnot-en* zikloaren adierazpide grafikoa $(T,S)$ diagraman: unibertsala da, ez da behar ziklikoki bueltaka dabilen sistemari buruzko informaziorik
-              - Ziklikoki dabilen sistema gas ideala da:
-                  - *Carnot-en* zikloaren adierazpide grafikoa $(p, V)$ diagraman
-                  - bestelako diagrametan: $(T, V)$, $(T, U)$, $(U, p)$, $\cdots$
-              - *Carnot-en* zikloari dagokion etekina, makina termikoan erabilita zikloa eta makina termikoa *motor termikoa* denean (proposatutako ariketa):
-              $$\boxed{\eta_C = 1 - \frac{T_1}{T_0}}$$
+       - sistemaren azterketan, sistemari dagokion entropia-aldaketa da haren ***zatien*** entropia-aldaketan batura     
 
-          - ezaugarriak: 2. Printzipioa erabilita ondorioztatutakoak
-              - *Carnot-en* zikloaren etekinak ez dauka ziklikoki dabilen sistemarekiko mendekotasunik
+  2. Kontuan hartze nola kalkulatu behar den bero-iturriaren (edozein) entropia-aldaketa    
 
-              - *Carnot-en* zikloaren etekina **maximoa** da finkatutako bi tenperatura horien artean dabilen edozein motorri dagokionarekin alderatuta
-
----------
+  3. Edozein prozesu itzulezin itzulgarri ***bihurtzeko*** egin behar dena...ez da bihurtzen, baizik eta itzulezina den horren hasierako eta bukaerako egoera berberak lotuko duen prozesu itzulgarri bat eratzeko egin behar dena azaltzea da helburua: jakina, eskua sartu egin behar...      
 
 
-**Oct2020-22**  (1.0 - 31.0; guztira 31.0)
+
+- ***6.6 Bigarren Printzipioaren Ondorioak**:***     
+
+- metodo teknikoa:     
+    - [*Carnot-en* zikloa](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_25_73.pdf):    
+        - definzioa     
+        - iruzkinak/ezaugarriak:      
+            - *Carnot-en* zikloaren adierazpide grafikoa $(Y,X)$ diagrama orokorrean    
+            - *Carnot-en* zikloaren adierazpide grafikoa $(T,S)$ diagraman: unibertsala da, ez da behar ziklikoki bueltaka dabilen sistemari buruzko informaziorik     
+            - Ziklikoki dabilen sistema gas ideala da:   
+                - *Carnot-en* zikloaren adierazpide grafikoa $(p, V)$ diagraman      
+                - bestelako diagrametan: $(T, V)$, $(T, U)$, $(U, p)$, $\cdots$    
+            - *Carnot-en* zikloari dagokion etekina, makina termikoan erabilita zikloa eta makina termikoa *motor termikoa* denean (proposatutako ariketa):      
+
+            $$\boxed{\eta_C = 1 - \frac{T_1}{T_0}}$$    
+
+        - ezaugarriak: 2. Printzipioa erabilita ondorioztatutakoak     
+            - *Carnot-en* zikloaren etekinak ez dauka ziklikoki dabilen sistemarekiko mendekotasunik    
+            - *Carnot-en* zikloaren etekina **maximoa** da finkatutako bi tenperatura horien artean dabilen edozein motorri dagokionarekin alderatuta      
+
+
+
 
 4. [Kelvin tenperatura-eskala](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_28_76.pdf):
-Ariketa-proposamena
+Ariketa-proposamena     
 
     [Clausius-en Teorema](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_33_81.pdf):
-    - Ez da frogatuko
-5. [Entropia-funtzioaren existentzia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_33_81.pdf):
-    - Hauxe da bere eduki fisikoa:
-        $$\oint\delta q_0 = T_0 \oint\frac{\delta q}{T} \leq 0$$
-    - *prozesua*, zikloa, IG: $\oint\frac{\delta q}{T} = 0$
-    Gainera, berori erabil daiteke $S$ entropia-funtzioa ondorioztatzeko
-        - Zikloko bi puntu aurkeratu: $i$ eta $f$
-        - Zikloa bera bi azpiprozesuz osatuta azter daiteke: $i \to f$ eta $f \to i$
-        - Azpipropzesu bakoitzean $S$ kalkulatu daiteke:
-            - $i \to f: \int_{i\to f}dS \equiv \Delta S_{i\to f}=\boxed{\Delta S_{i-f}={\int_{i}^{f}}_{a}\frac{\delta q}{T}}$
-            - $f \to i: \int_{f\to i}dS \equiv \Delta S_{f\to i}=\boxed{\Delta S_{f-i}={\int_{f}^{i}}_{b}\frac{\delta q}{T}}$
-        - $\Delta S_{i\to f \to i} = \Delta S_{i\to f}^{a} + \Delta S_{f\to i}^{b}$
-        - $\Delta S_{i\to f \to i} = 0$
+    - Ez da frogatuko      
 
-        $$\Delta S\_{i\to f}^{a} + \Delta S\_{f\to i}^{b} = 0 \Rightarrow \Delta S\_{i\to f}^{a} = - \Delta S\_{f\to i}^{b} \Rightarrow \underbrace{\Delta S\_{i\to f}^{a}}\_{\Downarrow\{\int_{i}^{f}} \frac{\delta q}{T}} = \underbrace{\Delta S\_{i\to f}^{b}}\_{\Downarrow\{\int_{i}^{f}} \frac{\delta q}{T}}$$
+5. [Entropia-funtzioaren existentzia](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_33_81.pdf):    
 
-    - *prozesua*, zikloa, IE: $\oint\frac{\delta q}{T} \lt 0$
-    Kasu honetan, $\frac{\delta q}{T}$ **inoiz ez da entropia**
+    - Hauxe da bere eduki fisikoa:    
+
+        $$\oint\delta q_0 = T_0 \oint\frac{\delta q}{T} \leq 0$$    
+
+    - *prozesua*, zikloa, IG: $\oint\frac{\delta q}{T} = 0$    
+
+      Gainera, berori erabil daiteke $S$ entropia-funtzioa ondorioztatzeko    
+
+        - Zikloko bi puntu aurkeratu: $i$ eta $f$    
+
+        - Zikloa bera bi azpiprozesuz osatuta azter daiteke: $i \to f$ eta $f \to i$   
+
+        - Azpipropzesu bakoitzean $S$ kalkulatu daiteke:    
+
+            - $i \to f: \int_{i\to f}dS \equiv \Delta S_{i\to f}=\boxed{\Delta S_{i-f}={\int_{i}^{f}}_{a}\frac{\delta q}{T}}$    
+
+            - $f \to i: \int_{f\to i}dS \equiv \Delta S_{f\to i}=\boxed{\Delta S_{f-i}={\int_{f}^{i}}_{b}\frac{\delta q}{T}}$    
+
+        - $\Delta S_{i\to f \to i} = \Delta S_{i\to f}^{a} + \Delta S_{f\to i}^{b}$    
+
+        - $\Delta S_{i\to f \to i} = 0$     
+
+        $$\Delta S_{i \rightarrow f}^{a}+\Delta S_{f \rightarrow i}^{b}=0 \Rightarrow \Delta S_{i \rightarrow f}^{a}=-\Delta S_{f \rightarrow i}^{b} \Rightarrow \underbrace{\Delta S_{i \rightarrow f}^{a}}_{\Downarrow \int_{i}^{f} \frac{\partial q}{T}}=\underbrace{\Delta S_{i \rightarrow f}^{b}}_{\Downarrow \int_{i}^{f} \frac{\delta_{q}}{T}}$$     
+
+    - *prozesua*, zikloa, IE: $\oint\frac{\delta q}{T} \lt 0$   
+
+      Kasu honetan, $\frac{\delta q}{T}$ **inoiz ez da entropia**
 
 
 ---------
 
 
-**Oct2020-23**  (1.0 - 32.0; guztira 32.0)
+**Oct2020-20**  (0.0 - 34.0; guztira 34.0)
 
 ---------
 
-- **6.7 Entropia-emendioaren Printzipioa**
+**Ez dago eskolarik: nik ezin izan dudalako**
 
-  - [Izadiko berezko prozesuetako entropia-aldaketaren kalkulua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_34_82.pdf):
 
-  - [Entropia-emendioaren frogapena, prozesu adiabatiko itzulezinetan](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_35_83.pdf):
+<br>
+
+
+---------
+
+
+**Oct2020-21**  (2.0 - 36.0; guztira 36.0)
+
+---------
+
+<br>
+
+
+**6.7 Entropia-emendioaren Printzipioa**
+
+- [Izadiko berezko prozesuetako entropia-aldaketaren kalkulua](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_34_82.pdf):
+
+
+<br>
+
+---------
+
+
+**Oct2020-22**  (2.0 - 38.0; guztira 38.0)
+
+---------
+
+- [Entropia-emendioaren frogapena, prozesu adiabatiko itzulezinetan](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_35_83.pdf):      
 
 $$\boxed{\Delta S^{U} \equiv \Delta S^{ing} + \Delta S^{sis} \geq 0}$$
 
 <br>
 
-  - Iruzkinak:
-    1. 2 Printzipioak finkatzen du unibertsoaren entropia-aldaketaren zeinua
-    2. 2 printzipioak finkatzen du unibertsoaren entropia-aldaketak izan dezakeen baliorik txikiena, zero!
-    3. 2 Printzipioak ez du finkatzen ingurunearen eta sistemaren entropia-aldaketen balio erlatiboak: baturaren zeinua finkatuta dago, hori da baldintza murriztailea, baina, bestela, edozein konbinazio gerta daiteke (harekin bateragarri, jakina)
+- Iruzkinak:
+  1. 2 Printzipioak finkatzen du unibertsoaren entropia-aldaketaren zeinua
+  2. 2 printzipioak finkatzen du unibertsoaren entropia-aldaketak izan dezakeen baliorik txikiena, zero!
+  3. 2 Printzipioak ez du finkatzen ingurunearen eta sistemaren entropia-aldaketen balio erlatiboak: baturaren zeinua finkatuta dago, hori da baldintza murriztailea, baina, bestela, edozein konbinazio gerta daiteke (harekin bateragarri, jakina)
 
 
-  - **6.8 Lan Maximoaren Teorema**
+-----------------------
 
-      - [Kualitatiboki](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_36_84.pdf):
-          - Helburua: Aztergai den sistemaren egoera-aldaketa jakina erabili nahi da lan maximoa (minimoa) lortzeko asmotan
-          - Egoera-aldaketa jakina denez, norberak finkatutakoa esaterako eta sistemaren propietateak *egoera-funtzioak* direnez (diferentzial zehatzak), horien edozein aldaketa finkoa da
-          - *edozein gauza* kalkulatzeko, 2 tresna baino ez dago, oraingoz:
-              - lehen printzipioa: energiaren kontserbazioaren printzipioa
-              - bigarren printzipioa: entropia-emendioaren forman, esaterako
-              - gainera, bi tresnak *unibertsoari dagozkie*: *unibertsoan aplikatu behar dira*
-              - <span style="color:red">hipotesiaren arabera, bi tresnetan sistemarekin lotutakoa finkatuta dago</span>
+## 8. astea
+---------
 
-
-
-      - [Kuantitatiboki (1)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_37_85.pdf):
-          - Irudian adierazi nahi da eragingo den prozesua gertatzen den unibertsoaren inguruneak bi *zati* dauzka:
-              - bero-iturri (itzulgarria): berak egin dezakeen *gauza bakarra* (duen askatasun-gradu bakarra) da energia bero moduan trukatzea
-                  - edozein prozesutan beti eragiten zaio entropia-aldaketa: $dS^{b-i}=\frac{\delta Q^{b-i}}{T^{b-i}}$
-              - lan-iturri (itzulgarria): berak egin dezakeen *gauza bakarra* (duen askatasun-gradu bakarra) da energia lan moduan trukatzea
-                  - edozein prozesutan inoiz ez zaio eragiten entropia-aldaketa: $dS^{l-i} = 0$
-                  - lan-iturri itzulgarriaren ikuspuntutik prozesu denak, itzulgarriak direnez (bere izaeraz), kuasiestaikoak dira baina adiabatikoak ere bai, ezin baitu, inolaz ere, beroa trukatu, *ez baitauka askatasun-gradu termikorik*
-          - Unibertsoaren entropia-aldaketaren atalak dira
-              1. sistemaren ekarpena
-              2. ingurunetik, bero-iturri itzulgarriaren ekarpena
-          <span style="color:red">Entropia-aldaketa osoak *lotzen* ditu bero-iturria eta sistema, azken honen entropia-aldaketaren bidez </span>
-          - Energia-truke osoari dagokionez, hots, unibertsoari dagokion energia-aldaketari dagokionez, eta energia kontserbatu behar denez (1. Printzipioa)
-          <span style="color:red">Energiaren balantzeak *lotzen* ditu lan-iturria eta sistema, azken honen energia-aldaketaren bidez</span>
-      - [Kuantitatiboki (2)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_38_86.pdf):
-          - Azken adierazpenaren irakurketa: sistemaren egoera-aldaketa finkotik lor daitekeen lan maximoak 2 atal dauzka:
-
-          $$\delta W^{l-i} = -\delta W - \left[TdS\left(1 - \frac{T^{b-i}}{T}\right)\right]$$
-          - atalak:
-              1. sistemak **zuzenean *emango*** duen lana: $\delta W$
-                  - lan horren izaera edozein izan daiteke, sistemaren askatasun-graduaren araberakoa: mekanikoa, magnetikoa, elektrikoa, elastikoa...
-                  - gehinetan onartuko da horrelako atalik ez dagoela
-                  - beraz, nahikoa izango da jakitea sistemak *nola trukatzen duen energia bero moduan*: sistemaren $C$ bero-ahalmena ezaguna izango da
-              2. sistematik prozesuan zehar tenperatura-diferentziak gertatzen direnez, horiek aprobetsatuz atera daitekeen lan maximoa
-              horri dagokion adierazpena da *Carnot-en* makina termikoaren adierazpena: $\delta Q \left(1 - \frac{T^{b-i}}{T}\right)=TdS \left(1 - \frac{T^{b-i}}{T}\right)$
-                  - $\delta Q = TdS$ da sistemak $T$ tenperaturan trukatzen duen beroa
-                  $T$ tenperaturaren balioa aldatuz doa, sistema masa finitukoa baita
-                  - $\left(1 - \frac{T^{b-i}}{T}\right)$ da $(T^{b-i}, T)$ tenperatura-diferentziarekin lotutako etekin maximoa, *Carnot-en* zikloari dagokiona, bi tenperatura horien arteako, sistemari dagokiona *aldiunekoa* da, aldatuz baitoa
-
-      - [Kuantitatiboki (3)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_40_88.pdf):
 
 
 
 ---------
 
-**Oct2020-24**  (1.0 - 33.0; guztira 33.0)
 
-- gogorarazi ***Lan Maximoaren Teorema***
+**Oct2020-26**  (1.0 - 39.0; guztira 39.0)
+
+---------
+
+
+<span style="color:red">**Ohiko ordutegia eta eskola-orduaren luzera**</span>    
+
+
+<br>
+<br>
+
+
+**6.8 Lan Maximoaren Teorema**   
+
+- [Kualitatiboki](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_36_84.pdf):     
+
+    - Helburua: Aztergai den sistemaren egoera-aldaketa jakina erabili nahi da lan maximoa (minimoa) lortzeko asmotan    
+
+    - Egoera-aldaketa jakina denez, norberak finkatutakoa esaterako eta sistemaren propietateak *egoera-funtzioak* direnez (diferentzial zehatzak), horien edozein aldaketa finkoa da    
+
+    - *edozein gauza* kalkulatzeko, 2 tresna baino ez dago, oraingoz:    
+
+        - lehen printzipioa: energiaren kontserbazioaren printzipioa    
+
+        - bigarren printzipioa: entropia-emendioaren forman, esaterako   
+
+    - gainera, bi tresnak *unibertsoari dagozkie*: *unibertsoan aplikatu behar dira*    
+
+        - <span style="color:red">hipotesiaren arabera, bi tresnetan sistemarekin lotutakoa finkatuta dago</span>     
+
+- [Kuantitatiboki (1)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_37_85.pdf):     
+
+    - Irudian adierazi nahi da eragingo den prozesua gertatzen den unibertsoaren inguruneak bi *zati* dauzka:    
+
+        - bero-iturri (itzulgarria): berak egin dezakeen *gauza bakarra* (duen askatasun-gradu bakarra) da energia bero moduan trukatzea   
+
+            - edozein prozesutan beti eragiten zaio entropia-aldaketa: $dS^{b-i}=\frac{\delta Q^{b-i}}{T^{b-i}}$   
+
+        - lan-iturri (itzulgarria): berak egin dezakeen *gauza bakarra* (duen askatasun-gradu bakarra) da energia lan moduan trukatzea   
+
+            - edozein prozesutan inoiz ez zaio eragiten entropia-aldaketa: $dS^{l-i} = 0$   
+
+            - lan-iturri itzulgarriaren ikuspuntutik prozesu denak, itzulgarriak direnez (bere izaeraz), kuasiestaikoak dira baina adiabatikoak ere bai, ezin baitu, inolaz ere, beroa trukatu, *ez baitauka askatasun-gradu termikorik*    
+
+    - Unibertsoaren entropia-aldaketaren atalak dira    
+
+        1. sistemaren ekarpena    
+
+        2. ingurunetik, bero-iturri itzulgarriaren ekarpena
+    <span style="color:red">Entropia-aldaketa osoak *lotzen* ditu bero-iturria eta sistema, azken honen entropia-aldaketaren bidez </span>    
+
+    - Energia-truke osoari dagokionez, hots, unibertsoari dagokion energia-aldaketari dagokionez, eta energia kontserbatu behar denez (1. Printzipioa)    
+
+    <span style="color:red">Energiaren balantzeak *lotzen* ditu lan-iturria eta sistema, azken honen energia-aldaketaren bidez</span>   
+
+- [Kuantitatiboki (2)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_38_86.pdf):     
+
+    - Azken adierazpenaren irakurketa: sistemaren egoera-aldaketa finkotik lor daitekeen lan maximoak 2 atal dauzka:
+
+      $$\delta W^{l-i} = -\delta W - \left[TdS\left(1 - \frac{T^{b-i}}{T}\right)\right]$$
+
+    - atalak:     
+
+        1. sistemak **zuzenean *emango*** duen lana: $\delta W$     
+
+            - lan horren izaera edozein izan daiteke, sistemaren askatasun-graduaren araberakoa: mekanikoa, magnetikoa, elektrikoa, elastikoa...    
+
+            - gehienetan onartuko da horrelako atalik ez dagoela    
+
+            - beraz, nahikoa izango da jakitea sistemak *nola trukatzen duen energia bero moduan*: sistemaren $C$ bero-ahalmena ezaguna izango da    
+
+        2. sistematik prozesuan zehar tenperatura-diferentziak gertatzen direnez, horiek aprobetsatuz atera daitekeen lan maximoa    
+
+           horri dagokion adierazpena da *Carnot-en* makina termikoaren adierazpena: $\delta Q \left(1 - \frac{T^{b-i}}{T}\right)=TdS \left(1 - \frac{T^{b-i}}{T}\right)$    
+
+              - $\delta Q = TdS$ da sistemak $T$ tenperaturan trukatzen duen beroa     
+                $T$ tenperaturaren balioa aldatuz doa, sistema masa finitukoa baita
+              - $\left(1 - \frac{T^{b-i}}{T}\right)$ da $(T^{b-i}, T)$ tenperatura-diferentziarekin lotutako etekin maximoa, *Carnot-en* zikloari dagokiona, bi tenperatura horien arteako, sistemari dagokiona *aldiunekoa* da, aldatuz baitoa    
+
+- [Kuantitatiboki (3)](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_40_88.pdf):     
+
+
+
 
 - Adibideak:
     1. *[Ariketetako eskemak](https://github.com/jmigartua/TermodinamikaFisikaEstatistikoa2020_2021_ika/blob/master/1_Termodinamika_2020_2021/0_Irudiak/06_41_89.pdf)*
+
+
+---------
+
+**Oct2020-27**  (1.0 - 40.0; guztira 40.0)
+
+---------
+
+
+
+
+---------
+
+**Oct2020-28**  (1.0 - 41.0; guztira 41.0)
+
+---------
+
+
+---------
+
+**Oct2020-29**  (1.0 - 42.0; guztira 42.0)
+
+---------
+
+
+
+<!---    
 
 -----------------------
 
